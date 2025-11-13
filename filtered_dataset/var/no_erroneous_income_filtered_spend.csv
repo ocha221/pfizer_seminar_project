@@ -1,0 +1,2272 @@
+customer_id,age,gender,income,purchase_date,product_id,quantity,spend_amount,payment_method,is_returning,lat,lon,is_q1,is_q2,is_q3
+C4060,,Other,49277.68,2025-03-06,P0028,2,647.64,Online Wallet,False,,152.839655,True,False,False
+C6677,70.0,Other,104988.33,,P0080,-5,350.74,Online Wallet,True,-88.973434,-21.016684,True,False,False
+C3776,,Female,63717.82,,P0053,1,426.04,Cash,True,-81.400966,-24.012479,True,False,False
+C8658,19.0,Male,112513.68,2025-03-22,P0066,-5,98.13,Card,True,,118.212623,True,False,False
+C8650,36.0,Other,69372.28,,P0041,-5,236.36,Cash,True,,,True,False,False
+C6272,25.0,Female,32703.46,,P0052,2,151.76,Card,False,,-161.590603,True,False,False
+C1636,,Other,31573.66,2025-01-18,P0042,9,687.37,Card,True,,,True,False,False
+C9657,25.0,Male,64405.34,,P0037,-5,962.95,Cash,True,-2.883846,,True,False,False
+C2088,42.0,Other,35501.49,,P0086,-5,463.22,Cash,False,-22.134392,,True,False,False
+C2583,,Male,99684.45,,P0001,3,366.14,Cash,False,-24.662449,-121.178547,True,False,False
+C1491,56.0,Other,86358.13,2025-01-08,P0083,8,762.74,Crypto,False,,34.313221,True,False,False
+C8540,,Other,49336.77,2025-03-31,P0041,-5,447.71,Cash,True,,132.049064,True,False,False
+C8142,50.0,Female,30542.24,2025-01-30,P0008,5,625.85,Crypto,True,-31.044537,,True,False,False
+C8960,,Male,96226.75,2025-01-28,P0066,6,983.61,Cash,True,,,True,False,False
+C6602,,Other,31330.84,,P0058,-5,693.51,Online Wallet,True,,,True,False,False
+C3299,54.0,Female,84455.24,2025-01-04,P0013,-5,127.69,Card,True,,154.735477,True,False,False
+C3210,,Male,31977.13,2025-02-12,P0080,6,30.67,Crypto,False,,,True,False,False
+C3773,,Male,62031.68,2025-01-14,P0073,6,835.42,Online Wallet,True,,-85.659067,True,False,False
+C2249,44.0,Other,58697.75,2025-03-28,P0053,4,280.39,Crypto,False,,-19.888665,True,False,False
+C4786,18.0,Other,101219.63,,P0002,8,799.98,Card,False,,,True,False,False
+C7225,,Other,81252.46,,P0091,4,961.38,Crypto,True,,-164.056932,True,False,False
+C9513,44.0,Male,75118.31,2025-03-21,P0099,4,561.3,Crypto,True,,,True,False,False
+C1872,61.0,Female,114267.91,2025-02-07,P0056,10,937.9,Online Wallet,False,,161.930703,True,False,False
+C4931,29.0,Other,95305.18,2025-02-03,P0038,-5,796.72,Card,False,27.349015,4.9498,True,False,False
+C9418,,Other,21284.26,2025-02-21,P0089,-5,971.37,Cash,True,,,True,False,False
+C8516,31.0,Male,78979.18,,P0021,-5,403.23,Cash,True,,105.68286,True,False,False
+C1366,27.0,Female,43760.76,2025-02-02,P0079,1,300.4,Online Wallet,False,,-151.942283,True,False,False
+C4577,,Male,34738.65,,P0023,9,223.81,Card,False,-54.875346,-128.507629,True,False,False
+C2393,37.0,Female,84313.56,2025-01-11,P0038,3,884.44,Card,True,,117.255851,True,False,False
+C1208,,Male,94113.78,,P0072,2,821.42,Online Wallet,True,,,True,False,False
+C1614,36.0,Male,37999.54,2025-02-21,P0076,-5,515.24,Cash,True,,,True,False,False
+C8585,,Other,45457.3,2025-02-13,P0031,-5,766.73,Online Wallet,False,-84.408479,10.88536,True,False,False
+C6575,,Other,114113.78,2025-01-06,P0078,-5,150.54,Crypto,False,-53.546224,,True,False,False
+C4976,52.0,Female,70524.75,2025-01-29,P0081,4,85.03,Online Wallet,True,-71.227936,,True,False,False
+C2220,46.0,Female,21998.27,,P0091,9,123.6,Online Wallet,False,21.85603,,True,False,False
+C5679,,Male,103747.1,2025-02-15,P0095,5,269.12,Cash,True,,173.751937,True,False,False
+C6712,,Male,29598.06,,P0047,10,993.07,Card,True,-84.878608,,True,False,False
+C9149,,Male,56842.68,,P0063,-5,202.35,Online Wallet,True,-42.40227,,True,False,False
+C3099,,Male,28475.02,2025-02-08,P0047,-5,41.85,Cash,False,,,True,False,False
+C8525,62.0,Female,52433.86,,P0084,-5,756.31,Online Wallet,True,,,True,False,False
+C8961,,Other,73649.53,2025-02-12,P0036,6,350.47,Card,False,,,True,False,False
+C6373,56.0,Female,108569.8,,P0078,-5,341.16,Cash,True,-59.680985,,True,False,False
+C9866,18.0,Female,96993.62,,P0063,3,512.39,Card,True,-49.401294,,True,False,False
+C6564,,Other,59519.12,2025-01-09,P0022,-5,481.39,Cash,True,-44.928893,,True,False,False
+C2632,38.0,Male,46058.3,,P0044,-5,804.67,Online Wallet,True,,-72.504496,True,False,False
+C6946,,Other,88374.59,2025-01-21,P0077,-5,901.15,Crypto,False,25.299301,-68.741712,True,False,False
+C3804,42.0,Female,97565.96,,P0059,-5,914.96,Online Wallet,True,,-98.562459,True,False,False
+C6576,68.0,Other,87069.17,,P0093,9,31.86,Card,True,,20.388919,True,False,False
+C4460,29.0,Female,91438.26,,P0058,-5,365.51,Online Wallet,True,,103.047649,True,False,False
+C4677,55.0,Female,69275.17,2025-01-18,P0002,-5,194.95,Online Wallet,False,-84.20172,,True,False,False
+C8190,65.0,Male,77196.39,,P0057,9,424.2,Crypto,False,-9.243187,,True,False,False
+C2799,35.0,Other,45663.95,2025-03-08,P0055,-5,938.98,Crypto,False,,172.212756,True,False,False
+C3721,,Other,67352.64,,P0005,-5,562.1,Cash,False,,-176.567106,True,False,False
+C6893,47.0,Other,52510.12,2025-03-11,P0041,-5,619.47,Crypto,True,-29.922895,-140.52219,True,False,False
+C9009,32.0,Other,101876.92,2025-03-10,P0081,-5,111.14,Crypto,True,,,True,False,False
+C6282,,Other,27298.11,,P0099,-5,810.14,Crypto,True,-11.732158,11.29906,True,False,False
+C5143,,Other,60811.78,,P0038,7,595.7,Card,False,,,True,False,False
+C9132,47.0,Female,64452.84,,P0098,9,180.47,Card,True,,,True,False,False
+C6236,28.0,Female,81019.95,,P0088,6,466.69,Online Wallet,True,,,True,False,False
+C3126,,Female,70638.91,,P0062,1,420.51,Online Wallet,True,-76.961563,160.81893,True,False,False
+C5128,,Female,116651.72,2025-03-04,P0055,1,849.35,Cash,False,-49.162046,,True,False,False
+C4542,,Male,89042.48,2025-02-07,P0051,4,673.09,Online Wallet,True,7.052571,50.022906,True,False,False
+C7068,,Male,60426.49,,P0039,-5,695.16,Cash,True,,,True,False,False
+C9415,18.0,Female,70639.14,,P0029,3,800.88,Crypto,True,-9.038365,,True,False,False
+C8941,24.0,Other,97255.46,,P0046,2,963.3,Cash,True,35.59966,,True,False,False
+C9719,62.0,Other,39473.73,,P0042,1,664.37,Crypto,True,-57.307657,22.07857,True,False,False
+C7611,,Male,116597.57,2025-01-30,P0075,4,808.62,Cash,False,53.698398,-8.301633,True,False,False
+C8545,48.0,Other,72432.37,2025-02-28,P0026,5,280.4,Cash,True,54.63224,-177.605303,True,False,False
+C9465,46.0,Female,98298.22,,P0100,2,735.52,Crypto,True,,-8.853491,True,False,False
+C3574,,Male,37865.29,2025-01-21,P0093,-5,477.95,Crypto,False,,,True,False,False
+C1027,,Other,51904.37,2025-01-16,P0011,-5,537.17,Card,True,,42.837946,True,False,False
+C2812,51.0,Other,47327.82,,P0030,4,175.35,Online Wallet,True,,,True,False,False
+C3855,,Male,56784.74,2025-02-03,P0015,10,721.87,Card,True,,,True,False,False
+C3902,,Male,38699.31,2025-03-03,P0052,-5,109.89,Crypto,True,,,True,False,False
+C2991,26.0,Other,84238.44,,P0076,8,484.84,Online Wallet,False,4.611126,,True,False,False
+C6560,,Female,107819.78,,P0063,2,831.27,Online Wallet,False,89.842088,,True,False,False
+C7698,18.0,Other,46375.77,,P0014,1,670.14,Cash,False,53.708398,,True,False,False
+C7201,28.0,Other,76111.93,,P0030,-5,591.39,Crypto,True,,123.137859,True,False,False
+C5594,67.0,Male,76707.07,2025-01-29,P0033,9,198.18,Cash,True,,37.118178,True,False,False
+C5051,38.0,Other,76435.49,,P0057,-5,417.63,Card,True,-48.761426,136.014345,True,False,False
+C1820,,Male,59775.01,2025-01-27,P0089,-5,610.01,Cash,True,59.841827,,True,False,False
+C5926,,Other,76689.59,,P0042,2,155.44,Online Wallet,True,11.49444,66.805661,True,False,False
+C8857,,Male,25945.07,2025-02-21,P0004,5,494.34,Crypto,True,,-34.542577,True,False,False
+C6468,21.0,Female,95069.51,2025-01-17,P0065,10,937.86,Crypto,False,-66.084886,,True,False,False
+C1400,,Male,76411.44,,P0052,2,807.89,Crypto,True,35.613544,96.678367,True,False,False
+C5840,60.0,Male,21491.1,2025-01-29,P0061,6,348.17,Cash,True,,-142.231544,True,False,False
+C8361,25.0,Other,47829.84,,P0087,-5,126.15,Online Wallet,True,,100.935136,True,False,False
+C1705,37.0,Female,54942.33,2025-02-17,P0056,9,391.82,Cash,False,-40.511176,,True,False,False
+C4479,48.0,Other,89440.2,2025-02-03,P0080,-5,324.3,Online Wallet,True,,,True,False,False
+C4634,59.0,Female,112831.95,,P0068,-5,504.26,Crypto,True,-66.044772,,True,False,False
+C8472,70.0,Other,41760.49,,P0047,6,855.84,Online Wallet,True,,-76.890767,True,False,False
+C1745,,Other,93370.58,2025-02-26,P0087,-5,997.46,Cash,True,,,True,False,False
+C5372,20.0,Male,39318.16,,P0066,2,353.8,Card,False,,,True,False,False
+C2662,57.0,Female,30238.38,2025-03-16,P0067,-5,819.41,Cash,False,-11.249519,,True,False,False
+C7783,,Other,117890.99,2025-01-25,P0024,4,358.62,Online Wallet,True,,-4.652095,True,False,False
+C2596,,Male,47771.03,,P0031,-5,234.57,Crypto,True,-89.538762,,True,False,False
+C7139,,Other,24643.83,,P0098,6,427.28,Crypto,True,,,True,False,False
+C3823,,Female,54965.19,2025-03-21,P0035,5,962.91,Cash,False,,,True,False,False
+C8016,57.0,Other,90155.22,2025-02-24,P0013,10,942.6,Online Wallet,False,22.297225,-61.020654,True,False,False
+C9778,,Male,84340.14,,P0067,-5,741.74,Crypto,False,-21.025296,151.721045,True,False,False
+C8692,,Other,108204.69,,P0097,-5,803.63,Crypto,False,,,True,False,False
+C3661,,Female,88627.23,,P0002,-5,863.2,Crypto,True,,,True,False,False
+C6859,,Female,113153.98,,P0089,8,201.23,Cash,True,15.313041,,True,False,False
+C1879,34.0,Female,105049.89,2025-02-02,P0034,-5,535.97,Card,False,,,True,False,False
+C8298,21.0,Female,60864.1,,P0039,8,197.71,Crypto,True,,,True,False,False
+C3516,46.0,Male,106953.69,2025-02-27,P0080,8,264.49,Crypto,True,,,True,False,False
+C1097,,Other,117109.93,2025-01-05,P0013,3,191.38,Card,True,,,True,False,False
+C6172,45.0,Female,32202.6,2025-03-20,P0069,-5,214.3,Card,False,-62.8166,7.652199,True,False,False
+C1602,61.0,Other,42435.63,2025-02-27,P0097,-5,283.78,Card,False,-36.03113,179.309443,True,False,False
+C5962,18.0,Female,37575.3,,P0056,9,215.91,Card,True,,,True,False,False
+C6893,30.0,Male,114458.73,2025-01-24,P0002,-5,596.29,Online Wallet,True,,,True,False,False
+C5060,,Other,94588.88,2025-01-23,P0012,-5,768.45,Card,True,-2.13443,,True,False,False
+C1089,,Other,54654.33,2025-01-23,P0005,5,258.86,Cash,True,,179.99736,True,False,False
+C8818,,Other,115666.4,,P0045,-5,147.61,Cash,True,59.655681,,True,False,False
+C6563,,Other,117998.26,2025-02-18,P0022,8,526.31,Crypto,True,46.348064,135.456628,True,False,False
+C5846,,Other,57348.4,2025-02-26,P0058,-5,810.81,Crypto,False,-69.702296,,True,False,False
+C4050,,Female,73203.69,2025-02-09,P0005,1,433.41,Crypto,False,,,True,False,False
+C5919,,Other,99695.13,2025-03-17,P0070,-5,232.66,Online Wallet,True,-63.980954,,True,False,False
+C5880,23.0,Female,68204.61,,P0047,-5,12.79,Online Wallet,True,-23.589721,178.727926,True,False,False
+C6076,43.0,Female,55170.51,,P0005,-5,20.66,Card,False,,-51.406597,True,False,False
+C9812,27.0,Other,38248.65,2025-02-12,P0035,7,707.8,Card,False,,-77.789003,True,False,False
+C9008,52.0,Other,58704.01,2025-02-27,P0049,-5,436.95,Online Wallet,True,,155.878019,True,False,False
+C7941,49.0,Female,39326.73,,P0038,8,568.59,Cash,False,-40.337914,88.499127,True,False,False
+C5007,,Female,84103.8,,P0078,-5,419.98,Card,True,,,True,False,False
+C4046,34.0,Other,113800.83,2025-02-18,P0032,-5,21.95,Online Wallet,False,,,True,False,False
+C9016,53.0,Other,57943.56,2025-01-06,P0091,9,293.75,Crypto,True,0.27995,,True,False,False
+C5985,37.0,Male,49658.6,,P0018,-5,740.13,Card,True,,,True,False,False
+C1286,37.0,Male,30908.79,,P0015,7,402.24,Cash,True,-60.483362,,True,False,False
+C7389,,Other,62431.96,2025-02-23,P0011,-5,898.82,Cash,True,34.085105,,True,False,False
+C7330,,Female,73893.12,,P0054,9,703.43,Card,True,64.280286,,True,False,False
+C3834,49.0,Other,95585.56,2025-02-21,P0069,-5,270.7,Card,True,,-14.692306,True,False,False
+C7265,40.0,Other,101725.41,,P0075,4,96.48,Online Wallet,True,,,True,False,False
+C6629,43.0,Male,56088.83,2025-01-23,P0084,5,113.87,Online Wallet,True,-72.392758,135.955238,True,False,False
+C5493,63.0,Other,47440.63,,P0055,-5,835.04,Card,False,-4.327634,-132.438632,True,False,False
+C8275,26.0,Female,36269.98,2025-01-30,P0011,-5,235.72,Cash,True,52.574563,122.18208,True,False,False
+C4149,65.0,Other,46321.1,2025-02-22,P0042,5,249.4,Online Wallet,False,-13.950758,-14.190256,True,False,False
+C3534,49.0,Other,24388.28,,P0025,5,115.99,Online Wallet,True,24.560325,73.845836,True,False,False
+C5535,,Other,30028.36,,P0096,-5,703.82,Crypto,False,,,True,False,False
+C6434,,Female,116464.31,2025-01-10,P0095,9,73.48,Card,True,,,True,False,False
+C8151,,Other,61580.32,2025-03-01,P0092,-5,517.41,Card,True,,159.901587,True,False,False
+C2139,,Other,86154.28,,P0084,4,782.46,Cash,True,,,True,False,False
+C7023,58.0,Other,102059.67,,P0019,10,917.98,Cash,False,,,True,False,False
+C5485,69.0,Other,88756.54,2025-03-08,P0063,10,769.5,Online Wallet,True,36.628515,,True,False,False
+C2275,42.0,Other,63458.5,2025-03-12,P0046,-5,974.89,Crypto,False,,-74.498591,True,False,False
+C2236,,Other,40952.72,,P0021,-5,189.81,Online Wallet,False,,-177.36845,True,False,False
+C6072,,Other,119909.34,,P0021,-5,979.21,Cash,True,,-34.253975,True,False,False
+C5027,,Other,38352.57,2025-03-11,P0001,-5,198.49,Cash,True,,,True,False,False
+C7521,45.0,Other,34331.66,2025-02-21,P0027,10,294.83,Card,True,75.740807,-15.836575,True,False,False
+C7247,,Other,24350.35,,P0005,4,950.35,Card,False,,20.869614,True,False,False
+C1342,,Other,51892.54,2025-03-30,P0077,-5,762.2,Online Wallet,True,,,True,False,False
+C8591,,Other,83946.45,2025-03-01,P0050,6,596.4,Online Wallet,True,43.556311,-105.821279,True,False,False
+C2969,,Female,23929.18,,P0075,-5,49.71,Crypto,True,3.871988,,True,False,False
+C1890,68.0,Other,22937.3,,P0057,9,255.9,Crypto,True,,-132.749121,True,False,False
+C5997,,Other,59886.78,,P0052,-5,635.33,Crypto,True,-39.468931,34.247544,True,False,False
+C8751,63.0,Other,106048.62,,P0072,-5,593.11,Crypto,False,,117.841205,True,False,False
+C1453,58.0,Male,80513.73,,P0079,4,779.32,Online Wallet,False,,124.474868,True,False,False
+C2419,28.0,Female,44942.17,,P0075,-5,924.4,Online Wallet,True,,,True,False,False
+C4633,63.0,Other,81640.25,2025-02-11,P0015,-5,998.87,Card,False,,,True,False,False
+C8044,,Female,95274.75,,P0031,10,292.43,Card,False,28.885701,45.639421,True,False,False
+C3103,,Male,81641.88,2025-03-24,P0096,8,768.45,Cash,True,48.331183,56.643606,True,False,False
+C4277,,Male,107959.16,,P0052,-5,933.75,Card,True,18.837111,60.058904,True,False,False
+C7838,,Other,82268.89,2025-01-26,P0036,-5,61.74,Cash,False,-80.857364,,True,False,False
+C9857,,Other,91818.07,,P0092,5,138.13,Cash,True,,,True,False,False
+C4990,,Male,46789.61,2025-02-24,P0015,7,90.16,Cash,True,,,True,False,False
+C6274,,Male,88546.66,,P0086,-5,607.11,Online Wallet,True,,,True,False,False
+C2482,68.0,Other,109746.15,,P0037,-5,436.88,Cash,True,-11.501124,144.184379,True,False,False
+C4184,39.0,Other,68978.8,,P0015,5,662.06,Card,True,42.816667,,True,False,False
+C5109,,Male,100656.92,2025-03-10,P0036,3,529.6,Cash,False,42.734964,,True,False,False
+C5202,58.0,Other,20934.07,,P0096,-5,406.02,Cash,True,-60.429897,,True,False,False
+C6578,48.0,Other,86370.49,,P0024,-5,502.71,Cash,True,,-164.384324,True,False,False
+C9388,19.0,Other,46812.59,,P0090,-5,413.11,Online Wallet,True,,,True,False,False
+C3669,33.0,Female,43257.48,2025-01-11,P0026,10,990.69,Card,True,10.620736,,True,False,False
+C6737,,Female,23408.01,,P0031,9,327.32,Card,False,,-20.016829,True,False,False
+C6740,,Female,85589.86,2025-03-21,P0001,-5,784.75,Cash,False,-64.657741,,True,False,False
+C8758,21.0,Other,60580.37,2025-01-30,P0071,-5,82.39,Online Wallet,False,,,True,False,False
+C7760,,Other,49675.85,,P0091,6,600.14,Card,True,,,True,False,False
+C4601,23.0,Other,107244.19,,P0096,2,528.58,Crypto,False,,,True,False,False
+C2119,55.0,Other,25116.54,,P0022,2,982.41,Card,True,,22.157328,True,False,False
+C3068,29.0,Female,65913.15,,P0053,-5,337.51,Card,True,,,True,False,False
+C5863,,Other,25057.88,,P0038,10,382.62,Online Wallet,False,,-3.915721,True,False,False
+C2165,36.0,Male,91005.22,2025-01-09,P0061,-5,238.99,Cash,True,,,True,False,False
+C6588,,Other,23538.78,,P0080,-5,559.41,Online Wallet,False,,,True,False,False
+C4104,,Other,78613.59,,P0071,-5,820.5,Crypto,True,,-1.325513,True,False,False
+C8403,57.0,Female,38572.72,2025-03-08,P0037,9,871.22,Card,True,,-132.481318,True,False,False
+C8031,,Female,41760.96,2025-02-18,P0009,-5,306.17,Card,True,-33.412178,,True,False,False
+C3680,54.0,Other,51326.67,,P0054,-5,181.05,Card,False,-34.472141,-157.247639,True,False,False
+C8843,66.0,Male,48132.2,,P0088,-5,613.49,Online Wallet,True,-72.466477,0.59741,True,False,False
+C2757,,Other,96155.82,,P0078,-5,109.13,Online Wallet,True,,-28.180171,True,False,False
+C3804,52.0,Other,90448.45,2025-01-11,P0065,-5,98.59,Online Wallet,True,21.414739,,True,False,False
+C4507,,Male,24302.18,2025-02-15,P0026,9,175.66,Card,True,,,True,False,False
+C8216,,Other,39486.69,2025-03-02,P0053,4,840.44,Cash,False,,-77.770651,True,False,False
+C1534,51.0,Male,54568.11,2025-03-18,P0063,8,316.42,Crypto,True,,-2.653794,True,False,False
+C3222,70.0,Other,84726.54,2025-03-24,P0087,8,641.67,Cash,False,-66.824961,69.824236,True,False,False
+C7833,,Female,70791.18,,P0019,5,862.28,Online Wallet,False,,81.424106,True,False,False
+C2337,68.0,Female,73020.67,2025-01-09,P0019,-5,58.53,Crypto,False,49.036903,35.033095,True,False,False
+C1768,,Other,76333.98,2025-03-08,P0094,2,970.74,Online Wallet,True,,,True,False,False
+C8816,40.0,Male,53917.6,2025-02-24,P0086,-5,511.84,Crypto,True,,,True,False,False
+C3766,23.0,Male,86212.08,,P0094,-5,389.52,Online Wallet,True,,,True,False,False
+C1457,18.0,Other,71581.44,2025-02-11,P0007,-5,480.05,Online Wallet,False,12.277366,,True,False,False
+C1764,31.0,Other,75313.21,2025-02-21,P0076,-5,759.87,Online Wallet,True,,106.335641,True,False,False
+C4678,,Other,104013.95,,P0054,5,880.8,Cash,True,,136.834624,True,False,False
+C4169,,Male,74629.15,,P0006,-5,816.26,Crypto,True,87.094603,,True,False,False
+C3660,21.0,Female,25080.71,,P0095,8,818.11,Card,True,,-171.813328,True,False,False
+C7569,,Female,47291.64,2025-01-06,P0063,-5,249.22,Card,True,59.525226,,True,False,False
+C3788,,Other,114121.03,,P0084,10,851.52,Cash,False,-1.276375,138.233564,True,False,False
+C2006,25.0,Other,89098.54,,P0062,-5,679.31,Cash,True,-35.941391,-73.174201,True,False,False
+C1626,27.0,Female,23464.88,,P0080,-5,698.3,Card,False,-37.587863,155.849987,True,False,False
+C7893,50.0,Male,104144.22,2025-03-17,P0073,-5,426.34,Card,True,,168.697438,True,False,False
+C7972,50.0,Other,64346.84,,P0100,5,56.2,Cash,False,,,True,False,False
+C4734,53.0,Other,44492.71,2025-02-27,P0041,5,131.77,Cash,False,,,True,False,False
+C9075,59.0,Other,51561.13,2025-03-09,P0086,-5,937.48,Cash,False,,-45.477558,True,False,False
+C7261,50.0,Female,118386.78,2025-02-20,P0048,7,525.59,Online Wallet,True,-11.673142,,True,False,False
+C5494,44.0,Male,58313.69,,P0014,-5,259.24,Crypto,True,,,True,False,False
+C8179,60.0,Female,39737.0,2025-01-01,P0075,7,43.46,Card,False,,-172.028177,True,False,False
+C7036,,Female,32903.56,,P0058,-5,42.43,Cash,True,50.612851,,True,False,False
+C5280,40.0,Male,31685.66,2025-03-09,P0092,-5,294.29,Crypto,False,-37.531833,,True,False,False
+C7940,53.0,Female,60236.53,,P0045,8,499.96,Crypto,True,,-135.353017,True,False,False
+C1184,32.0,Female,91316.01,2025-02-01,P0001,7,497.03,Online Wallet,True,,-177.345396,True,False,False
+C6861,,Other,56922.33,,P0077,10,274.05,Online Wallet,False,,-32.460855,True,False,False
+C2989,49.0,Other,65077.74,,P0012,-5,68.56,Online Wallet,True,31.306344,,True,False,False
+C7332,33.0,Other,112494.27,,P0028,5,964.9,Online Wallet,False,,21.832916,True,False,False
+C8313,,Other,85705.27,2025-02-01,P0096,-5,943.89,Online Wallet,False,35.133535,,True,False,False
+C8646,,Male,64364.32,,P0090,-5,248.73,Online Wallet,False,-56.206311,-138.299973,True,False,False
+C1934,,Other,46750.15,,P0017,10,42.91,Crypto,True,-16.053199,52.885368,True,False,False
+C4982,25.0,Other,74407.99,,P0041,5,786.02,Crypto,True,,-62.452955,True,False,False
+C3831,,Female,48982.36,2025-01-25,P0038,-5,445.94,Card,True,-0.174784,,True,False,False
+C3149,,Other,28000.4,,P0070,9,438.1,Card,True,,-132.296467,True,False,False
+C9577,,Other,77913.1,2025-01-03,P0077,4,975.47,Online Wallet,False,-4.553349,,True,False,False
+C1688,,Other,41657.78,2025-03-12,P0011,-5,683.58,Online Wallet,True,,,True,False,False
+C1094,,Female,33053.88,,P0071,-5,161.25,Card,True,65.048648,,True,False,False
+C2991,,Other,104915.66,2025-03-25,P0075,4,281.6,Card,True,79.510567,,True,False,False
+C9775,41.0,Other,101556.15,,P0083,-5,799.55,Crypto,False,,103.374249,True,False,False
+C2918,,Male,92249.86,,P0022,5,65.54,Cash,True,-14.053857,,True,False,False
+C5608,,Other,70169.38,2025-03-17,P0023,-5,403.93,Card,True,10.752782,-58.733374,True,False,False
+C6873,,Other,38674.18,2025-02-18,P0004,-5,51.47,Cash,False,-85.433909,,True,False,False
+C5545,,Other,53652.31,2025-03-10,P0010,5,628.37,Online Wallet,False,,,True,False,False
+C5959,,Other,80935.91,,P0100,-5,146.25,Online Wallet,True,,-138.958027,True,False,False
+C7721,51.0,Other,24626.26,,P0019,-5,223.66,Cash,False,,131.660815,True,False,False
+C3034,,Male,70391.54,,P0034,-5,80.14,Card,True,,91.507658,True,False,False
+C5744,,Female,61233.67,,P0054,-5,833.29,Cash,True,,,True,False,False
+C2962,,Other,80586.01,,P0092,6,866.67,Crypto,True,-64.856463,-72.320203,True,False,False
+C4526,,Other,109372.32,2025-01-19,P0053,-5,925.94,Cash,True,-57.812096,-172.540881,True,False,False
+C8503,,Other,96314.02,,P0015,2,315.09,Cash,False,89.166617,,True,False,False
+C5873,31.0,Female,58777.63,,P0058,9,670.38,Crypto,False,,,True,False,False
+C5523,26.0,Male,108976.05,,P0080,-5,295.13,Cash,False,,,True,False,False
+C7194,34.0,Other,66187.07,2025-01-21,P0044,-5,83.72,Online Wallet,True,,,True,False,False
+C1482,,Other,57512.27,2025-02-12,P0031,-5,82.04,Cash,True,,134.419824,True,False,False
+C4079,20.0,Other,59016.06,2025-01-15,P0038,10,990.68,Cash,False,3.475397,,True,False,False
+C9564,,Male,60407.47,2025-01-04,P0062,4,71.44,Crypto,True,,-94.424779,True,False,False
+C7032,21.0,Male,56061.6,2025-02-07,P0092,-5,825.42,Card,False,-37.694781,24.534106,True,False,False
+C6521,,Other,90629.59,2025-01-27,P0002,10,726.42,Online Wallet,False,,,True,False,False
+C9868,,Other,64777.05,2025-02-14,P0046,-5,925.83,Cash,True,,71.718229,True,False,False
+C6383,,Male,65287.95,,P0049,7,822.45,Crypto,True,51.378488,,True,False,False
+C8366,56.0,Other,59999.18,,P0013,9,320.97,Card,True,-1.984266,,True,False,False
+C9264,,Other,91751.71,,P0032,4,373.73,Online Wallet,True,47.46267,-30.46609,True,False,False
+C3038,31.0,Other,119823.33,2025-01-17,P0044,-5,308.01,Cash,False,,,True,False,False
+C8991,23.0,Female,52673.32,2025-03-18,P0023,7,602.24,Crypto,True,27.111542,82.007648,True,False,False
+C1300,18.0,Female,109649.34,,P0053,6,665.97,Card,True,-71.019493,64.464075,True,False,False
+C1836,,Other,86458.58,,P0062,-5,393.73,Online Wallet,True,83.499041,,True,False,False
+C3487,,Female,30890.07,,P0029,5,605.99,Crypto,False,77.174192,-105.846786,True,False,False
+C8761,59.0,Male,81325.32,,P0050,3,749.91,Cash,True,-2.206478,-40.047319,True,False,False
+C4119,,Male,31315.03,2025-03-15,P0050,-5,257.5,Cash,True,16.698143,,True,False,False
+C6084,,Female,48648.65,2025-01-21,P0022,6,774.61,Crypto,False,,,True,False,False
+C4013,,Other,30590.4,,P0061,-5,345.34,Crypto,True,-77.595914,,True,False,False
+C4089,20.0,Other,70951.9,,P0093,-5,977.23,Online Wallet,True,17.6846,,True,False,False
+C1461,65.0,Female,73496.22,2025-03-05,P0063,-5,103.58,Card,True,,-124.596242,True,False,False
+C7229,,Male,83657.78,,P0091,-5,111.13,Crypto,True,,-5.383815,True,False,False
+C5036,,Male,116795.7,,P0081,6,97.59,Crypto,True,57.056844,157.302162,True,False,False
+C4518,,Other,104608.91,2025-03-03,P0080,-5,787.88,Cash,True,-20.111568,-58.902641,True,False,False
+C7136,,Female,104511.3,2025-01-03,P0026,2,755.35,Crypto,True,-81.236441,,True,False,False
+C4271,,Other,92979.18,2025-01-18,P0092,-5,679.73,Crypto,True,,59.846832,True,False,False
+C5708,,Other,76901.01,2025-03-16,P0050,1,461.36,Crypto,True,,,True,False,False
+C1684,,Other,82442.69,,P0052,-5,856.03,Card,False,,,True,False,False
+C5442,,Female,44875.74,,P0005,9,522.21,Crypto,True,14.803378,,True,False,False
+C1251,62.0,Other,93448.39,2025-02-19,P0005,-5,702.86,Cash,True,14.943757,,True,False,False
+C6819,40.0,Female,108691.69,,P0010,-5,584.09,Online Wallet,False,,-73.040125,True,False,False
+C1960,40.0,Other,36033.86,2025-03-25,P0081,10,903.72,Card,False,,,True,False,False
+C3914,69.0,Other,30536.53,,P0072,-5,248.11,Online Wallet,True,,-155.270296,True,False,False
+C2265,,Other,75541.06,2025-01-05,P0040,-5,144.45,Card,True,,,True,False,False
+C5534,35.0,Male,32917.18,,P0085,1,904.32,Online Wallet,False,,-88.385107,True,False,False
+C8513,,Male,119885.18,,P0076,-5,83.25,Crypto,False,,,True,False,False
+C8455,64.0,Female,117020.62,,P0031,3,634.39,Online Wallet,True,40.074853,36.815928,True,False,False
+C9589,,Other,42427.57,,P0052,2,925.36,Crypto,True,-73.186369,,True,False,False
+C9068,56.0,Other,52093.01,2025-01-26,P0006,7,238.35,Card,True,,42.191929,True,False,False
+C8321,32.0,Female,21112.64,2025-02-14,P0055,-5,991.64,Online Wallet,True,21.876467,,True,False,False
+C5057,43.0,Other,27464.0,,P0018,-5,875.29,Crypto,False,-21.018968,,True,False,False
+C6807,42.0,Female,76115.83,2025-03-25,P0077,4,996.0,Cash,True,35.32758,,True,False,False
+C7241,,Other,65764.98,,P0085,5,369.56,Online Wallet,True,,,True,False,False
+C2627,23.0,Male,76338.58,,P0060,6,208.73,Crypto,True,,163.125729,True,False,False
+C5158,,Male,90929.94,,P0097,-5,703.38,Cash,False,51.870717,-167.39532,True,False,False
+C6313,,Other,31710.02,,P0084,5,494.36,Cash,True,20.009862,-50.506462,True,False,False
+C1392,34.0,Male,77322.06,,P0073,-5,801.87,Crypto,True,3.256619,,True,False,False
+C7200,32.0,Female,113303.47,2025-01-06,P0045,1,579.21,Cash,True,-62.571674,,True,False,False
+C4143,57.0,Male,38190.48,,P0040,-5,802.92,Cash,True,,,True,False,False
+C4193,47.0,Female,113421.57,2025-03-28,P0014,-5,283.97,Cash,False,48.174432,60.69039,True,False,False
+C2555,51.0,Female,65562.0,2025-02-01,P0027,7,226.68,Crypto,True,-20.64252,,True,False,False
+C2100,,Other,56499.24,,P0068,-5,301.99,Cash,True,-9.252204,,True,False,False
+C5503,,Female,25173.13,2025-02-24,P0080,7,618.66,Cash,True,,,True,False,False
+C7117,,Male,112064.23,2025-01-03,P0082,6,68.37,Cash,True,-17.445971,,True,False,False
+C7251,,Other,96511.92,,P0032,2,238.93,Cash,True,,,True,False,False
+C3199,,Other,116937.25,,P0099,7,28.86,Cash,True,,-55.694627,True,False,False
+C2919,65.0,Other,119548.43,,P0038,6,287.19,Cash,True,,,True,False,False
+C3273,,Female,78627.21,,P0066,6,381.17,Cash,True,,,True,False,False
+C8451,68.0,Other,119876.85,,P0050,-5,302.38,Cash,True,,-154.766351,True,False,False
+C8693,68.0,Male,108965.31,,P0052,2,850.28,Crypto,False,,-99.680775,True,False,False
+C7041,23.0,Female,69898.8,,P0054,2,755.49,Card,False,,,True,False,False
+C9334,,Female,30450.86,2025-02-05,P0005,-5,348.54,Online Wallet,True,,,True,False,False
+C4116,61.0,Female,38860.02,2025-01-12,P0040,10,765.97,Cash,True,,,True,False,False
+C6686,,Other,30290.51,,P0064,-5,554.14,Online Wallet,True,,,True,False,False
+C6321,,Other,85922.01,,P0031,-5,234.19,Card,True,,,True,False,False
+C4644,60.0,Other,69130.63,2025-01-24,P0085,8,739.91,Crypto,True,,142.419662,True,False,False
+C5272,,Female,58057.01,2025-02-08,P0027,3,431.41,Cash,True,-8.9849,-21.311183,True,False,False
+C9951,42.0,Female,60579.43,2025-02-27,P0089,2,572.18,Crypto,True,,50.380348,True,False,False
+C5662,52.0,Female,98304.89,2025-01-10,P0046,7,220.06,Online Wallet,True,,-85.21734,True,False,False
+C7323,42.0,Male,31514.71,,P0094,-5,669.2,Card,True,-28.939815,75.368171,True,False,False
+C6016,49.0,Other,109594.7,2025-01-15,P0099,5,813.15,Online Wallet,False,,26.275243,True,False,False
+C3974,,Other,106045.34,,P0057,-5,350.34,Card,False,23.339909,,True,False,False
+C5554,19.0,Female,117220.56,,P0056,-5,347.46,Crypto,False,,-143.095855,True,False,False
+C1172,38.0,Other,20441.89,2025-03-14,P0044,2,578.95,Cash,False,,,True,False,False
+C5160,,Female,20186.83,,P0012,3,131.0,Crypto,True,3.19463,-163.049391,True,False,False
+C5785,65.0,Male,23094.41,,P0094,6,410.76,Online Wallet,False,,,True,False,False
+C4383,,Other,116631.53,2025-02-21,P0060,3,859.91,Cash,True,-60.961027,,True,False,False
+C1077,60.0,Other,107313.85,2025-01-29,P0079,-5,443.3,Crypto,False,,,True,False,False
+C7388,,Male,55586.47,,P0059,-5,692.21,Cash,True,-11.844272,14.6593,True,False,False
+C9018,,Other,91065.07,2025-02-06,P0095,2,44.42,Card,False,6.971538,-19.722867,True,False,False
+C2993,61.0,Other,72226.71,2025-02-14,P0035,-5,579.13,Crypto,True,,,True,False,False
+C8043,,Female,28457.39,,P0010,-5,141.89,Card,True,,-88.534288,True,False,False
+C4379,,Other,25069.47,,P0012,-5,100.42,Card,True,21.892568,-110.727684,True,False,False
+C5417,,Male,65973.48,,P0063,-5,656.31,Online Wallet,False,-87.55139,,True,False,False
+C2363,,Female,55816.65,2025-03-25,P0092,8,51.81,Crypto,True,,,True,False,False
+C6214,55.0,Other,64286.15,2025-02-28,P0053,-5,319.27,Crypto,True,,-40.518163,True,False,False
+C8811,,Female,118109.05,,P0076,-5,401.39,Card,False,,,True,False,False
+C4605,,Other,108895.92,2025-03-29,P0078,3,490.99,Crypto,True,59.072552,-112.721922,True,False,False
+C8938,40.0,Other,74781.54,,P0004,7,87.92,Online Wallet,False,25.341216,53.838044,True,False,False
+C2299,,Other,54175.13,,P0017,-5,824.2,Crypto,True,,,True,False,False
+C9687,49.0,Other,90203.93,2025-02-08,P0008,4,664.58,Cash,True,-77.480395,,True,False,False
+C2924,52.0,Other,50282.43,2025-01-01,P0051,7,697.7,Crypto,True,,,True,False,False
+C6809,40.0,Other,68435.65,2025-01-22,P0061,3,279.43,Crypto,True,,,True,False,False
+C9567,,Male,91906.93,2025-03-14,P0022,-5,243.04,Crypto,False,-60.698777,-175.05361,True,False,False
+C4510,,Other,61156.53,,P0034,8,891.75,Cash,False,67.021533,110.169489,True,False,False
+C1146,35.0,Other,67803.86,2025-01-03,P0014,-5,285.04,Online Wallet,True,6.505431,,True,False,False
+C5819,58.0,Female,118722.67,2025-03-22,P0041,4,644.27,Card,True,-63.853772,-90.488665,True,False,False
+C8608,,Other,114275.11,,P0016,9,202.19,Card,True,44.415389,,True,False,False
+C2130,,Female,35019.89,,P0064,8,328.89,Card,True,,-153.268345,True,False,False
+C2587,,Female,107607.55,,P0023,3,600.79,Crypto,True,,,True,False,False
+C8599,53.0,Female,114948.27,2025-03-31,P0097,9,447.64,Crypto,False,,,True,False,False
+C3261,,Other,36108.46,,P0050,-5,67.28,Cash,True,76.305997,,True,False,False
+C5144,,Male,64989.83,2025-01-08,P0077,1,486.03,Online Wallet,True,,,True,False,False
+C3072,51.0,Male,103023.96,,P0056,10,111.82,Crypto,True,,-41.875393,True,False,False
+C9381,,Other,104171.9,,P0077,3,807.87,Cash,True,6.96931,-166.568063,True,False,False
+C1360,52.0,Other,84846.64,2025-01-04,P0056,6,378.1,Crypto,False,,-146.753688,True,False,False
+C4578,,Female,79325.91,2025-02-12,P0090,5,972.54,Crypto,True,-4.517183,,True,False,False
+C2288,,Male,97077.98,,P0014,3,751.34,Online Wallet,True,,,True,False,False
+C1616,,Other,58872.65,2025-03-17,P0069,-5,239.24,Online Wallet,False,59.107958,,True,False,False
+C8266,,Male,66648.36,2025-02-26,P0023,-5,748.63,Cash,True,,,True,False,False
+C5032,34.0,Other,61961.29,,P0093,9,107.85,Card,False,58.370245,-25.727302,True,False,False
+C2262,,Female,102771.22,2025-01-17,P0029,-5,113.37,Crypto,True,,,True,False,False
+C8521,,Other,71533.66,2025-02-12,P0080,1,945.67,Crypto,False,,,True,False,False
+C5944,45.0,Female,113287.04,,P0060,-5,719.15,Card,True,54.382776,-111.37131,True,False,False
+C9383,,Male,100650.1,,P0069,2,560.26,Online Wallet,False,25.397844,123.672502,True,False,False
+C8156,55.0,Other,111417.58,,P0098,-5,181.44,Online Wallet,True,,-49.642158,True,False,False
+C8426,26.0,Female,98944.16,,P0045,6,674.2,Card,False,-51.551562,-85.08912,True,False,False
+C1263,18.0,Male,115304.68,2025-01-13,P0058,6,135.79,Online Wallet,True,,-56.811993,True,False,False
+C7236,,Other,48630.43,2025-03-17,P0009,-5,818.67,Online Wallet,True,-4.955661,,True,False,False
+C7670,64.0,Other,46923.72,,P0099,10,167.15,Crypto,True,,1.739317,True,False,False
+C2646,66.0,Other,37802.12,2025-03-27,P0077,-5,710.07,Card,False,,,True,False,False
+C9292,,Female,88752.48,2025-01-16,P0070,5,484.57,Online Wallet,False,,,True,False,False
+C4792,,Female,79873.9,2025-03-28,P0047,-5,628.88,Card,False,39.035041,-154.585456,True,False,False
+C9104,66.0,Female,50162.49,2025-02-28,P0034,2,153.65,Crypto,True,37.28234,,True,False,False
+C9009,,Female,71135.68,,P0045,-5,172.14,Online Wallet,False,-14.435899,,True,False,False
+C8721,50.0,Other,50947.66,2025-02-16,P0090,-5,181.6,Cash,False,,-122.873001,True,False,False
+C7491,38.0,Other,61760.5,2025-03-28,P0022,5,712.58,Online Wallet,True,-52.114734,-174.40508,True,False,False
+C7929,,Other,43253.07,2025-01-19,P0002,-5,305.05,Online Wallet,True,,-6.705551,True,False,False
+C1717,45.0,Other,69932.44,2025-02-18,P0074,2,484.27,Crypto,False,25.518659,100.928886,True,False,False
+C8039,,Female,28902.25,2025-01-10,P0013,-5,958.41,Cash,False,-62.227411,-114.272597,True,False,False
+C2929,37.0,Male,74785.89,2025-03-11,P0056,2,929.27,Card,True,32.094125,-63.390107,True,False,False
+C8091,35.0,Other,66297.12,,P0006,5,683.01,Card,False,-28.269958,20.116028,True,False,False
+C4746,,Other,34272.81,2025-02-07,P0042,1,115.8,Cash,False,,-60.909965,True,False,False
+C4189,55.0,Other,46989.51,,P0001,-5,885.03,Cash,False,,,True,False,False
+C3871,19.0,Other,33151.42,,P0095,1,787.3,Crypto,True,-56.215447,,True,False,False
+C1319,,Male,51685.92,2025-03-27,P0069,-5,352.28,Crypto,False,-41.708094,58.510193,True,False,False
+C1510,,Male,103003.35,2025-01-05,P0082,-5,233.71,Card,False,-19.860864,163.316589,True,False,False
+C1992,23.0,Other,54450.66,,P0059,-5,496.04,Online Wallet,True,,46.742221,True,False,False
+C4056,38.0,Other,78292.63,,P0063,8,56.21,Cash,True,78.797348,,True,False,False
+C3961,,Other,57457.68,,P0083,-5,514.37,Online Wallet,True,45.284405,-156.821678,True,False,False
+C7541,,Female,92321.67,2025-01-21,P0034,-5,204.16,Cash,True,-44.437228,,True,False,False
+C5907,,Male,28306.18,,P0057,-5,220.98,Crypto,True,-77.475925,,True,False,False
+C1830,29.0,Other,75145.0,2025-03-10,P0026,7,369.02,Cash,False,,15.966278,True,False,False
+C6077,54.0,Male,45100.69,2025-01-16,P0064,4,901.58,Crypto,True,,,True,False,False
+C7968,,Other,104377.53,,P0034,-5,288.16,Cash,True,,,True,False,False
+C6019,,Other,113550.78,2025-02-06,P0017,-5,457.25,Card,True,-59.424467,,True,False,False
+C2651,41.0,Male,115021.98,,P0088,6,920.2,Card,False,,46.566015,True,False,False
+C2245,62.0,Other,42613.55,2025-03-02,P0084,7,110.32,Online Wallet,False,-81.214165,,True,False,False
+C8559,53.0,Female,56066.3,,P0042,3,484.28,Online Wallet,True,82.913581,,True,False,False
+C2552,,Male,90038.11,2025-02-08,P0014,10,216.88,Online Wallet,True,-59.460695,-34.257937,True,False,False
+C2423,,Other,30940.27,,P0022,9,584.82,Online Wallet,True,,22.768831,True,False,False
+C3011,18.0,Female,96972.91,,P0091,2,311.91,Crypto,False,,,True,False,False
+C3511,18.0,Other,51216.72,,P0073,7,473.86,Crypto,True,,-124.823243,True,False,False
+C7466,33.0,Other,27897.1,,P0043,9,992.59,Online Wallet,True,-48.950169,-165.859199,True,False,False
+C2356,,Other,77856.61,,P0073,-5,537.86,Online Wallet,False,-22.801676,,True,False,False
+C9789,,Male,80599.01,2025-03-01,P0020,3,841.3,Crypto,False,-47.708499,,True,False,False
+C1379,,Other,103566.6,2025-02-28,P0048,5,961.94,Crypto,True,15.130618,-158.57492,True,False,False
+C3245,18.0,Other,84484.22,,P0019,7,824.62,Card,False,53.985183,53.115639,True,False,False
+C8781,18.0,Other,91152.65,,P0022,-5,991.78,Cash,True,,,True,False,False
+C8393,57.0,Other,95621.11,,P0047,-5,510.28,Crypto,False,,148.747545,True,False,False
+C2433,,Other,105984.36,2025-02-06,P0087,-5,322.28,Card,True,,117.986341,True,False,False
+C7814,,Other,91034.04,,P0053,3,770.9,Cash,True,29.279338,46.232143,True,False,False
+C7738,,Female,104548.81,,P0069,7,455.04,Online Wallet,True,-69.566581,,True,False,False
+C5086,64.0,Other,84088.46,,P0080,6,127.99,Online Wallet,True,61.306431,,True,False,False
+C7327,46.0,Male,112544.1,2025-02-09,P0071,-5,622.83,Cash,True,,124.715865,True,False,False
+C8012,,Male,80609.97,,P0053,-5,999.49,Crypto,False,63.49225,,True,False,False
+C5438,25.0,Other,49732.64,,P0062,-5,166.77,Crypto,True,-88.787515,,True,False,False
+C7290,69.0,Other,101508.22,,P0083,8,703.01,Card,False,-73.08079,,True,False,False
+C5834,53.0,Other,106740.87,,P0002,4,939.69,Card,True,56.559742,-111.307942,True,False,False
+C1458,,Male,108351.15,2025-03-23,P0066,-5,322.48,Card,False,,-121.142117,True,False,False
+C2153,,Other,85947.9,,P0092,-5,495.46,Online Wallet,True,,-176.971574,True,False,False
+C7078,,Male,78898.91,2025-03-17,P0030,-5,339.37,Cash,False,,176.229212,True,False,False
+C1094,,Other,111836.41,2025-03-20,P0065,10,879.48,Online Wallet,True,,,True,False,False
+C5045,,Other,52967.8,2025-01-14,P0038,10,349.2,Card,True,76.141876,,True,False,False
+C3936,70.0,Other,42020.38,,P0047,5,498.87,Card,True,55.325253,34.513701,True,False,False
+C6586,,Female,114155.68,2025-03-12,P0092,-5,106.46,Cash,True,,,True,False,False
+C8171,,Male,59153.27,,P0059,-5,805.98,Card,False,,23.632851,True,False,False
+C8745,23.0,Other,91250.65,,P0058,-5,956.42,Crypto,False,,,True,False,False
+C1137,66.0,Female,91010.38,,P0013,5,835.43,Crypto,True,-27.341252,,True,False,False
+C1538,19.0,Male,86108.08,,P0083,1,888.11,Crypto,True,,,True,False,False
+C1353,24.0,Other,27767.49,2025-03-09,P0018,9,869.82,Card,True,-69.024358,,True,False,False
+C3922,,Male,77498.89,2025-02-20,P0034,1,672.67,Cash,False,,-77.121281,True,False,False
+C1188,,Female,32737.08,,P0080,5,427.19,Crypto,True,38.872988,13.583416,True,False,False
+C2367,54.0,Male,113744.63,2025-03-31,P0071,7,836.17,Online Wallet,True,-89.882063,96.631922,True,False,False
+C3030,27.0,Other,90528.84,2025-02-23,P0057,-5,251.83,Cash,True,,43.332948,True,False,False
+C7781,,Female,103819.39,2025-01-30,P0089,3,245.65,Card,True,-19.625029,,True,False,False
+C2265,,Other,54604.54,2025-03-25,P0078,10,99.67,Cash,False,,-0.617447,True,False,False
+C9761,,Other,21895.88,2025-03-20,P0091,8,916.06,Online Wallet,True,53.292753,-41.614993,True,False,False
+C5124,,Other,43503.05,2025-02-16,P0066,4,428.26,Cash,True,,-167.818107,True,False,False
+C7304,41.0,Other,88207.92,,P0033,-5,153.38,Card,False,-48.861076,,True,False,False
+C2197,,Other,63101.68,,P0061,-5,998.22,Cash,True,,0.242914,True,False,False
+C1708,,Female,48113.95,,P0014,6,513.88,Online Wallet,True,,44.885551,True,False,False
+C9653,,Other,76269.03,,P0007,6,842.4,Online Wallet,True,,,True,False,False
+C2808,59.0,Female,110752.81,,P0084,-5,333.03,Crypto,True,-81.684963,,True,False,False
+C9454,62.0,Female,22628.03,,P0068,5,395.2,Card,True,,,True,False,False
+C6037,49.0,Other,118806.19,2025-03-16,P0007,5,519.8,Cash,True,-43.044739,-145.036909,True,False,False
+C7928,,Other,77233.01,2025-02-03,P0080,-5,245.31,Crypto,True,,,True,False,False
+C2831,68.0,Female,71257.67,,P0005,-5,135.15,Cash,True,,,True,False,False
+C2423,,Female,22521.29,2025-02-01,P0090,8,886.07,Crypto,True,,,True,False,False
+C4375,18.0,Male,90223.76,,P0083,5,586.93,Card,True,-36.741669,-172.186519,True,False,False
+C6010,21.0,Other,109611.74,2025-02-27,P0073,-5,914.1,Card,False,,,True,False,False
+C9062,53.0,Other,118520.2,2025-02-15,P0027,5,953.6,Online Wallet,False,,,True,False,False
+C5335,43.0,Male,117227.15,2025-01-07,P0024,7,14.46,Online Wallet,True,17.228021,160.992774,True,False,False
+C9335,50.0,Male,21346.87,2025-01-23,P0031,-5,705.97,Online Wallet,True,,,True,False,False
+C2730,,Female,40677.24,,P0099,3,456.9,Cash,True,62.801921,156.872286,True,False,False
+C1958,,Female,72007.28,,P0038,-5,528.97,Crypto,True,-57.314803,2.211415,True,False,False
+C9909,,Female,54354.23,2025-03-26,P0072,1,568.3,Crypto,True,-66.876994,-26.397393,True,False,False
+C6643,,Other,53034.68,2025-03-29,P0099,-5,652.63,Card,True,,,True,False,False
+C5987,,Other,117216.06,,P0095,-5,775.04,Online Wallet,True,-7.164286,,True,False,False
+C4169,19.0,Female,30464.36,,P0065,-5,526.85,Card,False,-12.009105,31.846835,True,False,False
+C4695,,Other,84488.98,,P0098,5,918.58,Card,False,,-13.439654,True,False,False
+C8707,,Male,115964.83,,P0026,8,874.8,Crypto,True,,,True,False,False
+C5666,,Other,58280.54,2025-01-07,P0068,-5,375.22,Online Wallet,True,0.283287,-17.354568,True,False,False
+C6489,68.0,Male,92993.16,,P0017,-5,858.03,Online Wallet,True,,,True,False,False
+C7244,59.0,Male,37899.66,,P0093,7,350.01,Card,True,,-30.706381,True,False,False
+C1773,,Other,56648.64,,P0015,-5,494.22,Crypto,True,-16.855963,-135.211196,True,False,False
+C2689,,Female,77036.84,2025-03-30,P0011,9,455.73,Card,True,-15.928519,-61.578257,True,False,False
+C4323,,Male,95605.91,,P0004,10,78.42,Cash,True,,,True,False,False
+C4623,,Male,25414.61,,P0025,6,617.06,Card,True,,-164.400831,True,False,False
+C6393,56.0,Female,74937.49,2025-02-03,P0062,-5,513.21,Card,True,43.090405,114.007357,True,False,False
+C1833,49.0,Other,29277.7,2025-02-18,P0041,-5,483.19,Card,True,,54.191386,True,False,False
+C7119,41.0,Other,51195.14,,P0084,-5,947.3,Crypto,True,17.46375,-31.486598,True,False,False
+C8727,67.0,Other,56885.19,2025-03-26,P0028,-5,981.74,Crypto,False,,86.326614,True,False,False
+C4364,42.0,Male,70458.45,2025-01-10,P0034,4,976.71,Crypto,True,,,True,False,False
+C4664,33.0,Other,37675.73,2025-01-09,P0006,-5,605.79,Crypto,False,61.710555,-47.642605,True,False,False
+C2512,,Other,92931.62,,P0076,-5,808.24,Card,True,,-158.992839,True,False,False
+C5705,,Female,36398.4,,P0082,10,368.43,Online Wallet,False,,,True,False,False
+C8821,,Male,56880.81,,P0076,5,950.35,Cash,True,67.577076,,True,False,False
+C3963,,Other,28658.59,,P0042,8,579.84,Card,False,42.42017,,True,False,False
+C8670,,Other,38922.32,2025-03-13,P0030,-5,672.43,Crypto,True,,-154.775968,True,False,False
+C2967,18.0,Other,38459.8,2025-03-27,P0071,3,196.61,Cash,True,,,True,False,False
+C6401,70.0,Other,38639.27,,P0042,3,514.69,Cash,True,,,True,False,False
+C8802,,Male,84992.85,,P0021,-5,996.77,Crypto,True,-61.186034,,True,False,False
+C7347,56.0,Other,21371.2,,P0012,10,986.33,Online Wallet,True,,,True,False,False
+C2301,,Other,71902.0,2025-03-22,P0074,-5,636.34,Online Wallet,True,,,True,False,False
+C5075,30.0,Female,94527.18,2025-02-26,P0045,10,776.82,Online Wallet,True,,,True,False,False
+C3866,,Female,50263.12,,P0015,1,694.21,Online Wallet,True,,-64.100502,True,False,False
+C3007,66.0,Female,29884.59,,P0083,-5,672.96,Crypto,True,,-164.547988,True,False,False
+C4709,,Other,108602.88,,P0072,4,811.95,Crypto,True,,-138.94974,True,False,False
+C2095,,Male,57969.51,,P0021,-5,500.83,Card,False,-50.293647,-136.71582,True,False,False
+C6108,,Male,59668.28,2025-01-17,P0006,-5,165.8,Crypto,False,-27.179252,,True,False,False
+C7682,,Female,81297.14,2025-02-09,P0084,-5,932.61,Card,True,-62.73841,,True,False,False
+C8068,,Other,99455.98,2025-02-26,P0018,5,504.41,Online Wallet,False,,,True,False,False
+C4386,,Other,63631.18,,P0078,-5,373.83,Online Wallet,True,,,True,False,False
+C3940,39.0,Female,71620.31,2025-03-25,P0062,3,858.64,Online Wallet,False,-28.234006,,True,False,False
+C4206,,Male,93404.4,2025-02-19,P0089,10,344.04,Crypto,True,,42.478258,True,False,False
+C5876,,Male,100111.83,2025-03-09,P0098,-5,43.73,Cash,True,-86.604709,125.693759,True,False,False
+C6331,51.0,Other,82558.58,,P0064,-5,908.76,Cash,True,,,True,False,False
+C3033,,Other,98229.32,,P0022,-5,731.87,Online Wallet,True,72.683,-9.095517,True,False,False
+C6798,,Female,60671.98,,P0040,4,196.96,Card,True,1.915886,,True,False,False
+C6890,59.0,Other,77713.95,2025-02-01,P0064,4,561.3,Card,False,,1.252704,True,False,False
+C2721,,Other,69847.79,2025-01-27,P0069,-5,256.0,Crypto,True,,,True,False,False
+C3217,,Other,59623.83,,P0083,-5,701.32,Card,True,,,True,False,False
+C8210,47.0,Female,49185.88,2025-03-11,P0031,-5,69.62,Crypto,True,-15.852629,169.091734,True,False,False
+C1767,56.0,Other,79525.26,2025-02-20,P0032,-5,886.59,Crypto,False,,31.949764,True,False,False
+C2240,,Other,67585.55,2025-01-17,P0047,-5,708.36,Crypto,True,,,True,False,False
+C7391,,Male,108450.4,,P0060,-5,837.08,Online Wallet,True,,-116.426156,True,False,False
+C6442,,Other,74631.83,,P0062,7,644.73,Cash,True,-69.791888,160.792789,True,False,False
+C6140,,Other,106509.21,2025-01-28,P0020,9,33.23,Card,False,,,True,False,False
+C2743,38.0,Other,115096.31,2025-01-11,P0081,9,529.03,Online Wallet,True,,-23.69945,True,False,False
+C3721,28.0,Other,113354.3,2025-03-24,P0066,-5,118.66,Card,False,-65.593991,,True,False,False
+C5392,,Male,111997.58,,P0057,-5,372.02,Crypto,False,21.8599,-22.357799,True,False,False
+C6995,,Male,54291.63,2025-02-03,P0050,7,811.6,Crypto,False,26.049509,-148.464851,True,False,False
+C5705,37.0,Other,47345.02,2025-01-19,P0001,10,257.22,Card,True,-47.131095,13.681025,True,False,False
+C8887,51.0,Male,31412.74,,P0001,6,327.61,Online Wallet,False,-79.906995,80.291264,True,False,False
+C2536,50.0,Other,89286.94,,P0027,8,380.79,Cash,True,-34.23729,-28.125447,True,False,False
+C6842,40.0,Male,71760.97,2025-01-31,P0067,-5,603.23,Card,False,42.598864,,True,False,False
+C4522,,Other,56372.92,,P0095,-5,924.6,Online Wallet,True,,,True,False,False
+C6083,32.0,Male,106672.68,,P0018,7,986.15,Cash,True,,-102.496608,True,False,False
+C4200,39.0,Male,85057.29,2025-02-02,P0003,-5,226.58,Crypto,True,-89.326242,,True,False,False
+C2934,,Other,23828.93,2025-01-12,P0061,-5,565.24,Cash,True,31.10129,178.617884,True,False,False
+C3175,,Other,98195.76,,P0053,5,29.68,Crypto,False,,,True,False,False
+C5438,,Male,115604.6,,P0069,4,912.63,Online Wallet,True,,-145.418915,True,False,False
+C3263,,Other,73364.55,,P0087,7,820.11,Card,True,,101.692425,True,False,False
+C3202,56.0,Other,82458.25,2025-01-24,P0025,-5,556.39,Cash,True,29.392912,-162.261309,True,False,False
+C3947,,Other,48508.04,2025-02-04,P0095,3,835.98,Crypto,True,,-76.168832,True,False,False
+C6781,63.0,Female,49003.97,2025-02-23,P0069,-5,764.4,Crypto,True,-9.202374,,True,False,False
+C6203,,Other,49614.59,2025-03-21,P0078,-5,631.75,Crypto,True,71.205763,,True,False,False
+C3847,,Female,27942.96,,P0098,-5,141.29,Card,True,86.186971,-144.153559,True,False,False
+C9586,43.0,Female,103178.23,,P0031,-5,706.96,Cash,True,,,True,False,False
+C3754,,Other,43181.28,,P0047,5,239.82,Online Wallet,True,,,True,False,False
+C3013,59.0,Male,28603.01,,P0095,-5,659.9,Crypto,False,,-90.497862,True,False,False
+C8678,47.0,Female,89705.51,2025-01-02,P0009,6,292.02,Cash,True,,146.193796,True,False,False
+C7089,,Male,94456.5,2025-03-25,P0058,-5,302.39,Card,True,,,True,False,False
+C4654,,Male,75435.87,2025-01-07,P0067,-5,933.54,Cash,True,49.523803,,True,False,False
+C9513,19.0,Other,84847.76,,P0081,8,193.48,Crypto,True,59.549269,-57.236709,True,False,False
+C6348,27.0,Male,47303.03,2025-01-24,P0033,-5,409.46,Online Wallet,False,55.918247,,True,False,False
+C7273,,Other,108173.69,2025-02-04,P0056,9,456.38,Crypto,False,,36.595196,True,False,False
+C7729,53.0,Female,89364.04,2025-02-14,P0003,2,192.27,Crypto,True,,,True,False,False
+C1893,25.0,Other,96726.3,2025-01-23,P0027,5,934.78,Crypto,True,,173.427758,True,False,False
+C9871,,Other,81598.01,,P0019,8,272.28,Crypto,True,-36.35968,-49.901741,True,False,False
+C6351,65.0,Male,54305.11,2025-02-09,P0072,-5,214.91,Card,True,37.375174,35.521638,True,False,False
+C2423,,Other,98341.61,,P0056,-5,921.31,Crypto,False,-63.273733,,True,False,False
+C7096,34.0,Other,107366.04,2025-01-14,P0086,-5,267.02,Online Wallet,True,,-76.29661,True,False,False
+C6979,40.0,Female,81341.77,2025-01-10,P0008,-5,991.05,Crypto,False,,,True,False,False
+C1018,,Other,58415.33,,P0048,-5,389.65,Card,True,,,True,False,False
+C8785,,Other,78948.27,,P0004,-5,888.62,Crypto,True,,64.91801,True,False,False
+C7751,68.0,Other,97982.44,,P0020,-5,242.97,Card,False,-37.804615,,True,False,False
+C1696,55.0,Female,111206.95,2025-01-13,P0011,-5,484.94,Crypto,False,,,True,False,False
+C4209,50.0,Male,88767.09,2025-03-12,P0045,4,19.69,Crypto,True,-4.301276,,True,False,False
+C8331,,Other,74893.63,,P0041,-5,475.31,Cash,True,33.051645,,True,False,False
+C4299,25.0,Female,54902.85,2025-03-13,P0015,8,117.63,Crypto,False,,,True,False,False
+C7037,43.0,Female,87334.23,,P0031,8,868.23,Online Wallet,True,,,True,False,False
+C8074,,Other,83130.03,2025-03-10,P0096,-5,332.37,Card,True,,,True,False,False
+C6959,59.0,Male,23578.0,,P0091,10,134.84,Online Wallet,True,,,True,False,False
+C7492,51.0,Other,39932.77,2025-03-24,P0016,8,405.07,Crypto,False,,-20.268824,True,False,False
+C5788,,Other,108454.84,2025-03-23,P0062,9,949.84,Cash,True,13.921755,,True,False,False
+C7822,,Male,48116.99,,P0066,4,474.37,Card,True,-34.160272,-168.08164,True,False,False
+C8602,48.0,Other,87742.78,2025-03-27,P0066,8,16.15,Crypto,True,,,True,False,False
+C3557,69.0,Other,22951.19,,P0077,-5,164.43,Online Wallet,True,,-130.205568,True,False,False
+C7615,47.0,Other,45468.92,2025-03-09,P0080,10,777.13,Cash,True,-8.733096,-147.608334,True,False,False
+C4336,44.0,Female,67838.28,,P0095,-5,425.48,Cash,True,-55.770975,-115.001786,True,False,False
+C8884,44.0,Female,103686.44,,P0035,10,220.05,Online Wallet,False,-56.831554,-115.520564,True,False,False
+C9368,,Female,52666.33,2025-02-14,P0090,-5,541.08,Cash,False,7.413126,-34.337113,True,False,False
+C5748,,Other,107682.99,2025-02-12,P0060,-5,273.92,Online Wallet,True,,,True,False,False
+C5157,,Female,106576.38,2025-01-31,P0097,-5,761.0,Card,False,,88.521119,True,False,False
+C7051,,Female,22151.53,,P0051,3,533.13,Cash,True,60.837323,112.715033,True,False,False
+C7872,42.0,Other,49932.12,2025-03-26,P0025,-5,645.69,Crypto,True,,,True,False,False
+C7784,27.0,Male,114016.88,2025-01-29,P0043,10,364.48,Card,True,,90.530625,True,False,False
+C5074,,Male,106919.09,2025-02-06,P0028,9,463.52,Card,True,-31.942825,51.213348,True,False,False
+C4200,,Male,37425.05,2025-01-14,P0069,4,326.53,Cash,True,,,True,False,False
+C2211,,Male,116649.36,,P0043,3,813.63,Card,True,,,True,False,False
+C5441,,Male,97069.46,,P0053,-5,166.76,Card,False,-38.87941,19.581254,True,False,False
+C4888,70.0,Male,41262.06,,P0036,5,496.27,Cash,True,,6.439502,True,False,False
+C6100,,Female,39500.7,2025-01-28,P0060,9,577.54,Cash,True,,30.538537,True,False,False
+C5556,58.0,Male,95891.55,,P0019,-5,539.27,Online Wallet,False,,,True,False,False
+C5480,57.0,Other,97976.06,2025-03-12,P0074,2,813.59,Crypto,True,34.659093,,True,False,False
+C3163,56.0,Female,36182.43,2025-03-30,P0017,3,767.83,Card,True,-12.273068,,True,False,False
+C4112,,Female,33564.37,2025-03-31,P0100,-5,696.51,Card,False,-41.692812,,True,False,False
+C6218,42.0,Other,74747.04,2025-01-29,P0002,-5,195.28,Card,True,,,True,False,False
+C5513,,Other,39168.02,2025-01-31,P0040,8,773.98,Online Wallet,True,,-162.910495,True,False,False
+C3388,,Other,77423.9,2025-02-03,P0035,-5,373.47,Card,True,-56.709229,,True,False,False
+C8451,,Male,98507.91,,P0010,-5,683.64,Card,True,,131.901138,True,False,False
+C1569,43.0,Female,91672.89,,P0031,1,55.62,Online Wallet,True,,-153.66858,True,False,False
+C1432,,Other,54337.91,2025-01-29,P0008,9,340.79,Cash,True,,,True,False,False
+C5766,,Female,106120.32,2025-03-22,P0077,-5,908.21,Crypto,True,,,True,False,False
+C3247,,Female,106808.04,,P0018,-5,226.44,Crypto,True,-89.957629,-114.816592,True,False,False
+C6011,,Female,41414.87,2025-03-18,P0054,1,426.93,Crypto,True,,26.507765,True,False,False
+C3751,35.0,Other,110739.44,,P0034,8,325.5,Crypto,False,,,True,False,False
+C4084,,Other,76188.29,2025-03-10,P0044,-5,706.43,Card,True,,,True,False,False
+C2236,42.0,Other,41220.52,2025-03-01,P0089,5,596.99,Cash,False,-7.637823,165.572233,True,False,False
+C3976,53.0,Female,70048.51,2025-02-03,P0050,-5,427.67,Cash,False,,-54.756747,True,False,False
+C6895,,Male,105863.7,,P0003,6,252.17,Online Wallet,True,,,True,False,False
+C3492,,Other,70008.96,,P0004,4,403.63,Card,True,-49.03505,58.047642,True,False,False
+C3668,,Female,116266.36,,P0057,4,684.67,Cash,False,,-71.891206,True,False,False
+C8590,22.0,Other,48398.37,,P0100,5,114.14,Online Wallet,True,-84.257138,94.150173,True,False,False
+C1416,,Female,35544.78,2025-03-29,P0052,4,419.5,Cash,True,63.40363,,True,False,False
+C3288,,Male,35933.01,,P0034,-5,402.83,Crypto,True,,-163.990804,True,False,False
+C7992,27.0,Female,26378.81,2025-03-26,P0054,10,352.64,Crypto,True,,,True,False,False
+C8278,,Other,74612.19,,P0060,10,829.92,Crypto,True,,,True,False,False
+C2897,,Other,83264.15,2025-02-03,P0072,8,679.52,Cash,True,58.91779,,True,False,False
+C4196,,Female,102268.74,,P0074,-5,860.49,Online Wallet,True,,-27.645486,True,False,False
+C9394,64.0,Other,63997.36,,P0058,5,446.92,Cash,True,31.719812,78.572707,True,False,False
+C2586,29.0,Other,75756.06,,P0031,6,203.43,Cash,True,-17.890929,,True,False,False
+C8435,,Other,114851.15,2025-01-13,P0028,-5,652.17,Cash,True,49.93119,12.546777,True,False,False
+C3660,,Female,104783.71,2025-02-25,P0099,1,695.11,Crypto,True,,,True,False,False
+C3608,,Other,98855.82,,P0042,-5,391.27,Cash,True,-73.216118,-172.397877,True,False,False
+C3240,52.0,Other,46513.96,2025-03-13,P0094,-5,239.74,Card,True,37.244618,-28.738458,True,False,False
+C6325,,Female,103304.06,,P0008,-5,235.16,Crypto,False,-36.829928,,True,False,False
+C8957,,Female,82024.72,,P0011,-5,890.43,Online Wallet,True,,,True,False,False
+C4739,,Other,90403.5,,P0024,10,428.18,Online Wallet,False,62.363824,139.377057,True,False,False
+C5756,,Other,69601.42,,P0050,-5,57.79,Crypto,False,,169.125512,True,False,False
+C3699,39.0,Other,108062.76,,P0041,8,619.84,Card,False,,137.643515,True,False,False
+C4641,,Other,87009.99,2025-01-29,P0001,-5,545.54,Online Wallet,True,-89.737736,,True,False,False
+C1271,,Female,113797.81,,P0006,-5,251.91,Crypto,True,38.670087,139.021643,True,False,False
+C7960,69.0,Other,30592.6,,P0087,8,269.39,Card,False,-81.985464,,True,False,False
+C9307,25.0,Other,28133.14,,P0058,3,92.97,Cash,False,-25.32169,158.131095,True,False,False
+C8005,55.0,Other,119160.01,,P0081,-5,601.5,Crypto,False,47.910673,113.916212,True,False,False
+C7878,,Other,76315.84,2025-03-30,P0079,5,482.62,Cash,True,,-167.785503,True,False,False
+C5743,47.0,Other,38129.33,,P0031,9,424.33,Cash,False,,,True,False,False
+C7446,32.0,Male,87767.07,,P0077,5,611.03,Crypto,False,28.21874,20.25824,True,False,False
+C7726,49.0,Female,108346.78,2025-01-31,P0038,9,736.41,Online Wallet,True,,,True,False,False
+C6578,56.0,Other,118750.71,2025-02-04,P0002,4,62.01,Card,True,-86.858069,,True,False,False
+C1397,,Other,40251.1,2025-03-31,P0012,6,966.46,Cash,False,,11.192667,True,False,False
+C1547,25.0,Other,88533.94,,P0067,-5,594.52,Crypto,True,55.576027,,True,False,False
+C3933,43.0,Other,116340.62,,P0060,-5,589.06,Card,True,40.247093,,True,False,False
+C1235,26.0,Male,38473.74,2025-01-06,P0001,10,426.03,Online Wallet,True,,-63.409653,True,False,False
+C3612,,Other,97243.67,2025-03-21,P0017,-5,402.5,Crypto,True,,-168.891376,True,False,False
+C5216,62.0,Male,80986.19,,P0066,4,576.89,Card,False,,,True,False,False
+C7029,,Female,75822.05,,P0093,3,71.56,Crypto,True,39.229943,,True,False,False
+C5967,,Other,118171.51,2025-03-14,P0004,-5,11.75,Crypto,True,-35.605411,,True,False,False
+C8937,,Other,20023.73,,P0020,-5,470.59,Online Wallet,False,,167.11469,True,False,False
+C5356,,Other,78360.1,,P0001,9,885.4,Cash,True,,-70.595697,True,False,False
+C5348,39.0,Female,96908.22,,P0009,9,499.7,Crypto,False,-33.38181,55.461607,True,False,False
+C3444,,Other,46872.57,,P0003,-5,23.57,Cash,True,,,True,False,False
+C2875,25.0,Other,68522.73,,P0070,-5,673.91,Card,False,,,True,False,False
+C7922,,Other,55323.12,,P0029,-5,347.13,Cash,False,,-3.985245,True,False,False
+C5055,56.0,Other,108682.77,,P0095,-5,702.62,Online Wallet,True,16.688832,,True,False,False
+C2609,,Female,92116.91,,P0071,-5,992.34,Online Wallet,True,48.930579,,True,False,False
+C4796,60.0,Female,86651.41,,P0063,7,445.83,Cash,False,,,True,False,False
+C6248,30.0,Male,43307.76,2025-01-13,P0040,3,879.06,Card,True,26.018631,45.589946,True,False,False
+C1188,,Female,95374.04,2025-01-05,P0039,4,366.54,Online Wallet,False,,73.720048,True,False,False
+C7533,,Female,48299.77,,P0019,7,629.0,Card,False,,126.766614,True,False,False
+C2442,49.0,Other,100278.53,,P0085,-5,32.62,Online Wallet,True,2.929603,-33.906629,True,False,False
+C5105,32.0,Other,89294.34,,P0094,-5,903.77,Crypto,True,,,True,False,False
+C5332,,Other,65323.5,2025-02-15,P0060,-5,292.74,Crypto,True,,116.421214,True,False,False
+C9595,,Other,30147.61,2025-02-16,P0005,-5,811.65,Online Wallet,True,,112.084006,True,False,False
+C7040,,Other,88981.61,,P0024,3,588.94,Cash,True,,102.222099,True,False,False
+C2548,49.0,Other,27861.82,2025-02-19,P0094,5,726.66,Card,True,,,True,False,False
+C6657,,Other,91341.96,2025-02-15,P0005,-5,476.42,Card,False,-67.086672,-43.665928,True,False,False
+C1315,,Other,34404.02,2025-03-17,P0030,-5,58.75,Online Wallet,False,-54.54894,,True,False,False
+C5367,,Female,71652.04,,P0096,10,960.74,Cash,True,-74.012807,95.965614,True,False,False
+C6869,25.0,Other,26839.97,,P0026,3,425.12,Card,True,,,True,False,False
+C9729,21.0,Female,42135.88,2025-01-09,P0001,-5,430.0,Online Wallet,True,67.758615,,True,False,False
+C3378,69.0,Female,84486.74,,P0017,5,343.68,Crypto,True,40.282284,,True,False,False
+C4382,,Male,63561.85,2025-03-12,P0088,-5,122.97,Crypto,True,,,True,False,False
+C6031,,Other,49535.99,2025-03-30,P0094,9,334.46,Online Wallet,True,,-166.128045,True,False,False
+C1339,,Other,63127.68,,P0036,-5,646.28,Online Wallet,False,,,True,False,False
+C2779,45.0,Other,97430.88,2025-03-29,P0076,8,877.97,Cash,True,,36.617319,True,False,False
+C3689,37.0,Male,108647.12,2025-01-25,P0017,-5,448.44,Online Wallet,True,65.309702,140.026678,True,False,False
+C7627,,Female,65779.56,,P0046,-5,95.24,Card,True,-51.674644,,True,False,False
+C7417,59.0,Other,64407.82,2025-02-07,P0001,-5,956.57,Crypto,True,-32.769707,,True,False,False
+C2231,66.0,Other,105881.23,,P0004,-5,813.82,Crypto,True,-83.475474,104.258298,True,False,False
+C6825,54.0,Male,42129.9,,P0014,-5,421.81,Online Wallet,False,42.50906,,True,False,False
+C6729,,Female,63562.65,,P0100,-5,833.38,Cash,True,14.330679,,True,False,False
+C3500,,Male,57305.98,2025-03-28,P0077,7,651.48,Card,False,,176.277607,True,False,False
+C5496,68.0,Female,24090.6,,P0018,4,558.46,Card,True,29.98831,-75.746903,True,False,False
+C5049,36.0,Female,71378.78,,P0025,-5,817.47,Cash,True,-64.917068,,True,False,False
+C4257,18.0,Male,98624.59,,P0038,5,696.89,Cash,False,,,True,False,False
+C7514,49.0,Female,111719.51,2025-02-19,P0060,2,381.52,Online Wallet,True,-11.301168,,True,False,False
+C7021,41.0,Male,42788.07,,P0055,-5,365.48,Card,True,52.437344,151.073588,True,False,False
+C6190,,Other,61308.22,2025-02-09,P0070,-5,705.65,Card,False,,62.084049,True,False,False
+C2429,,Male,49120.09,2025-01-19,P0087,-5,663.35,Card,True,-64.779249,-101.47277,True,False,False
+C9249,,Other,92761.95,2025-01-25,P0060,10,292.74,Crypto,True,,2.431368,True,False,False
+C9306,,Male,36311.86,2025-02-18,P0069,3,43.52,Cash,True,-27.781758,,True,False,False
+C6095,,Female,36941.61,2025-03-14,P0014,-5,659.02,Card,True,,,True,False,False
+C5433,,Female,22219.0,2025-01-04,P0083,6,570.66,Card,False,23.043965,,True,False,False
+C6954,,Other,92962.2,,P0046,10,776.39,Card,False,-66.445008,,True,False,False
+C3964,38.0,Other,99085.91,2025-03-19,P0089,7,844.72,Card,True,-41.247741,-95.710068,True,False,False
+C2491,24.0,Other,75752.18,,P0015,2,491.68,Online Wallet,True,,89.704929,True,False,False
+C1116,57.0,Other,32650.07,,P0075,-5,72.11,Crypto,True,,50.327102,True,False,False
+C9432,,Male,98231.96,2025-03-25,P0037,-5,801.65,Card,False,-41.658724,-107.806449,True,False,False
+C6445,24.0,Other,40098.64,,P0086,-5,844.25,Crypto,False,6.163264,92.690413,True,False,False
+C6446,31.0,Other,31456.43,,P0030,7,934.31,Crypto,True,22.561543,-98.823962,True,False,False
+C2843,,Other,37908.9,,P0028,4,520.16,Crypto,False,34.737775,,True,False,False
+C9020,37.0,Other,93648.87,,P0067,-5,563.31,Card,True,-55.267182,16.632205,True,False,False
+C3363,,Other,56930.39,,P0047,-5,420.93,Cash,False,-64.218588,-26.852086,True,False,False
+C4381,67.0,Other,44831.79,,P0069,-5,969.4,Cash,True,-37.443328,,True,False,False
+C7194,,Male,58760.82,,P0038,-5,493.39,Cash,True,32.236661,,True,False,False
+C7139,,Other,92214.37,2025-01-22,P0087,5,302.07,Card,True,0.114812,15.087571,True,False,False
+C9752,58.0,Male,115381.6,2025-01-11,P0074,3,395.81,Card,True,,,True,False,False
+C8689,,Male,114142.54,2025-01-12,P0004,-5,293.7,Online Wallet,True,,-131.171056,True,False,False
+C2820,21.0,Other,50762.98,2025-03-06,P0073,4,872.29,Crypto,True,64.540958,,True,False,False
+C2135,23.0,Other,115804.19,,P0046,-5,473.84,Crypto,False,-29.250181,,True,False,False
+C2878,,Female,30279.22,,P0060,-5,293.56,Online Wallet,True,50.904995,,True,False,False
+C9686,24.0,Other,87252.57,2025-03-04,P0002,-5,601.04,Cash,False,-50.816527,,True,False,False
+C3991,36.0,Other,95144.18,,P0001,7,999.04,Cash,True,,-141.80254,True,False,False
+C3747,40.0,Other,27078.94,,P0005,8,602.01,Crypto,True,,,True,False,False
+C5704,59.0,Female,40046.87,,P0013,-5,877.64,Online Wallet,True,,6.011178,True,False,False
+C1651,,Other,74250.36,,P0010,-5,60.56,Cash,True,,59.084168,True,False,False
+C1819,,Male,55903.01,2025-01-24,P0007,-5,296.52,Cash,True,85.822431,,True,False,False
+C6731,,Other,84006.39,,P0037,3,133.68,Card,True,-87.39131,-163.336075,True,False,False
+C7243,60.0,Female,106923.18,2025-01-08,P0009,6,641.4,Card,False,-3.060278,-134.41082,True,False,False
+C4917,28.0,Male,32764.63,,P0055,-5,430.49,Crypto,True,,,True,False,False
+C1721,50.0,Other,83314.73,2025-03-19,P0065,-5,868.89,Crypto,True,54.965129,,True,False,False
+C6349,44.0,Female,25107.03,2025-02-03,P0058,-5,347.82,Crypto,True,,106.06076,True,False,False
+C4735,58.0,Other,99298.6,2025-01-15,P0046,-5,330.33,Cash,False,,-112.238869,True,False,False
+C8060,,Other,59031.28,2025-02-11,P0014,-5,498.02,Crypto,True,-63.604056,-80.652561,True,False,False
+C5830,31.0,Female,49737.27,,P0088,-5,284.5,Card,True,,,True,False,False
+C5684,47.0,Male,82470.93,2025-01-04,P0028,8,828.53,Crypto,True,,4.464317,True,False,False
+C4593,28.0,Other,65106.91,2025-02-26,P0087,-5,997.52,Online Wallet,True,-78.698558,,True,False,False
+C4800,,Other,109045.84,,P0010,5,603.02,Cash,True,10.988245,-34.581261,True,False,False
+C6731,,Other,55967.77,2025-02-15,P0048,1,460.18,Online Wallet,True,,-7.425401,True,False,False
+C4905,48.0,Other,98652.4,2025-03-10,P0031,-5,91.37,Online Wallet,True,85.590947,-25.68398,True,False,False
+C1510,,Male,98436.41,,P0011,7,153.62,Card,True,,,True,False,False
+C5485,50.0,Male,75483.56,2025-03-05,P0060,7,824.61,Cash,True,75.479252,,True,False,False
+C4638,53.0,Male,31560.7,2025-01-20,P0022,-5,208.99,Card,True,,-73.326189,True,False,False
+C8718,23.0,Female,60938.59,2025-02-09,P0008,-5,984.83,Crypto,True,28.354798,,True,False,False
+C9259,,Female,30211.02,,P0049,6,189.93,Crypto,True,,139.354528,True,False,False
+C6653,,Male,104399.02,2025-01-01,P0020,-5,192.2,Card,False,,-137.184736,True,False,False
+C8199,52.0,Female,88074.93,2025-02-09,P0078,6,573.11,Card,True,,-114.800003,True,False,False
+C5585,44.0,Other,38752.27,,P0056,-5,74.48,Cash,False,,145.802782,True,False,False
+C1731,,Other,69072.15,2025-02-05,P0050,6,845.23,Online Wallet,True,,85.934577,True,False,False
+C1787,,Other,90142.03,2025-02-01,P0010,9,417.84,Cash,True,,,True,False,False
+C6217,47.0,Other,80674.64,,P0052,6,134.76,Online Wallet,True,,121.050666,True,False,False
+C3837,19.0,Other,106636.23,2025-03-20,P0024,-5,412.24,Crypto,True,,,True,False,False
+C4974,,Other,40131.29,2025-01-23,P0057,-5,569.64,Online Wallet,False,,-143.446392,True,False,False
+C8610,,Other,31896.56,2025-03-27,P0004,6,451.36,Cash,True,-39.642474,,True,False,False
+C7667,24.0,Female,45596.58,2025-03-07,P0087,8,176.45,Card,False,,114.397691,True,False,False
+C6810,,Male,80849.19,,P0007,-5,707.0,Card,True,,,True,False,False
+C7487,65.0,Female,28720.64,,P0017,2,724.65,Crypto,False,,,True,False,False
+C9417,,Male,58318.74,2025-03-26,P0084,-5,173.25,Crypto,True,-39.696348,,True,False,False
+C8704,,Male,112880.52,,P0039,9,549.15,Cash,True,-86.701752,-145.237435,True,False,False
+C8198,51.0,Other,98248.2,2025-02-18,P0045,7,309.26,Card,True,38.836352,46.014435,True,False,False
+C2248,,Female,98302.38,2025-01-12,P0078,9,554.88,Cash,False,,-83.413935,True,False,False
+C8819,62.0,Male,42670.56,,P0007,-5,94.37,Online Wallet,True,-54.211574,33.608441,True,False,False
+C2496,29.0,Other,93440.63,,P0014,4,929.22,Crypto,False,30.342681,81.605681,True,False,False
+C8582,69.0,Female,107378.63,,P0040,3,549.1,Online Wallet,True,,129.850197,True,False,False
+C9340,47.0,Male,64454.19,,P0023,-5,587.02,Online Wallet,True,,,True,False,False
+C4147,,Female,92374.55,2025-03-26,P0006,-5,728.86,Online Wallet,False,-60.162036,144.106865,True,False,False
+C5451,38.0,Male,83255.73,2025-01-05,P0019,9,604.46,Cash,True,-41.825814,,True,False,False
+C8587,32.0,Female,22062.7,2025-03-19,P0063,-5,52.2,Crypto,True,,95.278085,True,False,False
+C9879,,Other,96444.83,2025-01-29,P0030,6,812.0,Online Wallet,True,81.441492,,True,False,False
+C8593,,Female,117563.32,,P0051,10,236.39,Card,False,,141.171027,True,False,False
+C6270,,Other,83397.11,2025-03-17,P0003,8,20.54,Crypto,True,60.767004,,True,False,False
+C7433,32.0,Male,58789.94,,P0084,6,165.61,Card,False,,49.540695,True,False,False
+C2025,,Other,110488.52,2025-02-15,P0079,-5,820.3,Crypto,True,8.987633,,True,False,False
+C3551,,Female,80718.18,,P0047,8,469.15,Online Wallet,True,,,True,False,False
+C4102,23.0,Male,21693.74,,P0030,-5,687.75,Card,False,,,True,False,False
+C1884,18.0,Male,46534.7,2025-03-11,P0058,-5,638.79,Online Wallet,False,,62.808941,True,False,False
+C4472,,Other,54144.34,2025-03-17,P0011,1,65.36,Card,True,-86.53422,-31.583636,True,False,False
+C5102,19.0,Female,83516.88,2025-03-13,P0057,6,122.99,Cash,True,,-46.565295,True,False,False
+C1328,,Other,35585.8,2025-03-12,P0014,-5,959.67,Card,True,-58.953582,,True,False,False
+C8449,66.0,Male,54272.47,2025-03-22,P0025,-5,308.08,Card,True,87.538691,,True,False,False
+C8844,,Other,88762.83,2025-01-25,P0012,5,385.34,Cash,False,,,True,False,False
+C8344,,Other,74641.13,2025-03-14,P0076,-5,11.94,Cash,False,80.751356,,True,False,False
+C4267,,Other,88792.56,,P0090,9,410.78,Card,False,-17.081019,132.647749,True,False,False
+C7059,51.0,Other,99191.11,2025-01-28,P0036,8,594.7,Card,False,-43.188175,-12.923341,True,False,False
+C1374,,Other,31692.31,,P0038,-5,76.13,Card,True,57.92396,-164.562164,False,True,False
+C6925,69.0,Other,106411.11,2025-06-03,P0002,-5,782.83,Cash,False,-29.10216,-0.135914,False,True,False
+C7153,,Other,69467.35,,P0047,9,402.99,Online Wallet,False,,91.446252,False,True,False
+C5475,,Other,74773.38,2025-05-14,P0070,5,910.93,Crypto,True,,-152.337508,False,True,False
+C1045,,Other,80793.6,2025-04-09,P0099,-5,289.05,Crypto,True,,,False,True,False
+C8725,,Female,64230.08,,P0072,-5,846.78,Crypto,True,77.193011,,False,True,False
+C6776,,Other,113183.54,2025-04-19,P0038,-5,448.31,Card,False,,,False,True,False
+C4615,,Female,88187.93,2025-05-23,P0060,-5,520.99,Online Wallet,True,-78.493893,99.564219,False,True,False
+C2985,54.0,Other,84639.73,,P0066,-5,691.21,Cash,True,-83.110222,,False,True,False
+C6641,,Other,26361.21,2025-05-06,P0050,1,665.57,Card,False,,178.931031,False,True,False
+C6575,63.0,Other,105761.76,2025-06-26,P0047,3,599.82,Cash,True,53.579885,-9.226259,False,True,False
+C3083,,Other,60435.13,,P0099,-5,726.37,Cash,False,-66.472053,,False,True,False
+C8606,62.0,Female,109382.27,2025-04-22,P0085,5,902.02,Online Wallet,True,,-115.8826,False,True,False
+C8792,23.0,Male,45735.58,,P0035,-5,552.1,Online Wallet,True,87.912952,86.185783,False,True,False
+C5730,,Other,78541.53,,P0035,-5,170.01,Cash,True,,,False,True,False
+C3172,57.0,Male,51695.82,2025-04-10,P0012,-5,180.82,Card,False,,69.153822,False,True,False
+C5715,,Other,62392.97,,P0016,-5,186.48,Online Wallet,True,38.95984,-66.690462,False,True,False
+C6254,37.0,Other,21840.93,,P0024,4,544.1,Cash,True,-39.399837,58.999205,False,True,False
+C9143,24.0,Other,41012.3,,P0005,8,611.5,Online Wallet,True,,-27.520059,False,True,False
+C5114,,Female,60241.93,,P0023,6,692.37,Cash,True,,-32.622658,False,True,False
+C3546,,Other,66368.02,,P0051,-5,124.2,Online Wallet,False,73.121879,,False,True,False
+C5379,48.0,Other,99564.2,,P0017,4,182.55,Crypto,True,63.307938,-90.361413,False,True,False
+C6043,,Female,88338.67,,P0096,8,36.81,Crypto,True,,,False,True,False
+C5153,,Female,54043.17,2025-05-17,P0058,-5,365.09,Crypto,False,-74.081729,,False,True,False
+C5781,,Other,82336.4,,P0060,-5,220.11,Online Wallet,False,27.696214,69.518162,False,True,False
+C8028,38.0,Other,80548.93,2025-06-03,P0045,-5,40.63,Online Wallet,False,,,False,True,False
+C2776,,Other,76798.05,2025-04-02,P0016,5,575.98,Online Wallet,False,,121.672747,False,True,False
+C9596,,Male,95734.2,,P0034,3,553.06,Crypto,False,52.17953,82.596106,False,True,False
+C3942,45.0,Male,66413.55,2025-05-24,P0028,-5,504.08,Cash,True,-78.63743,,False,True,False
+C5075,,Other,112626.72,,P0036,-5,780.75,Crypto,False,,,False,True,False
+C8744,,Other,85358.36,,P0096,1,832.7,Cash,True,13.320916,,False,True,False
+C9508,39.0,Male,72549.38,,P0024,6,102.56,Card,True,-60.589599,,False,True,False
+C5830,56.0,Other,45367.01,2025-06-19,P0083,7,319.48,Card,False,69.941923,,False,True,False
+C7414,,Male,103974.37,,P0006,-5,35.29,Cash,True,-28.81088,146.414295,False,True,False
+C7351,49.0,Male,67926.67,,P0081,1,781.89,Card,True,17.303074,-146.154751,False,True,False
+C6007,,Male,65381.05,,P0028,8,520.47,Cash,True,,,False,True,False
+C5474,,Other,53907.66,,P0002,-5,660.91,Cash,True,,133.400552,False,True,False
+C3945,30.0,Other,64606.88,,P0052,1,72.79,Card,True,61.333379,,False,True,False
+C6055,,Other,48315.38,,P0075,-5,139.49,Crypto,True,,,False,True,False
+C3246,,Male,32634.96,,P0032,7,190.97,Cash,True,-50.390839,,False,True,False
+C6168,,Other,28033.97,,P0074,-5,930.65,Online Wallet,False,,,False,True,False
+C4908,56.0,Other,111196.03,,P0002,-5,807.83,Online Wallet,True,-83.493581,12.793535,False,True,False
+C4971,35.0,Other,46890.05,,P0032,-5,649.99,Online Wallet,True,85.398346,,False,True,False
+C9879,,Female,111551.12,2025-04-08,P0041,-5,790.93,Crypto,True,-38.651705,,False,True,False
+C8857,,Other,29217.59,2025-06-16,P0025,-5,108.27,Crypto,True,,161.666598,False,True,False
+C8785,,Male,25346.08,2025-04-09,P0083,3,575.47,Crypto,False,-22.239813,,False,True,False
+C9368,59.0,Male,93252.0,,P0029,-5,772.71,Card,False,,98.992717,False,True,False
+C6434,,Male,49168.84,,P0040,-5,13.76,Card,True,-53.587906,-59.428938,False,True,False
+C6035,51.0,Other,80659.48,2025-05-08,P0048,-5,719.62,Card,True,,,False,True,False
+C8395,41.0,Female,105519.48,2025-06-26,P0092,4,156.52,Card,True,-13.135676,-104.110899,False,True,False
+C4548,,Other,68310.53,,P0097,-5,102.86,Cash,False,-70.204453,,False,True,False
+C5622,33.0,Other,36188.65,,P0051,7,233.06,Online Wallet,True,-33.417664,,False,True,False
+C8202,,Female,100975.87,,P0027,3,493.0,Online Wallet,True,,-79.618765,False,True,False
+C9252,34.0,Female,86413.15,,P0095,10,692.18,Card,False,-38.065188,,False,True,False
+C6205,,Other,28088.89,2025-05-24,P0068,5,702.55,Cash,True,,-72.035593,False,True,False
+C2622,70.0,Other,89894.56,,P0052,-5,293.18,Cash,True,,,False,True,False
+C8436,,Other,75695.14,,P0020,-5,658.76,Card,True,53.55605,-167.281876,False,True,False
+C8881,,Other,54226.81,,P0058,-5,716.08,Online Wallet,True,,,False,True,False
+C2818,,Male,32568.06,2025-05-22,P0065,10,456.21,Card,True,,,False,True,False
+C4289,32.0,Other,113595.22,2025-05-07,P0010,-5,455.95,Cash,False,,,False,True,False
+C1037,67.0,Other,49775.62,2025-06-27,P0035,-5,536.61,Card,False,-8.350163,,False,True,False
+C7446,,Other,93580.13,2025-05-17,P0001,-5,495.83,Online Wallet,False,87.508788,,False,True,False
+C1104,,Female,40649.75,2025-04-24,P0034,7,723.94,Card,True,,,False,True,False
+C7567,,Other,102105.75,2025-06-09,P0022,6,498.16,Online Wallet,True,-53.896565,52.002303,False,True,False
+C3275,50.0,Female,82595.32,,P0084,-5,664.49,Cash,False,,,False,True,False
+C5948,42.0,Male,64172.03,2025-06-28,P0036,-5,419.71,Crypto,False,,,False,True,False
+C3973,27.0,Other,87600.47,2025-05-27,P0046,10,512.58,Card,False,,144.120488,False,True,False
+C4975,41.0,Female,53722.56,,P0013,-5,521.43,Card,False,-50.636975,,False,True,False
+C1983,,Other,65102.22,2025-05-22,P0064,5,967.95,Card,True,,-97.581312,False,True,False
+C4281,,Other,40092.66,2025-06-05,P0019,9,189.14,Card,False,-11.351363,,False,True,False
+C8616,26.0,Male,91705.44,,P0026,8,204.39,Card,True,89.792945,,False,True,False
+C5323,,Other,102030.23,2025-06-08,P0084,1,607.28,Crypto,True,80.454292,32.631471,False,True,False
+C4075,,Male,91547.42,,P0074,-5,435.06,Crypto,False,,,False,True,False
+C7113,56.0,Other,84744.76,2025-06-15,P0028,8,367.25,Cash,True,,124.855155,False,True,False
+C9909,,Other,47050.27,2025-05-20,P0047,6,410.98,Cash,False,73.759015,162.550226,False,True,False
+C6171,,Other,67826.84,,P0054,-5,230.2,Online Wallet,True,77.56966,-21.12522,False,True,False
+C6364,24.0,Male,97988.33,2025-05-26,P0046,-5,705.42,Card,False,30.596798,88.775995,False,True,False
+C2131,63.0,Female,44297.3,2025-04-14,P0056,8,988.43,Crypto,True,,,False,True,False
+C6796,,Male,61371.02,,P0072,-5,202.13,Cash,False,,,False,True,False
+C1472,,Other,94148.49,,P0051,9,412.74,Card,True,,,False,True,False
+C8921,22.0,Other,63158.03,2025-05-19,P0015,-5,635.69,Crypto,True,-5.019156,,False,True,False
+C7296,48.0,Other,49691.93,2025-06-09,P0052,-5,968.35,Online Wallet,False,27.887037,,False,True,False
+C1841,48.0,Male,45363.85,2025-05-28,P0032,6,651.11,Crypto,False,-78.281285,87.142777,False,True,False
+C2962,,Other,108697.08,,P0038,-5,443.6,Crypto,True,,,False,True,False
+C9501,,Male,119890.36,,P0014,-5,731.71,Card,True,-69.043789,,False,True,False
+C7353,,Other,44374.69,,P0007,-5,45.38,Card,False,,-145.848356,False,True,False
+C1026,,Female,117953.4,2025-05-01,P0019,-5,645.01,Cash,False,-7.60687,,False,True,False
+C9574,,Male,69277.69,,P0050,-5,127.29,Card,False,,-176.420272,False,True,False
+C8706,29.0,Other,23228.29,2025-05-24,P0097,4,367.14,Crypto,True,,-101.877707,False,True,False
+C2172,66.0,Other,100407.07,2025-05-19,P0004,7,835.95,Cash,False,,87.494221,False,True,False
+C4215,36.0,Other,75539.32,2025-04-04,P0025,-5,566.74,Crypto,False,-34.2023,-17.430956,False,True,False
+C2891,65.0,Other,89050.62,2025-06-10,P0029,8,539.22,Online Wallet,False,37.265363,,False,True,False
+C7189,,Male,37400.77,2025-06-16,P0009,-5,217.89,Online Wallet,False,,74.080051,False,True,False
+C9759,49.0,Other,38329.4,,P0096,5,839.81,Card,True,,,False,True,False
+C5283,45.0,Male,47197.12,2025-05-03,P0019,-5,214.58,Cash,False,,101.908044,False,True,False
+C8563,,Other,48852.68,,P0098,-5,224.61,Cash,False,,,False,True,False
+C5675,37.0,Other,88158.19,2025-05-17,P0040,-5,935.99,Cash,True,35.137619,,False,True,False
+C5553,,Other,104071.38,,P0026,5,908.38,Online Wallet,False,-49.968108,,False,True,False
+C8154,,Female,114085.72,,P0021,8,650.72,Card,True,,,False,True,False
+C3447,,Other,36613.42,,P0062,7,378.04,Cash,True,,,False,True,False
+C6432,,Other,22983.74,2025-05-23,P0063,-5,669.3,Cash,False,,-28.310115,False,True,False
+C8552,,Other,26209.92,,P0087,-5,840.42,Card,True,,,False,True,False
+C6440,,Female,46891.84,,P0066,3,357.36,Crypto,False,,179.348305,False,True,False
+C9414,68.0,Other,67599.27,,P0054,-5,254.4,Cash,True,-50.331879,156.012227,False,True,False
+C9381,51.0,Other,59443.87,2025-04-13,P0011,4,993.44,Online Wallet,True,-28.965523,-5.447601,False,True,False
+C5342,40.0,Other,22558.41,2025-05-13,P0062,-5,346.24,Cash,False,-86.602807,,False,True,False
+C1838,,Other,68201.9,,P0080,-5,532.82,Cash,False,,-128.838384,False,True,False
+C7604,62.0,Female,111465.89,,P0015,7,750.45,Crypto,False,-53.581935,-33.545913,False,True,False
+C3723,,Male,55582.49,2025-04-10,P0053,-5,238.75,Crypto,True,,,False,True,False
+C1390,58.0,Other,21572.63,,P0033,-5,261.06,Card,True,-38.538219,43.811527,False,True,False
+C6247,66.0,Male,74863.24,,P0040,4,773.97,Online Wallet,False,-50.391631,10.150878,False,True,False
+C6864,23.0,Other,103731.68,,P0041,-5,761.4,Cash,True,,-61.709365,False,True,False
+C2822,65.0,Female,103982.58,,P0014,2,445.07,Card,True,-65.633351,156.757055,False,True,False
+C8205,63.0,Other,72445.85,,P0071,9,91.88,Online Wallet,True,15.058674,46.376645,False,True,False
+C2143,,Male,119692.73,2025-04-12,P0097,-5,178.47,Crypto,True,,,False,True,False
+C8758,,Other,57671.73,2025-05-02,P0038,-5,445.93,Online Wallet,True,-50.914787,163.113611,False,True,False
+C5992,25.0,Male,79936.2,2025-05-19,P0027,-5,548.85,Card,True,77.910453,-169.779377,False,True,False
+C4133,,Male,100866.08,,P0027,-5,378.9,Crypto,True,,,False,True,False
+C6204,23.0,Other,68587.83,,P0053,-5,661.57,Card,True,,-156.806876,False,True,False
+C9131,,Male,67644.05,2025-06-09,P0019,-5,415.82,Card,False,,,False,True,False
+C2157,66.0,Male,101747.38,2025-05-25,P0100,-5,885.55,Cash,False,,24.141235,False,True,False
+C6996,,Other,52069.71,2025-05-25,P0085,-5,872.25,Cash,True,43.389616,,False,True,False
+C3282,,Other,65714.76,,P0075,8,774.17,Card,True,,,False,True,False
+C6460,,Other,63258.51,2025-04-01,P0061,-5,663.48,Card,True,,,False,True,False
+C6836,,Other,55347.65,2025-06-05,P0020,8,651.55,Online Wallet,True,,,False,True,False
+C3143,,Other,109642.86,,P0040,-5,533.28,Online Wallet,True,,33.601611,False,True,False
+C8556,66.0,Other,100814.15,,P0061,5,678.54,Card,True,-87.063806,,False,True,False
+C8501,,Other,22393.17,2025-04-27,P0039,2,473.6,Crypto,True,,,False,True,False
+C3179,,Other,112162.82,2025-06-02,P0057,-5,724.58,Card,True,28.539781,,False,True,False
+C1952,50.0,Other,76378.52,2025-06-23,P0100,-5,754.42,Online Wallet,True,,,False,True,False
+C1396,,Other,79859.46,2025-04-12,P0032,6,614.0,Cash,False,,,False,True,False
+C3624,,Other,38691.89,,P0020,-5,349.16,Online Wallet,True,1.541793,,False,True,False
+C6925,,Female,113899.23,2025-06-18,P0057,-5,507.42,Cash,False,-70.310097,-75.58788,False,True,False
+C9862,,Male,91028.71,,P0007,3,921.18,Card,False,-78.169377,,False,True,False
+C3400,68.0,Other,39112.65,2025-05-29,P0015,5,710.02,Cash,False,84.503427,,False,True,False
+C6723,39.0,Female,98812.89,,P0033,5,427.81,Cash,False,-61.169486,85.825939,False,True,False
+C4678,26.0,Male,98472.03,,P0098,10,624.22,Cash,True,,-43.003223,False,True,False
+C6432,,Male,66570.89,,P0094,7,556.96,Card,False,-62.672584,,False,True,False
+C5251,64.0,Other,36527.98,,P0094,-5,122.81,Cash,True,-44.683433,-75.345705,False,True,False
+C1047,,Male,106203.64,,P0068,5,266.08,Card,True,,,False,True,False
+C7440,20.0,Male,92300.33,2025-06-15,P0049,-5,295.49,Cash,True,65.323461,-108.299854,False,True,False
+C3318,28.0,Other,50282.72,,P0094,4,302.97,Crypto,True,-14.164841,105.132012,False,True,False
+C6220,69.0,Other,57348.35,,P0002,-5,677.62,Online Wallet,True,,64.792758,False,True,False
+C4749,,Other,79689.41,,P0015,2,667.26,Crypto,True,82.016227,-79.630723,False,True,False
+C9185,46.0,Other,35705.37,,P0059,8,257.91,Cash,False,-63.218298,-71.990152,False,True,False
+C4579,,Female,85224.87,,P0041,9,502.13,Card,True,,-162.513172,False,True,False
+C7337,,Male,88326.84,,P0066,6,174.01,Crypto,False,,33.634218,False,True,False
+C5167,,Female,44368.78,,P0003,-5,223.41,Card,False,81.078274,,False,True,False
+C3656,,Female,63402.69,2025-06-04,P0001,10,13.6,Cash,True,,,False,True,False
+C8698,,Male,98227.98,2025-05-24,P0095,-5,116.65,Card,True,,,False,True,False
+C4252,,Other,93008.82,,P0038,10,446.75,Crypto,True,-18.721311,-64.392474,False,True,False
+C6265,,Female,70439.33,2025-04-29,P0090,-5,945.45,Card,False,78.970301,123.760229,False,True,False
+C1960,67.0,Other,43557.16,2025-04-15,P0050,-5,126.45,Cash,True,-85.911315,-121.274869,False,True,False
+C1148,,Male,97498.77,2025-06-22,P0041,1,842.03,Crypto,False,78.969068,107.221641,False,True,False
+C9315,55.0,Other,77413.84,2025-05-15,P0071,7,392.85,Cash,True,,,False,True,False
+C2008,69.0,Male,31968.6,2025-04-09,P0099,3,183.61,Online Wallet,True,,,False,True,False
+C2698,40.0,Other,119213.05,2025-06-21,P0015,-5,476.56,Card,True,,-124.577762,False,True,False
+C8673,33.0,Male,35936.68,,P0025,-5,172.77,Card,False,0.261539,-159.525305,False,True,False
+C2258,37.0,Male,107597.67,,P0084,10,425.23,Card,True,,169.059373,False,True,False
+C5083,,Other,104128.76,2025-06-29,P0078,-5,460.25,Online Wallet,False,-78.423884,-138.118259,False,True,False
+C4808,31.0,Other,84168.02,,P0059,-5,902.84,Card,True,-79.060766,,False,True,False
+C8237,,Female,71375.8,2025-05-07,P0062,-5,803.66,Crypto,True,,,False,True,False
+C3333,29.0,Other,44463.56,2025-06-13,P0032,9,125.71,Crypto,False,,-161.877409,False,True,False
+C1328,33.0,Other,57237.19,2025-04-16,P0031,1,830.83,Crypto,False,,-84.26149,False,True,False
+C9219,,Other,99204.28,2025-04-12,P0091,-5,994.79,Online Wallet,False,2.689478,-78.937649,False,True,False
+C1221,48.0,Other,28678.7,2025-06-13,P0072,10,243.32,Cash,True,4.133844,,False,True,False
+C6896,,Male,86287.52,,P0095,-5,219.38,Online Wallet,True,75.170324,,False,True,False
+C5000,52.0,Female,34212.5,,P0025,6,825.54,Card,False,,,False,True,False
+C2334,42.0,Female,82406.62,,P0027,-5,696.35,Crypto,True,,122.962174,False,True,False
+C9230,33.0,Male,106659.05,2025-06-17,P0084,-5,297.42,Card,True,-9.456718,,False,True,False
+C4755,,Other,82073.67,,P0008,2,717.18,Crypto,False,,166.231004,False,True,False
+C7087,,Other,55609.37,2025-05-19,P0067,6,647.89,Cash,True,,,False,True,False
+C8157,,Other,113463.27,2025-05-31,P0079,-5,811.72,Online Wallet,False,,,False,True,False
+C1327,21.0,Other,86727.37,,P0097,-5,846.29,Crypto,False,8.138186,28.086856,False,True,False
+C9629,46.0,Female,30604.76,2025-04-14,P0036,-5,398.49,Card,True,-74.380385,,False,True,False
+C3616,34.0,Male,37569.98,,P0093,-5,881.04,Card,True,83.274035,,False,True,False
+C5930,,Male,77899.87,,P0053,-5,272.67,Cash,False,,,False,True,False
+C1705,,Male,105741.82,,P0051,-5,343.78,Card,False,-45.147701,,False,True,False
+C9029,69.0,Other,107110.32,,P0048,-5,548.69,Crypto,True,-40.12817,25.871061,False,True,False
+C4182,,Other,52337.93,,P0027,7,699.76,Cash,True,-8.978631,114.528709,False,True,False
+C2920,,Other,103061.89,2025-06-01,P0008,2,77.77,Cash,True,,-170.847373,False,True,False
+C7397,,Other,85809.35,2025-06-24,P0090,-5,227.83,Crypto,False,,85.559935,False,True,False
+C5747,63.0,Other,22119.74,2025-06-11,P0014,-5,141.19,Card,True,-12.701227,67.461838,False,True,False
+C3358,,Male,53061.12,2025-06-03,P0020,6,448.21,Cash,True,,,False,True,False
+C7160,56.0,Male,103177.54,2025-06-26,P0009,-5,891.92,Cash,True,-32.788095,,False,True,False
+C5006,42.0,Other,96872.01,,P0020,-5,406.61,Cash,True,-55.893387,-58.649066,False,True,False
+C9982,,Female,50824.95,2025-06-29,P0033,6,180.83,Online Wallet,True,,70.676203,False,True,False
+C7807,,Female,74279.5,,P0011,2,983.96,Crypto,True,45.657013,80.620935,False,True,False
+C9188,,Other,78018.77,,P0045,-5,162.43,Card,True,,-61.93799,False,True,False
+C8323,,Male,57076.47,,P0082,5,828.66,Cash,True,,,False,True,False
+C4587,30.0,Other,70066.66,2025-05-26,P0031,-5,435.63,Crypto,True,,,False,True,False
+C4657,62.0,Male,56188.81,,P0051,-5,762.59,Card,False,,-154.093466,False,True,False
+C8048,34.0,Other,71236.77,2025-05-18,P0010,3,411.14,Online Wallet,False,,-131.270341,False,True,False
+C2559,,Other,65808.84,,P0023,-5,24.63,Card,True,30.122688,,False,True,False
+C4178,65.0,Male,118926.18,2025-06-07,P0098,-5,244.27,Crypto,False,,,False,True,False
+C4261,,Other,30699.0,2025-06-13,P0062,2,852.09,Card,False,,-131.809759,False,True,False
+C5321,,Female,51755.68,,P0019,-5,940.22,Online Wallet,True,-18.992753,154.146036,False,True,False
+C5902,69.0,Other,53461.82,2025-06-22,P0075,-5,543.72,Card,False,,147.061902,False,True,False
+C8708,,Female,31498.29,,P0054,5,607.25,Online Wallet,True,,,False,True,False
+C8553,,Male,42071.47,,P0085,4,990.42,Cash,True,78.968247,33.554453,False,True,False
+C7934,,Other,83177.63,2025-05-12,P0003,-5,467.18,Cash,True,,,False,True,False
+C6752,27.0,Other,101961.28,,P0010,2,820.32,Card,True,,,False,True,False
+C8681,,Other,40508.83,,P0042,10,683.37,Crypto,False,14.115238,13.402165,False,True,False
+C8949,,Other,60556.65,2025-06-14,P0023,7,328.76,Card,True,-71.902267,122.238145,False,True,False
+C5139,55.0,Male,30085.73,2025-06-04,P0005,2,268.82,Crypto,True,-4.633701,111.581695,False,True,False
+C9660,,Other,49056.2,2025-04-30,P0100,-5,173.36,Cash,True,1.489178,-38.712526,False,True,False
+C6006,,Male,112504.18,2025-06-17,P0001,-5,374.2,Crypto,True,,-116.194575,False,True,False
+C7782,,Other,112687.24,,P0062,2,606.45,Crypto,False,,59.281016,False,True,False
+C9051,,Other,48748.17,,P0015,8,125.99,Card,True,88.821959,24.501943,False,True,False
+C8562,33.0,Female,118855.47,2025-05-13,P0054,-5,831.77,Cash,True,,,False,True,False
+C9298,,Other,46752.84,2025-04-02,P0042,-5,115.14,Online Wallet,False,-35.326273,,False,True,False
+C6424,,Other,101878.45,2025-04-17,P0065,-5,536.24,Online Wallet,True,,-2.482118,False,True,False
+C1766,51.0,Male,32931.53,2025-05-14,P0094,-5,424.3,Card,True,75.075054,,False,True,False
+C8287,55.0,Female,66031.29,2025-06-13,P0061,-5,536.44,Cash,True,,,False,True,False
+C3240,,Female,90685.38,,P0086,8,848.14,Crypto,True,,,False,True,False
+C2223,55.0,Female,112676.49,,P0048,-5,645.86,Card,False,,169.527912,False,True,False
+C7144,,Male,67546.67,,P0032,7,686.65,Crypto,True,-81.089051,,False,True,False
+C5923,49.0,Female,66660.55,,P0061,8,70.05,Cash,False,,,False,True,False
+C2960,,Other,110847.97,,P0031,-5,258.34,Online Wallet,False,-30.860991,-40.56353,False,True,False
+C7285,,Female,105630.22,,P0018,10,449.57,Card,False,-38.451218,41.146782,False,True,False
+C1125,61.0,Other,107999.52,2025-04-20,P0031,9,375.37,Online Wallet,False,,,False,True,False
+C1481,,Female,69712.14,,P0049,-5,961.01,Online Wallet,False,,,False,True,False
+C5529,54.0,Other,81988.55,,P0054,-5,215.58,Card,True,,-177.284474,False,True,False
+C1468,46.0,Other,30742.66,,P0076,7,741.21,Online Wallet,True,,,False,True,False
+C2007,,Other,63897.8,2025-04-24,P0012,2,930.66,Card,True,41.756906,,False,True,False
+C4735,69.0,Female,99828.57,2025-06-23,P0049,7,419.04,Crypto,True,,179.149921,False,True,False
+C1984,29.0,Female,60859.12,,P0024,10,23.12,Online Wallet,True,,47.262143,False,True,False
+C3695,38.0,Female,80881.09,2025-04-21,P0049,3,61.24,Card,False,,,False,True,False
+C7241,,Other,43064.81,2025-06-27,P0075,-5,956.72,Online Wallet,True,,-69.978387,False,True,False
+C4098,47.0,Other,21361.19,,P0051,8,299.69,Crypto,True,-32.208117,,False,True,False
+C7518,,Other,77174.8,,P0021,7,545.16,Card,True,,-15.723703,False,True,False
+C1853,23.0,Female,57888.3,2025-04-29,P0035,-5,729.97,Crypto,True,,,False,True,False
+C9079,54.0,Female,38926.92,,P0041,9,547.43,Card,True,20.961854,-32.395101,False,True,False
+C6441,58.0,Male,87265.43,2025-04-14,P0021,7,411.2,Crypto,False,,118.642205,False,True,False
+C2692,57.0,Other,35288.0,2025-05-02,P0055,-5,967.12,Crypto,True,-56.195536,,False,True,False
+C9341,,Male,45093.15,,P0054,-5,455.67,Crypto,True,,-9.908646,False,True,False
+C5961,,Female,53837.22,2025-05-15,P0033,-5,619.95,Online Wallet,False,,,False,True,False
+C1453,,Female,118374.37,,P0033,-5,531.25,Online Wallet,True,,-148.524303,False,True,False
+C2245,21.0,Other,92459.8,,P0019,-5,657.83,Cash,True,53.750608,52.822012,False,True,False
+C2105,41.0,Male,63303.73,,P0031,7,544.94,Online Wallet,True,,-37.039043,False,True,False
+C8979,,Female,59589.96,2025-05-27,P0001,-5,197.71,Online Wallet,True,-18.755637,-107.802595,False,True,False
+C5271,,Other,112207.8,2025-05-25,P0001,-5,52.34,Crypto,False,,137.976336,False,True,False
+C1896,33.0,Other,105617.48,2025-04-29,P0001,-5,743.26,Online Wallet,True,,,False,True,False
+C8119,,Other,89999.53,2025-06-22,P0077,-5,571.65,Online Wallet,True,,-110.529696,False,True,False
+C5378,,Female,35191.92,2025-06-07,P0079,1,201.4,Card,False,,-127.64141,False,True,False
+C3596,,Female,60425.93,2025-05-24,P0089,-5,940.13,Cash,True,0.944353,11.780016,False,True,False
+C1880,,Male,70986.11,,P0076,1,167.73,Online Wallet,True,,,False,True,False
+C6890,,Other,72779.06,2025-05-27,P0002,2,194.53,Cash,False,-57.794008,111.11939,False,True,False
+C8885,44.0,Female,36929.55,,P0029,-5,771.31,Online Wallet,True,8.350641,85.647623,False,True,False
+C7963,44.0,Other,104207.07,,P0051,6,88.47,Crypto,True,-55.150267,,False,True,False
+C1276,23.0,Other,36910.65,2025-06-13,P0066,6,69.09,Cash,True,,-145.549706,False,True,False
+C1734,,Other,46314.19,,P0008,4,878.59,Crypto,False,-66.798641,,False,True,False
+C4348,65.0,Other,39691.49,2025-04-04,P0086,-5,732.01,Card,True,,157.738308,False,True,False
+C9145,65.0,Other,23976.35,2025-05-27,P0086,-5,216.88,Crypto,False,,,False,True,False
+C6910,32.0,Other,113031.09,2025-06-23,P0007,8,773.91,Online Wallet,True,0.676,-64.851431,False,True,False
+C6219,66.0,Other,74151.46,,P0086,1,767.58,Crypto,False,-85.519148,,False,True,False
+C8514,24.0,Other,106049.46,,P0048,10,528.58,Online Wallet,False,-69.422512,8.294353,False,True,False
+C3291,19.0,Other,69040.64,2025-06-22,P0057,5,401.84,Cash,False,-40.943664,102.872915,False,True,False
+C3519,,Female,86667.88,,P0033,1,769.14,Card,False,-52.521298,,False,True,False
+C7936,64.0,Other,100583.1,2025-06-20,P0047,-5,186.74,Card,False,-19.324884,-40.954562,False,True,False
+C3313,,Other,92203.26,,P0084,9,95.14,Card,True,-49.196449,,False,True,False
+C6576,40.0,Other,75335.24,,P0078,-5,603.21,Crypto,False,70.556613,-63.484666,False,True,False
+C5787,33.0,Female,32781.27,2025-04-29,P0013,3,252.07,Online Wallet,False,-86.991572,67.690192,False,True,False
+C4185,,Male,99169.9,,P0059,7,52.98,Online Wallet,True,55.71379,,False,True,False
+C8911,24.0,Male,33418.54,,P0095,-5,924.29,Crypto,True,78.761487,62.060167,False,True,False
+C4545,,Other,25423.83,2025-05-08,P0027,8,178.52,Cash,True,,83.749968,False,True,False
+C6197,,Male,108226.41,,P0070,1,512.83,Cash,True,-52.252504,,False,True,False
+C3623,30.0,Other,99514.74,,P0091,9,848.93,Online Wallet,False,-84.628815,,False,True,False
+C3456,63.0,Male,58999.09,,P0072,7,896.84,Crypto,False,56.537731,,False,True,False
+C9309,41.0,Male,42429.15,2025-06-25,P0070,3,21.07,Card,True,70.861703,,False,True,False
+C8703,27.0,Other,27504.28,,P0075,-5,66.45,Crypto,True,,120.871089,False,True,False
+C8148,19.0,Other,85772.63,,P0030,2,879.8,Cash,True,-47.577434,,False,True,False
+C3754,66.0,Female,45692.96,,P0033,5,997.23,Cash,True,,,False,True,False
+C6392,,Other,89158.44,2025-05-26,P0045,10,764.86,Crypto,True,,141.767757,False,True,False
+C3663,,Other,28940.34,2025-04-23,P0065,-5,215.69,Card,True,-45.015331,,False,True,False
+C9181,19.0,Other,118644.8,2025-04-29,P0029,5,572.61,Crypto,True,,,False,True,False
+C7118,,Female,45566.8,2025-06-03,P0035,-5,231.49,Crypto,False,-86.781116,,False,True,False
+C7192,,Male,76763.4,2025-04-05,P0066,-5,91.59,Cash,False,12.38483,,False,True,False
+C9722,,Other,109892.86,,P0047,8,535.58,Cash,False,-35.095691,129.415657,False,True,False
+C5100,,Male,48639.94,2025-05-27,P0002,-5,663.82,Crypto,True,,117.17438,False,True,False
+C6390,,Female,35420.31,2025-04-01,P0030,-5,256.92,Card,True,80.838239,,False,True,False
+C6377,,Other,100471.38,,P0030,-5,65.83,Cash,True,-12.832199,-125.301453,False,True,False
+C2448,,Other,117325.47,2025-05-26,P0002,-5,29.52,Card,False,-33.417577,,False,True,False
+C6298,47.0,Other,74299.36,,P0082,-5,192.56,Card,True,73.03648,,False,True,False
+C9190,,Female,27104.26,,P0043,1,579.24,Card,True,-36.313651,,False,True,False
+C7799,,Male,22528.19,2025-05-22,P0051,7,136.43,Cash,True,-34.629467,,False,True,False
+C4056,,Female,38908.57,,P0009,-5,121.92,Cash,False,31.848404,72.85297,False,True,False
+C5752,27.0,Other,26594.52,,P0037,-5,301.1,Online Wallet,True,73.803293,-53.914246,False,True,False
+C1452,58.0,Other,54681.23,,P0071,2,130.44,Crypto,True,,-118.381382,False,True,False
+C9105,63.0,Female,63584.88,2025-05-25,P0045,7,372.96,Crypto,True,-12.928831,123.892057,False,True,False
+C4206,,Other,61992.13,2025-05-10,P0055,9,815.01,Cash,True,-19.278947,,False,True,False
+C3307,39.0,Male,90352.79,,P0073,10,129.18,Online Wallet,False,-87.472555,,False,True,False
+C1213,69.0,Female,111537.62,2025-04-04,P0034,-5,679.04,Online Wallet,False,,102.188415,False,True,False
+C8518,46.0,Male,50097.18,,P0029,9,469.46,Cash,True,23.324021,-0.350413,False,True,False
+C5502,,Female,63275.57,2025-05-03,P0002,-5,101.05,Card,False,,,False,True,False
+C3805,21.0,Other,84094.7,2025-05-21,P0064,5,534.3,Online Wallet,True,11.000218,-78.7898,False,True,False
+C7285,59.0,Other,113905.5,2025-04-16,P0061,-5,188.45,Crypto,True,,,False,True,False
+C8427,54.0,Other,48949.81,,P0006,9,91.61,Crypto,False,,,False,True,False
+C6091,24.0,Female,83326.67,2025-05-05,P0030,-5,435.09,Cash,True,,-99.82228,False,True,False
+C3622,,Other,30687.92,,P0036,9,541.17,Card,True,-87.459012,,False,True,False
+C4553,,Female,115628.14,,P0001,2,658.81,Online Wallet,True,,8.262459,False,True,False
+C6436,67.0,Female,78627.94,,P0027,-5,721.7,Card,False,,,False,True,False
+C1132,,Female,35077.88,2025-04-15,P0097,-5,95.03,Online Wallet,True,,,False,True,False
+C4386,29.0,Other,99795.4,,P0031,4,832.81,Cash,False,-35.895073,169.75365,False,True,False
+C3770,,Male,72431.2,,P0057,-5,870.52,Crypto,True,19.378761,30.230094,False,True,False
+C6237,,Female,71668.29,,P0054,-5,988.07,Crypto,False,,,False,True,False
+C6539,50.0,Other,97127.47,2025-05-24,P0014,-5,128.94,Crypto,True,56.831011,,False,True,False
+C2866,,Other,88845.7,2025-06-19,P0027,6,439.14,Cash,True,,,False,True,False
+C5101,28.0,Other,119145.35,2025-06-17,P0005,-5,827.06,Cash,False,,,False,True,False
+C3260,,Male,55844.13,2025-06-24,P0002,-5,846.19,Crypto,True,82.875976,109.175681,False,True,False
+C9353,23.0,Female,90770.16,2025-04-04,P0088,2,482.37,Crypto,False,,,False,True,False
+C7435,60.0,Other,106421.92,2025-06-17,P0015,-5,423.15,Online Wallet,False,53.480263,,False,True,False
+C6861,32.0,Other,114757.63,,P0074,-5,98.72,Card,True,-41.650284,,False,True,False
+C1562,,Other,85078.16,,P0088,5,161.13,Crypto,False,-1.293172,48.629699,False,True,False
+C4601,,Other,29038.54,2025-06-25,P0064,-5,745.99,Online Wallet,True,,163.229001,False,True,False
+C7374,,Male,23388.9,,P0080,-5,744.93,Cash,False,,,False,True,False
+C3341,50.0,Male,69980.0,,P0023,-5,505.54,Online Wallet,False,50.318998,-121.387109,False,True,False
+C3261,26.0,Other,34248.63,2025-05-23,P0035,-5,713.23,Cash,False,72.518669,-163.334187,False,True,False
+C6966,20.0,Female,36475.26,2025-06-26,P0085,5,397.23,Crypto,True,,89.000526,False,True,False
+C7796,43.0,Other,83088.24,2025-06-25,P0080,-5,948.72,Crypto,True,-13.530152,32.326003,False,True,False
+C4674,51.0,Other,57321.01,2025-06-06,P0028,-5,381.89,Online Wallet,True,,125.118659,False,True,False
+C2254,28.0,Other,99769.79,2025-05-17,P0062,4,832.83,Crypto,False,-75.924228,,False,True,False
+C8909,,Other,104511.72,,P0039,-5,522.76,Crypto,True,,-54.904354,False,True,False
+C1978,,Female,75535.41,2025-06-05,P0040,9,99.02,Cash,True,,-122.242146,False,True,False
+C9290,,Other,110123.19,2025-06-28,P0092,10,136.37,Crypto,False,13.730116,,False,True,False
+C7232,68.0,Male,85644.66,,P0015,-5,445.6,Cash,False,,,False,True,False
+C5335,67.0,Female,77725.99,,P0082,-5,659.57,Card,True,7.413937,,False,True,False
+C8119,,Other,40343.35,,P0083,1,62.13,Online Wallet,True,57.915959,-101.397697,False,True,False
+C2176,49.0,Female,66823.19,,P0003,4,694.23,Crypto,True,-4.391927,,False,True,False
+C6327,,Female,38857.53,,P0040,-5,513.13,Cash,False,-2.487499,60.609585,False,True,False
+C7799,,Male,72796.31,2025-04-08,P0018,9,71.87,Card,False,22.824492,,False,True,False
+C9493,62.0,Male,65821.79,,P0043,8,834.89,Cash,True,-29.80268,,False,True,False
+C4810,28.0,Male,118491.31,,P0027,5,442.38,Card,True,,,False,True,False
+C5565,,Female,59764.11,,P0092,-5,713.5,Crypto,True,53.183788,,False,True,False
+C6673,35.0,Male,74362.37,2025-05-15,P0092,-5,282.18,Card,True,85.23103,,False,True,False
+C8454,,Other,82180.47,2025-04-25,P0017,10,108.09,Online Wallet,True,13.00943,163.195304,False,True,False
+C8846,,Other,110574.39,,P0082,1,737.93,Card,True,-67.249593,-133.830606,False,True,False
+C4904,28.0,Other,37407.19,2025-04-27,P0047,2,762.88,Cash,True,,-7.740161,False,True,False
+C9183,36.0,Female,90719.33,2025-04-21,P0001,-5,174.13,Crypto,False,,,False,True,False
+C4638,,Other,45136.22,2025-06-11,P0045,1,779.91,Card,False,1.400968,178.257145,False,True,False
+C1631,,Female,31061.13,2025-05-26,P0031,4,922.43,Crypto,False,,,False,True,False
+C7665,63.0,Other,59297.78,2025-06-12,P0090,5,530.85,Crypto,True,-48.75517,170.35108,False,True,False
+C8652,20.0,Male,116958.66,2025-04-05,P0100,-5,715.23,Crypto,True,,,False,True,False
+C6354,,Other,108212.09,,P0075,8,122.76,Card,False,,,False,True,False
+C8737,,Other,25116.64,,P0096,2,555.53,Cash,True,89.489526,,False,True,False
+C3411,43.0,Other,57781.11,2025-04-23,P0036,-5,139.62,Card,True,-46.596421,-58.699648,False,True,False
+C2560,57.0,Male,95426.99,,P0041,-5,183.13,Cash,True,,161.557431,False,True,False
+C9557,,Other,100195.91,,P0086,4,498.84,Cash,True,77.035692,-79.633073,False,True,False
+C5484,,Other,36706.32,2025-04-27,P0086,-5,929.54,Cash,True,,-80.55543,False,True,False
+C8957,,Male,87371.13,,P0057,4,410.46,Crypto,False,8.61383,159.710393,False,True,False
+C7523,,Other,31894.1,2025-06-11,P0091,-5,734.25,Card,True,,,False,True,False
+C4314,,Other,119251.98,,P0095,-5,98.95,Cash,True,-86.980272,,False,True,False
+C9057,,Other,117876.25,2025-04-15,P0087,-5,703.75,Crypto,True,,,False,True,False
+C2882,,Other,41444.73,,P0048,1,295.03,Online Wallet,False,,,False,True,False
+C5505,23.0,Other,20949.78,,P0058,-5,23.48,Card,True,-70.484195,,False,True,False
+C9438,25.0,Female,51730.27,2025-05-25,P0088,-5,924.03,Cash,False,-45.071921,-170.734927,False,True,False
+C7287,52.0,Other,109890.78,,P0075,3,201.07,Card,True,,54.218317,False,True,False
+C7972,,Male,33529.78,2025-05-09,P0029,-5,274.89,Online Wallet,True,,-150.283806,False,True,False
+C4636,29.0,Other,113103.05,,P0055,-5,33.72,Crypto,True,,82.178143,False,True,False
+C1901,,Female,99754.86,,P0042,-5,138.44,Online Wallet,True,32.804224,-145.466669,False,True,False
+C9318,,Male,111161.62,2025-05-28,P0008,1,457.99,Card,False,,,False,True,False
+C1737,38.0,Other,69128.04,,P0051,5,783.65,Card,False,,,False,True,False
+C5584,38.0,Other,31937.06,,P0030,8,974.16,Cash,True,,,False,True,False
+C3006,31.0,Other,38273.69,2025-05-05,P0043,1,120.95,Cash,True,,,False,True,False
+C1587,61.0,Other,42318.54,2025-04-05,P0061,-5,513.4,Online Wallet,True,51.15836,127.344055,False,True,False
+C6975,46.0,Other,84283.09,2025-06-16,P0007,-5,922.24,Card,True,-22.075026,,False,True,False
+C2076,18.0,Other,84663.55,2025-04-04,P0053,-5,233.51,Card,False,,,False,True,False
+C5276,53.0,Female,99935.67,2025-05-06,P0050,-5,523.27,Cash,False,,53.027222,False,True,False
+C7474,,Male,31075.06,2025-05-31,P0068,-5,526.18,Cash,True,,-172.661688,False,True,False
+C1153,42.0,Female,68807.99,,P0020,8,512.83,Cash,False,,,False,True,False
+C7688,,Other,92033.48,2025-06-18,P0035,-5,544.83,Cash,False,-36.066797,-131.171118,False,True,False
+C1866,,Other,29648.77,,P0027,-5,108.18,Online Wallet,True,,,False,True,False
+C5988,57.0,Male,61515.16,2025-04-18,P0014,-5,502.04,Online Wallet,True,,171.233641,False,True,False
+C3660,,Female,35931.03,,P0005,-5,651.0,Online Wallet,True,,,False,True,False
+C2663,,Other,51185.68,,P0065,2,650.42,Online Wallet,False,87.205173,,False,True,False
+C8841,69.0,Other,85403.76,2025-06-27,P0032,5,62.72,Online Wallet,True,,,False,True,False
+C2527,49.0,Male,80453.09,,P0052,-5,314.28,Card,True,54.788554,,False,True,False
+C3446,50.0,Other,72590.76,,P0056,-5,577.46,Crypto,True,,69.307802,False,True,False
+C9163,,Other,92789.11,2025-04-15,P0026,-5,172.97,Online Wallet,False,1.819714,78.387909,False,True,False
+C7456,41.0,Male,50178.89,,P0059,-5,402.15,Crypto,True,,124.542167,False,True,False
+C6555,55.0,Male,52705.26,,P0004,-5,62.75,Crypto,True,,,False,True,False
+C7733,66.0,Male,71878.47,,P0091,-5,898.22,Online Wallet,False,,,False,True,False
+C6709,69.0,Female,87174.18,2025-05-28,P0039,-5,326.66,Card,False,,,False,True,False
+C6632,23.0,Female,87553.97,2025-06-17,P0028,-5,883.68,Crypto,True,,141.809217,False,True,False
+C6410,,Other,65515.45,,P0098,4,98.01,Card,True,,,False,True,False
+C1390,,Male,111283.39,2025-04-19,P0024,-5,790.43,Card,False,,88.427391,False,True,False
+C6749,46.0,Other,90757.19,,P0095,-5,505.93,Crypto,True,61.184714,,False,True,False
+C7025,,Other,57283.56,,P0076,-5,544.97,Card,True,-9.099141,-50.766254,False,True,False
+C6339,37.0,Other,109271.26,,P0013,5,486.09,Cash,True,,-93.739009,False,True,False
+C2726,61.0,Male,62947.83,,P0040,10,565.66,Card,True,-77.755175,,False,True,False
+C4629,55.0,Female,55066.33,,P0045,8,599.71,Card,False,-5.073331,-156.360176,False,True,False
+C5192,,Other,46952.64,2025-04-28,P0058,-5,965.14,Crypto,True,-15.696374,,False,True,False
+C7708,,Other,83574.39,,P0090,-5,956.96,Card,True,-69.161025,,False,True,False
+C9437,,Female,63496.45,,P0085,-5,396.61,Online Wallet,True,61.618587,-142.713447,False,True,False
+C4641,,Other,72789.92,2025-06-29,P0080,-5,609.01,Online Wallet,True,,,False,True,False
+C7787,,Other,79842.07,,P0003,-5,704.41,Cash,True,-84.107281,,False,True,False
+C5397,66.0,Other,105985.91,,P0046,10,32.2,Card,False,,41.552334,False,True,False
+C1923,38.0,Male,70819.78,,P0086,-5,934.44,Crypto,True,,,False,True,False
+C3221,66.0,Male,107019.96,,P0098,10,219.38,Online Wallet,True,22.727191,-152.585904,False,True,False
+C9938,25.0,Male,78283.66,,P0034,-5,405.56,Cash,True,-15.013355,-50.369036,False,True,False
+C6740,49.0,Male,112512.89,2025-05-03,P0037,-5,703.31,Card,True,,,False,True,False
+C9134,27.0,Female,43794.74,,P0069,-5,470.87,Crypto,True,,,False,True,False
+C9314,54.0,Female,101076.34,2025-04-10,P0087,-5,799.66,Card,True,-27.047392,129.016986,False,True,False
+C4241,23.0,Female,50579.45,,P0085,-5,634.93,Card,True,-87.93914,,False,True,False
+C5450,,Female,103046.83,,P0082,10,604.13,Card,True,-36.287906,-98.870776,False,True,False
+C4716,,Male,23066.1,,P0060,6,486.75,Online Wallet,True,,-92.258247,False,True,False
+C4685,29.0,Other,67894.42,,P0013,-5,906.32,Online Wallet,False,-84.747334,-76.527484,False,True,False
+C9686,68.0,Other,112628.76,,P0053,-5,755.76,Crypto,True,-71.804263,,False,True,False
+C4778,38.0,Female,63140.82,,P0013,3,323.04,Online Wallet,True,,,False,True,False
+C3080,,Male,114642.69,2025-05-19,P0031,5,876.56,Cash,True,14.371778,-83.063992,False,True,False
+C7210,,Female,23146.82,,P0019,1,183.99,Online Wallet,True,7.384635,,False,True,False
+C7031,70.0,Other,45593.46,,P0096,-5,982.26,Cash,True,,,False,True,False
+C2547,,Other,109195.54,2025-05-23,P0047,-5,509.2,Card,True,-60.422102,-94.582359,False,True,False
+C4867,68.0,Female,55891.23,2025-05-02,P0023,-5,549.01,Online Wallet,True,,162.115526,False,True,False
+C2306,,Other,54462.04,2025-04-24,P0021,-5,750.48,Online Wallet,False,,,False,True,False
+C5646,,Female,69318.44,,P0004,-5,349.88,Card,False,-0.26932,,False,True,False
+C9882,34.0,Other,47585.16,,P0076,-5,354.55,Cash,True,82.604599,31.159023,False,True,False
+C3497,19.0,Female,86143.96,,P0047,4,460.82,Online Wallet,True,,-103.206077,False,True,False
+C3779,53.0,Other,104691.0,,P0005,7,640.93,Cash,True,68.542288,175.528495,False,True,False
+C9435,,Other,72590.73,2025-05-01,P0043,4,99.41,Cash,False,,65.108929,False,True,False
+C3339,35.0,Other,47766.2,2025-06-17,P0095,-5,297.76,Cash,True,32.641694,,False,True,False
+C1205,25.0,Female,30325.66,2025-06-16,P0029,9,479.39,Crypto,True,,,False,True,False
+C6860,,Male,74354.53,2025-04-30,P0040,7,68.14,Crypto,True,26.131704,,False,True,False
+C1504,,Other,106874.58,,P0069,-5,98.3,Online Wallet,True,37.310785,175.654075,False,True,False
+C9222,,Female,104136.26,2025-05-30,P0047,1,26.13,Cash,False,-81.178049,,False,True,False
+C7416,20.0,Other,80583.09,,P0025,3,989.15,Card,True,73.534963,-126.85802,False,True,False
+C8044,60.0,Female,35647.17,,P0083,-5,545.61,Cash,True,-65.273093,0.425958,False,True,False
+C1141,,Female,53397.6,2025-05-19,P0007,-5,388.71,Crypto,True,8.0806,,False,True,False
+C9024,,Male,118257.87,2025-06-25,P0055,-5,763.44,Card,True,,-113.655931,False,True,False
+C7803,,Other,56500.22,,P0041,-5,101.77,Card,True,,2.746246,False,True,False
+C1754,24.0,Other,117269.67,2025-04-30,P0008,7,565.18,Crypto,True,6.555893,,False,True,False
+C3879,28.0,Other,94325.33,,P0059,3,373.9,Card,True,,,False,True,False
+C1330,,Female,102363.96,2025-05-20,P0070,3,789.48,Cash,True,,-23.233637,False,True,False
+C2868,19.0,Female,69948.05,2025-06-02,P0006,2,373.8,Crypto,True,,,False,True,False
+C1962,,Other,42390.92,2025-05-05,P0085,2,860.44,Card,True,,,False,True,False
+C3768,,Other,21412.66,,P0070,-5,195.7,Card,False,6.103875,,False,True,False
+C3555,,Male,31129.02,,P0010,-5,738.75,Crypto,True,-2.350948,43.388315,False,True,False
+C3623,37.0,Female,35255.2,,P0001,5,517.66,Crypto,True,17.876304,,False,True,False
+C1312,,Female,23256.11,,P0030,-5,628.33,Online Wallet,True,74.22072,7.171009,False,True,False
+C7840,28.0,Other,41666.81,2025-06-19,P0004,5,248.03,Crypto,False,-33.727977,,False,True,False
+C5610,30.0,Female,74372.34,,P0029,-5,795.26,Cash,False,-55.993881,129.251886,False,True,False
+C1616,64.0,Other,25160.93,,P0093,-5,676.05,Card,False,,,False,True,False
+C6888,28.0,Male,32501.73,2025-06-08,P0007,1,85.81,Crypto,True,45.435946,,False,True,False
+C1360,24.0,Male,81069.22,2025-06-14,P0015,-5,788.05,Crypto,True,24.663442,,False,True,False
+C5875,,Other,23480.98,2025-06-04,P0010,-5,496.59,Online Wallet,True,,,False,True,False
+C2020,50.0,Other,107859.96,2025-06-15,P0094,4,989.26,Cash,True,,-174.877639,False,True,False
+C1244,,Other,116855.62,,P0069,10,542.64,Card,False,80.541125,-39.30435,False,True,False
+C8136,65.0,Female,107842.74,2025-05-07,P0031,7,711.91,Card,True,,79.903592,False,True,False
+C7455,,Male,48783.32,2025-05-04,P0015,-5,365.86,Card,True,,-163.736238,False,True,False
+C9095,,Other,46537.55,2025-04-28,P0093,3,51.35,Online Wallet,True,-1.038073,140.109708,False,True,False
+C4434,69.0,Male,33634.71,2025-06-25,P0080,-5,374.27,Online Wallet,False,37.550304,142.805657,False,True,False
+C5092,64.0,Other,62788.74,,P0016,-5,608.35,Online Wallet,True,,,False,True,False
+C9326,,Other,90151.78,,P0005,-5,490.11,Crypto,False,38.103049,174.45213,False,True,False
+C4536,,Female,112211.6,,P0071,3,963.34,Cash,True,-21.108055,,False,True,False
+C3036,,Male,70412.43,2025-05-16,P0004,-5,649.02,Online Wallet,True,7.616313,-36.141616,False,True,False
+C5415,28.0,Male,36970.22,2025-06-04,P0009,6,11.62,Card,False,-63.346016,61.397343,False,True,False
+C6961,23.0,Other,43682.74,,P0089,9,599.51,Online Wallet,True,,-7.778411,False,True,False
+C6162,,Male,49318.5,,P0074,-5,122.04,Crypto,True,,-29.750433,False,True,False
+C1402,,Female,110895.66,,P0097,8,741.32,Card,True,,-21.646525,False,True,False
+C5778,41.0,Other,74784.63,,P0039,-5,325.85,Card,True,35.768215,83.199676,False,True,False
+C5411,,Other,86651.51,,P0095,7,786.68,Crypto,True,-53.173503,,False,True,False
+C4828,,Male,78394.79,2025-04-25,P0070,9,101.98,Crypto,False,7.330379,-161.944885,False,True,False
+C3553,,Male,72318.1,2025-04-30,P0069,8,253.11,Card,True,-61.392162,41.142751,False,True,False
+C5033,51.0,Female,60995.9,2025-06-06,P0029,2,842.95,Crypto,True,79.371981,-72.786007,False,True,False
+C4502,,Female,91391.8,,P0015,8,596.42,Cash,False,,,False,True,False
+C2221,,Female,26315.78,,P0034,-5,402.29,Online Wallet,False,35.017478,-37.233664,False,True,False
+C8430,46.0,Other,40941.27,2025-06-11,P0004,4,798.41,Online Wallet,False,5.310043,12.456135,False,True,False
+C9771,18.0,Other,21487.14,,P0100,-5,945.16,Crypto,True,,-93.676739,False,True,False
+C7740,63.0,Male,47454.41,,P0019,-5,170.68,Cash,True,-0.294729,,False,True,False
+C7960,65.0,Other,114561.16,2025-05-26,P0055,5,577.14,Crypto,True,74.71735,52.965619,False,True,False
+C8619,,Other,106089.68,2025-05-01,P0080,7,500.99,Crypto,True,-32.36633,,False,True,False
+C2172,48.0,Other,111788.06,2025-04-27,P0079,2,752.99,Cash,True,,87.752608,False,True,False
+C8575,70.0,Male,34146.04,2025-04-13,P0025,-5,883.02,Crypto,True,57.211697,,False,True,False
+C6811,,Other,70233.86,,P0055,-5,254.14,Online Wallet,True,,72.881569,False,True,False
+C3230,27.0,Female,33590.48,,P0023,5,527.89,Crypto,True,,-37.675102,False,True,False
+C4938,20.0,Female,38084.93,,P0061,2,766.94,Online Wallet,True,,,False,True,False
+C8053,,Female,33435.04,2025-05-06,P0087,10,662.37,Cash,True,87.001334,,False,True,False
+C3271,,Other,52591.47,,P0037,-5,592.11,Crypto,False,,,False,True,False
+C3019,40.0,Other,40219.9,2025-04-07,P0070,7,26.93,Online Wallet,True,-2.957511,,False,True,False
+C4073,29.0,Other,20889.39,2025-06-05,P0063,4,834.91,Cash,False,23.577563,-37.451374,False,True,False
+C5228,56.0,Other,72109.26,,P0074,10,57.0,Online Wallet,False,6.265719,,False,True,False
+C7020,,Female,23816.01,2025-04-09,P0067,-5,445.79,Online Wallet,False,-6.672958,,False,True,False
+C3379,20.0,Female,98141.37,,P0051,8,723.85,Card,False,-49.010687,128.892897,False,True,False
+C2335,65.0,Male,20271.34,,P0098,6,329.72,Card,True,88.371366,,False,True,False
+C4891,,Female,63136.1,,P0040,4,142.58,Card,True,,-49.844326,False,True,False
+C5915,,Other,67917.32,2025-04-14,P0051,5,700.14,Card,True,,,False,True,False
+C1890,,Male,60754.17,2025-06-17,P0074,3,175.56,Card,True,41.278263,,False,True,False
+C1698,55.0,Male,100039.24,2025-06-08,P0017,-5,905.97,Cash,False,-51.342567,-133.568584,False,True,False
+C9613,,Other,86958.86,,P0039,-5,686.31,Crypto,True,,,False,True,False
+C2047,42.0,Female,71052.08,2025-04-20,P0060,-5,928.53,Crypto,True,14.722813,,False,True,False
+C3599,58.0,Other,92609.97,2025-04-09,P0013,-5,668.17,Cash,True,-77.03564,,False,True,False
+C4491,26.0,Male,110459.97,2025-05-26,P0066,3,900.93,Cash,True,-87.32611,,False,True,False
+C5056,51.0,Female,81220.68,,P0077,-5,350.65,Card,True,75.216397,-47.453379,False,True,False
+C5007,33.0,Female,42994.26,,P0031,-5,384.35,Card,False,-31.548244,53.542645,False,True,False
+C1123,,Male,33828.05,2025-04-07,P0045,-5,274.35,Online Wallet,True,39.790386,,False,True,False
+C1690,,Female,114856.9,,P0094,4,179.59,Cash,True,,95.513825,False,True,False
+C9253,70.0,Female,61623.55,,P0100,4,783.75,Online Wallet,True,,,False,True,False
+C2929,57.0,Other,48004.02,,P0024,1,78.46,Card,True,,-95.333731,False,True,False
+C2834,,Male,82483.64,,P0009,9,290.64,Cash,True,-51.362994,-91.873556,False,True,False
+C1416,62.0,Male,104558.78,2025-05-26,P0089,-5,98.96,Card,False,84.835528,102.481155,False,True,False
+C8096,,Male,39208.31,,P0040,-5,118.38,Online Wallet,False,-79.522788,,False,True,False
+C9544,70.0,Female,36214.31,,P0020,-5,846.12,Cash,True,,79.970006,False,True,False
+C9463,55.0,Other,86296.1,,P0052,9,102.88,Crypto,True,,76.211963,False,True,False
+C5457,,Male,31503.19,,P0080,5,192.37,Online Wallet,True,,-169.334186,False,True,False
+C4455,,Other,75920.73,,P0092,-5,341.74,Crypto,True,,-42.119767,False,True,False
+C4109,,Female,34791.51,,P0043,9,278.26,Crypto,True,39.246978,,False,True,False
+C4179,,Male,103518.23,,P0022,-5,55.06,Crypto,True,41.473368,-16.020358,False,True,False
+C2968,65.0,Other,37183.21,2025-05-13,P0090,10,181.38,Crypto,False,-22.094592,,False,True,False
+C1434,,Other,29907.21,,P0009,-5,632.38,Cash,True,,144.883608,False,True,False
+C1473,57.0,Male,70250.76,2025-04-13,P0016,-5,439.8,Online Wallet,True,,140.53737,False,True,False
+C7137,,Other,117318.68,2025-04-29,P0074,-5,619.89,Cash,True,,4.12655,False,True,False
+C4972,,Female,82902.58,,P0060,2,585.35,Crypto,True,,,False,True,False
+C4144,,Other,85622.3,,P0081,9,846.52,Crypto,False,-82.874656,,False,True,False
+C9843,29.0,Other,113916.08,,P0019,-5,772.44,Crypto,True,8.719328,-74.022547,False,True,False
+C5843,61.0,Female,57517.35,2025-05-28,P0054,-5,73.12,Crypto,True,73.870568,-75.098433,False,True,False
+C7463,23.0,Female,104590.56,,P0021,1,39.56,Cash,True,,69.290317,False,True,False
+C3889,46.0,Other,36341.84,2025-04-06,P0038,-5,292.94,Cash,True,,,False,True,False
+C7810,,Female,75095.77,,P0059,-5,364.77,Card,False,-6.372208,-54.575388,False,True,False
+C5260,,Other,39057.75,2025-04-01,P0004,-5,162.6,Crypto,True,,22.895063,False,True,False
+C3607,,Male,71517.88,2025-05-30,P0048,-5,630.02,Online Wallet,False,,,False,True,False
+C9213,,Female,21548.86,2025-06-08,P0054,-5,47.62,Crypto,False,-56.544981,16.546562,False,True,False
+C5001,56.0,Other,46494.93,2025-04-18,P0059,5,154.67,Crypto,True,-46.189804,,False,True,False
+C5571,32.0,Other,100551.34,2025-04-03,P0044,-5,595.69,Cash,True,,,False,True,False
+C8064,38.0,Other,71105.62,2025-04-18,P0056,7,659.84,Online Wallet,True,,,False,True,False
+C5591,,Other,26865.72,2025-04-23,P0094,5,534.14,Online Wallet,False,,,False,True,False
+C3052,,Female,104323.39,2025-06-14,P0053,7,91.46,Crypto,True,-49.523542,-133.633541,False,True,False
+C1565,,Other,111704.04,2025-06-09,P0084,-5,269.04,Cash,True,18.771318,,False,True,False
+C1187,25.0,Other,58590.98,2025-05-07,P0067,-5,781.81,Crypto,True,-19.990462,,False,True,False
+C5525,,Other,107411.75,2025-06-15,P0010,-5,202.63,Card,False,41.284785,,False,True,False
+C5662,56.0,Male,73919.25,2025-04-09,P0061,-5,308.78,Online Wallet,False,-82.599007,-17.260386,False,True,False
+C9347,26.0,Other,38438.3,,P0073,-5,570.24,Card,True,,,False,True,False
+C2096,,Other,35180.58,2025-05-30,P0033,-5,261.93,Crypto,True,-84.206041,,False,True,False
+C1932,19.0,Male,111717.25,,P0002,7,545.83,Card,True,18.324861,143.805959,False,True,False
+C9102,,Female,102904.49,2025-05-18,P0059,-5,115.33,Card,True,,,False,True,False
+C7485,20.0,Other,87747.31,2025-04-05,P0058,-5,853.71,Cash,True,,,False,True,False
+C3402,30.0,Other,85064.58,,P0018,6,220.53,Crypto,False,55.749377,,False,True,False
+C5295,,Male,26131.05,,P0031,-5,55.63,Crypto,False,,174.81655,False,True,False
+C8866,38.0,Other,43971.41,2025-05-23,P0035,-5,233.82,Crypto,True,,-162.56027,False,True,False
+C6824,,Female,75465.14,2025-06-16,P0038,1,759.7,Card,True,,,False,True,False
+C7957,,Male,20532.98,,P0055,-5,288.27,Crypto,False,-38.953452,109.307731,False,True,False
+C4751,,Female,68403.3,2025-04-16,P0050,-5,426.05,Card,True,,-3.663659,False,True,False
+C5590,,Other,28269.5,2025-06-06,P0050,-5,916.94,Card,False,27.185048,-32.177742,False,True,False
+C1631,,Other,100865.97,2025-05-24,P0005,10,308.41,Card,True,,,False,True,False
+C2481,,Female,45444.45,2025-06-09,P0035,8,657.28,Online Wallet,True,71.00626,-110.052191,False,True,False
+C1396,27.0,Other,88747.18,,P0033,-5,255.49,Cash,False,,,False,True,False
+C8318,24.0,Male,99548.36,2025-06-11,P0084,-5,442.41,Card,True,53.862738,,False,True,False
+C4949,,Male,33171.76,2025-04-30,P0009,5,330.01,Cash,True,,,False,True,False
+C6447,,Other,28163.6,,P0002,-5,711.5,Online Wallet,True,,19.223256,False,True,False
+C2306,23.0,Male,103886.13,2025-05-19,P0069,8,863.06,Cash,True,,,False,True,False
+C9079,25.0,Female,105863.95,,P0062,-5,976.2,Crypto,True,-3.103939,,False,True,False
+C8017,22.0,Other,23255.79,2025-05-06,P0034,-5,744.96,Card,True,21.396708,-51.13674,False,True,False
+C3521,,Other,117725.79,,P0034,-5,502.5,Online Wallet,True,72.215791,-45.270589,False,True,False
+C2710,58.0,Other,106511.29,2025-04-05,P0077,-5,277.15,Card,True,68.35378,,False,True,False
+C5275,,Female,22900.08,2025-04-06,P0057,-5,151.56,Online Wallet,True,,,False,True,False
+C7938,,Female,56829.84,2025-05-01,P0026,8,948.35,Online Wallet,True,75.716608,175.973237,False,True,False
+C3165,,Other,37769.16,2025-04-18,P0010,7,709.16,Online Wallet,False,,,False,True,False
+C4210,48.0,Female,58309.7,2025-04-30,P0073,10,664.03,Online Wallet,False,,-135.303653,False,True,False
+C1951,,Male,54409.66,2025-04-18,P0052,-5,888.95,Card,True,,,False,True,False
+C7386,,Female,52527.42,2025-05-11,P0047,10,466.71,Cash,True,-60.050993,85.617048,False,True,False
+C3175,22.0,Male,63369.87,,P0093,-5,499.48,Crypto,True,,,False,True,False
+C4527,,Female,57680.67,2025-06-16,P0080,-5,425.15,Online Wallet,False,,-47.223689,False,True,False
+C9499,,Other,112278.76,,P0052,-5,430.87,Crypto,True,,,False,True,False
+C5632,26.0,Other,34791.35,,P0051,-5,892.35,Cash,True,67.274521,-2.160435,False,True,False
+C5055,,Female,27376.56,,P0022,4,87.86,Cash,True,-35.389191,-104.325351,False,True,False
+C8931,55.0,Other,51880.17,,P0006,-5,871.92,Card,False,-49.848748,,False,True,False
+C9221,58.0,Other,109246.97,2025-04-23,P0083,1,912.87,Crypto,False,-65.850005,-22.0431,False,True,False
+C3168,38.0,Other,67550.89,,P0088,-5,206.03,Online Wallet,True,,,False,True,False
+C4265,,Other,27000.94,,P0038,9,962.01,Card,True,-68.626585,-5.985041,False,True,False
+C7550,38.0,Other,62115.95,,P0052,-5,417.15,Online Wallet,True,-86.065517,-19.11877,False,True,False
+C7427,,Male,116167.97,2025-04-03,P0001,2,250.34,Crypto,True,,,False,True,False
+C3686,56.0,Male,61040.8,2025-04-05,P0063,6,837.46,Online Wallet,True,,,False,True,False
+C7436,,Other,54174.72,2025-04-20,P0067,-5,858.12,Card,True,64.153517,152.712222,False,True,False
+C2155,,Other,79837.39,,P0025,4,582.11,Cash,False,,22.091149,False,True,False
+C4082,30.0,Other,119353.16,2025-05-08,P0011,-5,928.48,Card,False,15.265182,,False,True,False
+C6589,,Female,32964.78,,P0094,-5,228.24,Online Wallet,False,25.232113,,False,True,False
+C5004,,Female,78465.16,2025-06-17,P0026,3,226.82,Card,True,,,False,True,False
+C2145,20.0,Other,77181.91,,P0056,-5,611.59,Crypto,False,,,False,True,False
+C9188,32.0,Female,42498.79,,P0092,10,375.0,Online Wallet,True,4.536592,,False,True,False
+C5779,55.0,Other,116624.51,,P0029,8,147.96,Cash,False,,,False,True,False
+C5691,,Male,99704.84,2025-04-18,P0009,4,795.33,Crypto,True,,-63.951553,False,True,False
+C4625,65.0,Female,75827.71,,P0065,7,643.41,Cash,True,,-65.676168,False,True,False
+C3977,51.0,Other,64659.82,2025-06-19,P0048,-5,585.7,Card,True,,,False,True,False
+C3704,,Other,20623.1,2025-04-20,P0066,-5,622.05,Cash,True,3.081301,-15.823048,False,True,False
+C1311,65.0,Male,21682.95,,P0009,7,801.69,Card,True,-16.256157,,False,True,False
+C3230,,Other,73178.9,2025-06-16,P0058,4,382.07,Online Wallet,True,78.685766,143.652637,False,True,False
+C6789,39.0,Other,49563.41,,P0023,6,661.22,Online Wallet,False,,,False,True,False
+C2114,,Other,34713.05,2025-06-13,P0083,6,686.79,Crypto,True,,-89.057013,False,True,False
+C7883,,Other,25963.36,2025-04-22,P0011,5,236.25,Cash,False,,,False,True,False
+C3683,59.0,Female,26663.09,,P0062,3,901.39,Card,True,,,False,True,False
+C6079,61.0,Female,63189.28,2025-04-19,P0039,-5,623.12,Card,False,,104.807853,False,True,False
+C5394,,Other,30394.56,2025-05-24,P0063,2,560.26,Online Wallet,True,-73.504845,-154.893904,False,True,False
+C2726,41.0,Other,116136.58,2025-04-19,P0043,-5,686.4,Card,True,-76.810266,-26.008398,False,True,False
+C1604,,Other,71513.84,,P0037,4,831.08,Crypto,True,,,False,True,False
+C3993,,Other,100457.56,2025-06-04,P0067,2,804.59,Online Wallet,True,52.948412,,False,True,False
+C1639,30.0,Male,34760.51,,P0038,1,359.98,Crypto,True,,,False,True,False
+C8923,32.0,Male,107859.44,,P0080,-5,100.62,Online Wallet,False,-49.411209,,False,True,False
+C8654,,Other,50125.53,,P0080,-5,275.15,Online Wallet,True,64.033119,,False,True,False
+C3265,50.0,Female,73372.86,2025-04-30,P0041,6,148.66,Card,False,,,False,True,False
+C5375,,Male,26627.86,,P0081,-5,144.99,Online Wallet,True,,,False,True,False
+C3716,,Male,61163.93,,P0067,-5,843.09,Crypto,False,78.389168,,False,True,False
+C3555,23.0,Other,97108.62,,P0098,-5,959.54,Online Wallet,False,,,False,True,False
+C7402,24.0,Other,114792.28,,P0067,-5,659.48,Crypto,True,,,False,True,False
+C3837,38.0,Other,29855.43,2025-04-28,P0054,6,113.22,Crypto,True,,,False,True,False
+C1036,28.0,Female,87942.46,2025-06-16,P0052,2,291.28,Crypto,True,-18.290814,131.567791,False,True,False
+C5376,58.0,Male,39495.24,2025-05-11,P0023,-5,247.82,Online Wallet,True,25.707931,139.286274,False,True,False
+C6417,,Other,61816.43,2025-05-19,P0095,-5,854.83,Card,True,-62.414514,126.666081,False,True,False
+C1726,37.0,Other,98990.63,2025-06-10,P0005,-5,998.09,Card,True,52.060281,,False,True,False
+C3862,19.0,Other,60363.33,,P0041,5,732.83,Card,True,,120.692608,False,True,False
+C4589,49.0,Male,75702.31,,P0014,-5,522.7,Crypto,False,5.698009,108.392387,False,True,False
+C5205,,Other,93329.21,,P0031,-5,609.57,Cash,True,76.75507,,False,True,False
+C3515,42.0,Male,92246.5,2025-06-06,P0026,4,60.23,Cash,True,,169.771158,False,True,False
+C6695,,Female,113505.69,,P0063,-5,284.94,Card,True,,,False,True,False
+C2097,,Female,87344.97,2025-06-07,P0096,10,24.94,Card,True,,4.922426,False,True,False
+C6114,,Other,51065.0,2025-06-07,P0033,-5,826.98,Online Wallet,False,-40.312403,-119.819918,False,True,False
+C4618,,Other,97449.24,2025-06-01,P0049,-5,929.88,Card,False,,,False,True,False
+C3554,,Female,77815.63,,P0084,10,863.53,Crypto,True,,-70.932513,False,True,False
+C7304,,Male,105167.39,2025-04-25,P0061,10,92.92,Crypto,True,,1.658167,False,True,False
+C2236,53.0,Other,58162.36,,P0085,-5,783.74,Card,False,,,False,True,False
+C8734,36.0,Male,78684.77,2025-05-28,P0019,6,955.35,Card,True,,-139.526329,False,True,False
+C4781,,Other,82197.38,2025-05-07,P0003,3,646.32,Crypto,True,-73.62472,,False,True,False
+C7245,53.0,Male,51574.28,2025-04-16,P0085,8,483.51,Card,True,,-99.341725,False,True,False
+C8948,26.0,Other,97927.58,2025-06-10,P0085,10,455.49,Online Wallet,False,,,False,True,False
+C5117,,Female,22936.03,,P0079,-5,571.18,Cash,True,-16.158881,164.891685,False,True,False
+C4715,41.0,Female,55703.71,2025-04-16,P0071,-5,367.08,Crypto,True,,-142.514326,False,True,False
+C7089,43.0,Male,93137.62,2025-04-24,P0009,3,808.28,Cash,False,,,False,True,False
+C2099,51.0,Male,118087.88,2025-04-06,P0023,-5,744.56,Online Wallet,True,,,False,True,False
+C4376,,Male,46760.85,,P0037,8,84.26,Crypto,True,,,False,True,False
+C3144,25.0,Female,64835.36,,P0067,-5,358.69,Card,True,-60.642391,,False,True,False
+C3997,,Other,83429.14,2025-04-03,P0071,-5,426.88,Crypto,False,,,False,True,False
+C9725,,Other,41283.72,2025-05-08,P0088,-5,150.15,Card,True,74.20923,84.790907,False,True,False
+C4247,47.0,Other,41368.63,2025-06-20,P0029,2,526.56,Cash,True,-2.768518,,False,True,False
+C5673,,Female,62981.89,,P0097,6,556.22,Crypto,True,,,False,True,False
+C1375,,Other,81245.63,,P0019,-5,70.63,Online Wallet,True,,,False,True,False
+C1966,,Other,20504.05,2025-06-06,P0017,4,477.41,Online Wallet,True,,,False,True,False
+C5065,53.0,Male,86290.48,2025-06-08,P0046,-5,166.48,Online Wallet,True,,32.731808,False,True,False
+C8659,47.0,Female,58595.55,,P0010,-5,521.53,Crypto,True,,,False,True,False
+C6370,,Male,62092.83,2025-04-11,P0088,-5,892.27,Crypto,True,21.699393,135.276761,False,True,False
+C3329,,Other,34916.36,2025-06-26,P0057,6,894.46,Online Wallet,True,,,False,True,False
+C1700,,Female,44767.63,2025-05-05,P0019,-5,112.38,Card,True,85.323637,,False,True,False
+C8671,,Other,87551.89,,P0098,-5,383.25,Online Wallet,False,-30.959667,5.64073,False,True,False
+C8361,,Female,78677.3,2025-04-28,P0042,1,966.07,Cash,False,,53.401197,False,True,False
+C7939,53.0,Other,72307.85,,P0068,1,842.85,Cash,True,,-112.479968,False,True,False
+C1286,48.0,Female,74642.2,,P0073,3,563.88,Card,True,65.053783,104.177341,False,True,False
+C1874,58.0,Female,51622.81,,P0071,-5,862.6,Card,True,-76.352727,,False,True,False
+C8268,,Other,57680.89,,P0030,-5,910.14,Card,True,-10.240339,-62.654637,False,True,False
+C2415,41.0,Female,48702.9,2025-04-27,P0015,9,930.12,Online Wallet,False,,,False,True,False
+C6834,,Other,114039.4,2025-04-20,P0065,-5,215.42,Card,True,,,False,True,False
+C3111,18.0,Male,104032.65,2025-06-25,P0053,1,167.88,Online Wallet,False,,179.630405,False,True,False
+C9981,,Male,27095.79,2025-05-15,P0021,1,658.21,Crypto,False,,-173.929054,False,True,False
+C4051,69.0,Other,88094.01,,P0096,-5,470.93,Crypto,True,-8.439004,,False,True,False
+C1810,50.0,Male,113128.25,2025-05-30,P0040,-5,191.28,Crypto,True,-32.299747,76.931422,False,True,False
+C4881,,Female,104838.33,2025-06-17,P0007,6,891.19,Online Wallet,False,-0.466626,,False,True,False
+C9212,62.0,Female,103070.35,,P0050,5,971.36,Crypto,False,66.422502,-126.510088,False,True,False
+C8553,,Male,84905.05,,P0029,-5,214.11,Online Wallet,False,,,False,True,False
+C7575,,Other,21869.46,,P0063,2,420.53,Card,True,,,False,True,False
+C6898,,Other,37257.04,2025-04-10,P0062,5,178.85,Crypto,True,-19.807901,,False,True,False
+C8722,62.0,Other,76459.07,,P0033,-5,578.21,Online Wallet,True,-2.146873,-68.084238,False,True,False
+C6510,,Male,59870.96,2025-04-21,P0046,9,584.57,Cash,True,,,False,True,False
+C1372,,Female,96864.27,,P0065,5,234.6,Cash,False,80.270307,,False,True,False
+C9588,,Male,90589.74,,P0052,-5,730.73,Cash,True,78.941349,,False,True,False
+C4941,41.0,Other,44032.67,2025-05-20,P0087,-5,799.24,Crypto,True,,157.399074,False,True,False
+C8039,,Other,36101.5,2025-05-23,P0073,10,488.23,Crypto,False,,-147.351029,False,True,False
+C7444,23.0,Male,75044.34,2025-05-05,P0028,9,792.67,Online Wallet,True,-46.845782,-170.70395,False,True,False
+C9482,24.0,Male,67693.56,,P0032,4,882.48,Crypto,True,-8.720012,,False,True,False
+C2717,,Female,57177.06,2025-04-27,P0014,9,201.08,Cash,True,40.205364,,False,True,False
+C6951,61.0,Male,87520.29,2025-04-18,P0048,-5,48.15,Card,True,69.517146,,False,True,False
+C7618,52.0,Male,115315.05,,P0067,-5,878.93,Card,False,,-142.952674,False,True,False
+C4535,26.0,Female,101710.63,,P0004,2,134.1,Crypto,True,-36.639912,,False,True,False
+C9365,,Other,101910.86,,P0056,6,170.35,Cash,True,21.242724,46.759628,False,True,False
+C4319,33.0,Other,56893.05,,P0089,-5,440.81,Card,True,-36.989528,-84.960763,False,True,False
+C8936,20.0,Female,71490.43,,P0037,-5,761.77,Crypto,False,-55.733205,-146.305846,False,True,False
+C6278,35.0,Other,112038.14,,P0055,-5,544.56,Cash,False,,-149.377043,False,True,False
+C2183,58.0,Female,65695.44,2025-04-01,P0030,7,993.37,Online Wallet,True,,43.156915,False,True,False
+C5064,65.0,Female,22618.32,2025-04-21,P0050,8,631.57,Crypto,False,,17.99949,False,True,False
+C8230,,Other,69495.43,,P0071,-5,213.08,Card,False,,,False,True,False
+C5960,,Other,70921.64,2025-05-27,P0084,-5,59.2,Card,True,-58.730776,10.136465,False,True,False
+C2989,68.0,Female,41932.97,2025-05-18,P0075,8,850.44,Crypto,False,79.298792,,False,True,False
+C3986,,Female,103986.43,,P0075,-5,800.46,Card,False,,-146.266877,False,True,False
+C7091,,Male,35742.69,,P0059,-5,40.05,Cash,True,,86.357051,False,True,False
+C5875,20.0,Other,57433.3,,P0015,-5,561.19,Cash,False,4.535929,152.185348,False,True,False
+C4568,,Male,101550.24,,P0063,8,162.04,Crypto,True,,,False,True,False
+C7576,,Male,58748.66,2025-04-17,P0034,-5,599.44,Crypto,False,,19.454829,False,True,False
+C5238,66.0,Other,66155.78,2025-05-02,P0088,4,408.69,Online Wallet,False,,59.792597,False,True,False
+C5993,38.0,Other,55941.35,,P0041,-5,286.65,Card,True,,,False,True,False
+C9435,,Male,98869.17,2025-06-02,P0041,-5,383.39,Online Wallet,False,,-77.376869,False,True,False
+C1343,60.0,Male,102346.13,2025-05-02,P0058,10,272.09,Card,True,-1.385224,,False,True,False
+C7721,47.0,Male,64658.12,,P0008,-5,92.59,Online Wallet,False,48.629458,,False,True,False
+C1150,,Female,58734.27,,P0042,-5,570.13,Online Wallet,True,,-111.287353,False,True,False
+C1199,,Other,110520.97,2025-04-08,P0030,-5,834.34,Cash,True,30.11268,,False,True,False
+C8290,,Male,117811.98,,P0054,-5,237.94,Crypto,True,,-98.057062,False,True,False
+C9720,,Other,60816.13,,P0048,-5,477.3,Crypto,True,-88.212629,,False,True,False
+C5970,,Other,67997.63,,P0020,7,591.59,Card,False,,,False,True,False
+C9679,,Male,79938.68,2025-06-13,P0034,3,996.61,Crypto,True,,-20.237865,False,True,False
+C9954,34.0,Other,90359.74,,P0034,1,785.07,Online Wallet,True,,-69.642978,False,True,False
+C2071,,Male,114331.52,2025-06-06,P0078,-5,289.76,Card,False,,15.095309,False,True,False
+C1108,,Male,108910.07,,P0044,1,561.43,Card,True,,123.727372,False,True,False
+C9350,31.0,Male,91031.98,2025-04-30,P0038,-5,309.97,Cash,True,13.526813,,False,True,False
+C7024,64.0,Male,41953.9,2025-05-26,P0019,-5,366.97,Cash,False,,,False,True,False
+C9716,34.0,Female,31945.92,,P0061,4,822.16,Crypto,False,-67.863189,,False,True,False
+C8757,31.0,Female,70027.79,2025-05-08,P0096,-5,29.55,Online Wallet,True,-2.147672,42.668852,False,True,False
+C4868,,Female,63561.67,,P0093,2,152.59,Crypto,True,34.522199,118.58313,False,True,False
+C9757,55.0,Male,33754.14,,P0032,10,759.92,Crypto,True,-74.700335,171.14594,False,True,False
+C2818,,Female,109490.2,,P0092,-5,758.45,Crypto,True,-89.532511,,False,True,False
+C4819,20.0,Other,72344.73,2025-05-09,P0074,-5,961.25,Online Wallet,True,80.144543,-75.841338,False,True,False
+C4609,,Other,60138.85,2025-06-29,P0096,8,86.09,Cash,True,18.343188,,False,True,False
+C8292,,Male,89001.99,,P0059,-5,529.05,Crypto,False,,-169.569283,False,True,False
+C8634,48.0,Female,42826.76,,P0086,2,696.02,Online Wallet,True,,93.830558,False,True,False
+C5255,47.0,Male,111670.14,2025-05-17,P0052,3,694.44,Crypto,True,47.027898,-81.591731,False,True,False
+C3967,,Other,84500.76,,P0035,-5,311.96,Online Wallet,True,-26.522646,,False,True,False
+C3211,28.0,Other,64076.29,,P0020,-5,857.81,Online Wallet,False,,135.941508,False,True,False
+C3925,,Female,25112.59,,P0090,3,705.37,Online Wallet,True,78.009562,65.224483,False,True,False
+C6804,38.0,Other,70959.46,2025-06-12,P0013,-5,472.83,Online Wallet,True,-23.407033,5.257798,False,True,False
+C8285,22.0,Other,82898.47,,P0060,-5,193.78,Cash,True,32.897685,,False,True,False
+C9408,,Other,107664.83,2025-04-11,P0065,-5,72.77,Card,False,57.228381,,False,True,False
+C2259,,Other,93591.75,2025-05-03,P0034,6,432.07,Card,False,-58.740464,,False,True,False
+C4056,46.0,Female,73716.05,,P0024,-5,56.78,Card,True,84.675063,,False,True,False
+C8162,47.0,Male,72656.21,2025-05-03,P0025,-5,385.0,Online Wallet,True,34.132667,-15.685275,False,True,False
+C3933,,Other,29381.56,2025-05-07,P0008,-5,39.65,Card,True,50.538098,,False,True,False
+C7073,,Other,56127.73,,P0068,-5,774.64,Card,False,,-13.121164,False,True,False
+C8005,,Other,63619.65,,P0026,7,29.19,Online Wallet,True,,-77.146449,False,True,False
+C1597,,Other,36380.74,2025-05-27,P0066,-5,816.46,Card,True,,,False,True,False
+C3977,29.0,Other,95104.67,,P0010,-5,40.35,Crypto,True,-61.836339,,False,True,False
+C5390,,Female,79751.4,,P0065,5,949.59,Crypto,False,,153.861044,False,True,False
+C3556,20.0,Female,105319.42,2025-06-13,P0022,-5,572.76,Cash,True,,,False,True,False
+C7350,70.0,Female,23061.27,,P0073,-5,134.72,Crypto,False,-9.466741,-14.84611,False,True,False
+C8833,,Other,70488.6,2025-05-13,P0071,4,675.4,Card,False,,113.083402,False,True,False
+C1372,39.0,Other,116607.03,,P0055,5,355.89,Cash,True,,-52.196808,False,True,False
+C8244,53.0,Other,98205.94,2025-06-21,P0059,-5,29.55,Card,True,-88.501256,,False,True,False
+C2812,,Other,68047.7,,P0060,6,631.64,Crypto,True,,,False,True,False
+C3569,23.0,Male,75846.96,,P0088,-5,81.15,Card,True,-72.113982,-7.633833,False,True,False
+C8222,,Other,44817.65,2025-06-16,P0082,5,934.8,Online Wallet,False,,-49.69536,False,True,False
+C6576,56.0,Other,96665.21,2025-06-18,P0041,-5,33.43,Card,True,,130.297357,False,True,False
+C6822,58.0,Other,49384.39,,P0037,-5,322.68,Cash,True,,,False,True,False
+C8397,60.0,Other,100537.39,2025-04-17,P0007,-5,434.93,Online Wallet,True,-5.323216,,False,True,False
+C8895,70.0,Female,85813.33,,P0097,-5,311.27,Online Wallet,True,,,False,False,True
+C8282,69.0,Male,72235.78,,P0033,-5,962.04,Card,True,,-114.324044,False,False,True
+C5957,19.0,Male,69267.57,2025-08-18,P0013,4,161.38,Card,True,-44.145542,,False,False,True
+C6290,27.0,Other,84306.55,2025-09-05,P0088,1,658.83,Cash,False,81.829361,-49.847302,False,False,True
+C8542,,Male,112712.26,2025-08-10,P0009,-5,691.3,Online Wallet,False,13.643939,-149.828366,False,False,True
+C8307,54.0,Male,65717.7,,P0021,7,736.23,Card,True,,,False,False,True
+C8691,,Male,69040.69,2025-09-23,P0079,2,959.19,Card,True,,,False,False,True
+C4525,,Female,69057.44,2025-09-24,P0083,-5,244.78,Online Wallet,True,16.682951,-81.187269,False,False,True
+C5408,50.0,Other,114300.95,,P0007,6,119.56,Card,False,-70.011194,109.177605,False,False,True
+C3460,61.0,Other,27062.56,,P0042,4,34.36,Online Wallet,True,,,False,False,True
+C8809,,Male,39981.43,,P0001,1,23.17,Cash,True,,-106.591019,False,False,True
+C5400,,Female,52253.58,2025-07-12,P0063,-5,334.75,Crypto,False,,,False,False,True
+C9121,,Other,84816.72,2025-07-07,P0068,10,216.09,Crypto,True,-45.242128,-113.676046,False,False,True
+C2947,60.0,Other,111991.93,,P0064,-5,13.81,Cash,False,,33.008925,False,False,True
+C5094,28.0,Other,77363.92,2025-07-06,P0086,8,255.8,Card,True,,-143.058356,False,False,True
+C2316,34.0,Other,40763.54,2025-08-28,P0025,9,560.28,Online Wallet,True,-30.477537,,False,False,True
+C5000,32.0,Male,89991.16,2025-09-22,P0069,-5,36.36,Crypto,False,,116.184099,False,False,True
+C3983,35.0,Male,77985.5,2025-07-17,P0100,8,186.84,Online Wallet,True,,-4.455773,False,False,True
+C2939,,Female,24098.71,2025-09-28,P0011,7,650.04,Card,False,29.336864,,False,False,True
+C1168,,Other,108606.33,2025-07-24,P0095,-5,679.74,Card,False,,,False,False,True
+C9470,,Other,73668.48,2025-08-18,P0099,10,910.06,Online Wallet,True,,,False,False,True
+C3124,53.0,Female,93272.17,,P0009,-5,17.07,Online Wallet,True,41.969523,145.954566,False,False,True
+C5514,49.0,Other,110267.48,2025-09-01,P0056,-5,584.91,Crypto,True,63.858474,,False,False,True
+C8153,34.0,Other,58114.68,2025-09-04,P0090,-5,740.62,Online Wallet,True,,,False,False,True
+C1379,,Female,48406.58,2025-09-12,P0028,7,13.57,Crypto,True,,,False,False,True
+C2278,,Other,59991.68,,P0083,-5,154.18,Cash,True,-19.800819,,False,False,True
+C9815,70.0,Female,109016.08,,P0097,-5,851.62,Card,True,-2.865928,,False,False,True
+C8225,39.0,Other,36915.66,,P0069,-5,86.71,Crypto,False,,,False,False,True
+C9389,,Other,57520.77,,P0025,4,228.27,Card,True,,,False,False,True
+C1868,42.0,Male,85939.01,2025-09-09,P0084,-5,405.59,Crypto,True,-22.224804,,False,False,True
+C4159,,Male,108297.57,2025-08-06,P0028,-5,406.07,Crypto,False,,-152.432579,False,False,True
+C5402,,Other,30614.04,2025-07-02,P0006,-5,531.6,Card,False,,23.154292,False,False,True
+C8807,39.0,Female,96235.49,,P0084,-5,694.72,Cash,True,,-169.432657,False,False,True
+C8368,,Other,80759.72,,P0013,-5,487.34,Cash,True,57.607833,,False,False,True
+C6771,,Other,59772.43,2025-07-03,P0041,-5,379.44,Cash,True,-42.149728,,False,False,True
+C9481,21.0,Female,64934.67,,P0012,4,712.88,Crypto,True,-83.638197,-22.616111,False,False,True
+C7631,,Other,107686.39,2025-08-28,P0059,-5,759.21,Online Wallet,True,-82.24511,130.052342,False,False,True
+C9556,58.0,Male,100512.37,2025-09-02,P0095,2,505.01,Online Wallet,False,,,False,False,True
+C1042,,Other,25543.04,2025-09-07,P0087,7,598.96,Crypto,False,,-28.501718,False,False,True
+C3318,,Female,99254.75,2025-07-30,P0016,5,45.82,Online Wallet,True,,-117.07365,False,False,True
+C5247,19.0,Other,72691.18,,P0015,2,300.84,Card,True,,-20.478147,False,False,True
+C9356,,Other,92367.75,,P0032,5,883.46,Card,False,,,False,False,True
+C9177,,Other,53450.28,,P0054,-5,28.73,Card,False,,,False,False,True
+C5327,,Female,24036.68,2025-09-16,P0027,9,586.56,Online Wallet,True,,37.8092,False,False,True
+C8220,,Other,29014.5,2025-09-20,P0024,-5,369.07,Online Wallet,False,,,False,False,True
+C1176,21.0,Other,26389.05,2025-07-31,P0075,10,534.65,Online Wallet,True,,,False,False,True
+C9985,,Male,41985.46,,P0020,-5,41.84,Online Wallet,True,,-171.58333,False,False,True
+C6836,29.0,Other,48316.45,,P0063,-5,915.64,Card,True,,37.475274,False,False,True
+C7047,,Male,108461.86,2025-07-13,P0015,7,802.72,Card,True,-0.614355,,False,False,True
+C7588,35.0,Female,80611.9,2025-09-23,P0011,3,870.92,Card,True,58.551093,29.762666,False,False,True
+C5768,18.0,Female,79906.52,,P0006,-5,10.11,Online Wallet,True,,125.755709,False,False,True
+C5428,51.0,Other,101770.64,,P0014,-5,180.86,Card,False,75.546505,144.122054,False,False,True
+C8734,,Other,70690.83,2025-08-16,P0034,-5,562.07,Online Wallet,True,80.89623,86.65336,False,False,True
+C2916,,Male,79833.4,2025-08-28,P0072,-5,739.63,Card,True,-72.784969,129.051253,False,False,True
+C2573,29.0,Other,92889.02,,P0094,3,864.09,Cash,False,,,False,False,True
+C2924,33.0,Other,86754.57,,P0076,8,774.2,Crypto,True,-68.924654,12.920725,False,False,True
+C5585,27.0,Male,86978.15,2025-08-31,P0048,8,763.03,Cash,True,,-145.672877,False,False,True
+C9808,,Other,77770.08,,P0008,-5,944.46,Online Wallet,False,82.872932,,False,False,True
+C9270,,Male,44833.56,2025-08-21,P0044,9,601.65,Online Wallet,True,,106.344945,False,False,True
+C3413,,Other,85010.42,2025-07-23,P0043,-5,383.95,Online Wallet,False,1.86078,-169.234108,False,False,True
+C3983,22.0,Female,115913.41,,P0085,-5,647.88,Online Wallet,False,,-21.237343,False,False,True
+C6598,56.0,Other,70604.27,,P0045,1,286.98,Cash,True,31.332303,,False,False,True
+C7430,25.0,Female,46386.85,,P0001,-5,82.11,Cash,True,52.890974,,False,False,True
+C9087,22.0,Other,73742.47,2025-07-29,P0060,4,476.06,Crypto,True,15.891323,,False,False,True
+C2560,23.0,Other,82645.62,2025-07-13,P0010,6,169.55,Card,True,,74.78263,False,False,True
+C2472,46.0,Other,26628.6,,P0078,6,410.97,Online Wallet,True,74.019883,-16.640259,False,False,True
+C1615,,Female,74657.3,2025-09-13,P0019,-5,278.54,Crypto,True,,,False,False,True
+C7817,,Female,69459.21,2025-07-30,P0055,-5,242.78,Card,True,,,False,False,True
+C2020,,Other,92308.28,2025-08-26,P0074,-5,16.67,Crypto,True,8.105156,,False,False,True
+C7243,,Female,37277.08,,P0086,-5,438.73,Card,True,-3.228443,68.060012,False,False,True
+C4919,43.0,Other,61345.25,,P0075,-5,500.58,Cash,True,-86.39009,,False,False,True
+C2445,,Other,21398.83,,P0061,5,680.25,Cash,True,29.54934,-8.314368,False,False,True
+C9183,,Other,73573.19,,P0096,-5,975.92,Cash,False,,,False,False,True
+C9571,34.0,Male,21549.59,,P0021,8,232.66,Crypto,True,6.407826,124.314084,False,False,True
+C7206,,Other,20592.47,,P0062,-5,148.13,Crypto,True,46.203457,81.494869,False,False,True
+C8963,66.0,Other,46619.0,2025-09-01,P0011,4,230.16,Cash,False,29.341665,-175.250785,False,False,True
+C3145,,Male,21481.03,,P0098,4,256.81,Card,True,-54.851941,-34.975595,False,False,True
+C6874,21.0,Other,99894.25,2025-08-10,P0044,-5,295.05,Card,True,,,False,False,True
+C2506,,Female,37077.72,,P0028,7,111.89,Crypto,True,79.303748,,False,False,True
+C3022,55.0,Other,116879.32,,P0027,1,78.15,Card,False,,,False,False,True
+C7856,28.0,Female,114770.28,,P0078,-5,737.69,Card,False,,-47.507205,False,False,True
+C8186,,Other,77651.26,2025-09-06,P0016,3,31.76,Cash,True,-63.899776,26.866909,False,False,True
+C6103,40.0,Male,114259.88,2025-07-23,P0009,2,540.35,Crypto,True,-47.803195,125.989027,False,False,True
+C8363,,Male,63191.87,,P0005,2,520.35,Card,True,35.255666,-72.907026,False,False,True
+C9315,,Other,85246.4,,P0035,6,240.54,Cash,True,,-172.780777,False,False,True
+C5798,,Male,79303.13,,P0050,-5,207.81,Card,True,-71.692939,117.268166,False,False,True
+C3952,,Female,72489.75,2025-09-14,P0007,6,700.82,Cash,True,,,False,False,True
+C4170,,Male,43686.96,2025-08-24,P0090,-5,139.23,Online Wallet,False,-36.52102,-78.479058,False,False,True
+C3913,69.0,Female,25690.68,,P0036,8,718.34,Online Wallet,False,-72.802262,-59.899832,False,False,True
+C8190,22.0,Other,71428.35,,P0055,-5,904.51,Online Wallet,True,-71.878284,,False,False,True
+C7185,,Male,81259.39,,P0087,-5,476.24,Cash,True,,-16.140831,False,False,True
+C9929,45.0,Other,118834.62,2025-07-09,P0098,-5,381.71,Crypto,True,,-74.71371,False,False,True
+C4692,,Female,31222.25,2025-07-13,P0012,-5,460.49,Cash,True,14.805407,7.996067,False,False,True
+C1076,,Female,83619.12,2025-08-25,P0100,1,400.14,Card,True,71.783778,18.56639,False,False,True
+C1234,,Other,56290.94,2025-09-27,P0036,-5,976.07,Online Wallet,True,0.045884,,False,False,True
+C9473,51.0,Male,73122.29,,P0032,7,117.23,Online Wallet,True,-89.630543,-93.422973,False,False,True
+C6687,,Female,36432.8,2025-08-28,P0033,-5,723.18,Cash,False,-26.053971,,False,False,True
+C6139,40.0,Male,93734.66,,P0001,4,420.03,Cash,True,-62.363052,,False,False,True
+C4149,,Female,104742.2,,P0047,2,326.35,Online Wallet,True,,-20.243179,False,False,True
+C8657,,Female,63731.74,2025-09-25,P0017,-5,927.21,Cash,False,67.214094,,False,False,True
+C8972,,Male,57174.85,,P0092,5,977.54,Online Wallet,False,-29.797139,,False,False,True
+C1878,,Other,83293.9,2025-07-03,P0084,-5,839.7,Card,False,-5.717751,,False,False,True
+C6010,43.0,Other,91554.66,2025-09-08,P0030,6,968.19,Card,True,38.32005,,False,False,True
+C8802,33.0,Female,101859.14,,P0036,9,50.68,Online Wallet,True,,53.431949,False,False,True
+C8198,36.0,Male,117984.08,,P0095,-5,96.48,Cash,False,13.36209,77.116693,False,False,True
+C1933,,Female,65553.18,,P0013,-5,172.36,Cash,True,,93.219787,False,False,True
+C7825,,Female,35139.52,2025-08-09,P0010,5,545.12,Cash,True,,,False,False,True
+C7525,,Other,31425.43,,P0042,-5,253.51,Online Wallet,True,,,False,False,True
+C8035,41.0,Male,75731.79,2025-08-28,P0079,6,172.84,Crypto,False,,,False,False,True
+C4159,44.0,Other,57862.74,2025-08-04,P0090,4,397.09,Cash,False,-36.679957,-169.994226,False,False,True
+C1050,,Other,52487.84,2025-08-20,P0049,-5,68.45,Cash,True,-80.563895,152.30669,False,False,True
+C7307,54.0,Other,92341.1,,P0045,9,261.17,Online Wallet,True,,,False,False,True
+C9967,68.0,Female,36501.77,,P0075,-5,752.11,Online Wallet,True,-58.831176,-85.534702,False,False,True
+C3144,70.0,Male,45192.11,,P0066,-5,363.96,Online Wallet,False,,,False,False,True
+C8667,36.0,Other,26891.32,,P0038,4,332.34,Online Wallet,False,-29.3926,,False,False,True
+C4984,27.0,Female,51488.75,,P0084,-5,382.42,Card,True,,,False,False,True
+C5132,,Other,28593.8,,P0096,-5,710.28,Online Wallet,True,-41.876114,,False,False,True
+C8470,,Other,49523.98,,P0047,-5,132.69,Card,True,37.86697,27.725898,False,False,True
+C9233,57.0,Male,112116.08,2025-07-06,P0088,-5,589.92,Cash,True,-42.031088,-127.947393,False,False,True
+C6832,48.0,Other,28994.14,2025-07-28,P0065,1,994.23,Card,False,89.59913,13.580871,False,False,True
+C5705,,Male,114159.56,,P0005,-5,656.34,Card,False,14.423597,13.687996,False,False,True
+C4408,62.0,Other,38165.96,2025-09-18,P0083,3,868.22,Crypto,False,-22.333055,,False,False,True
+C2200,,Other,29918.88,2025-08-22,P0081,9,567.46,Online Wallet,True,-72.382946,,False,False,True
+C9346,,Female,101424.61,2025-08-22,P0012,6,914.77,Crypto,True,66.922717,73.343604,False,False,True
+C9787,63.0,Male,37370.98,,P0041,4,838.35,Cash,True,-27.002529,-51.766999,False,False,True
+C2698,44.0,Other,110288.26,2025-09-01,P0060,6,227.04,Cash,True,,116.756451,False,False,True
+C2509,,Male,117744.54,2025-07-24,P0083,8,776.33,Online Wallet,True,,-43.104884,False,False,True
+C2127,,Female,27855.46,2025-09-16,P0028,7,115.09,Online Wallet,True,,61.425864,False,False,True
+C1601,,Other,66247.36,,P0018,1,997.98,Crypto,True,-35.829847,-15.584121,False,False,True
+C7962,,Male,68378.64,2025-07-25,P0099,2,753.72,Crypto,False,3.75587,,False,False,True
+C8648,22.0,Female,22739.45,,P0030,-5,960.17,Cash,False,,,False,False,True
+C6169,56.0,Male,31108.45,2025-08-30,P0014,7,711.14,Crypto,False,,,False,False,True
+C7846,23.0,Other,106993.05,,P0006,1,64.38,Cash,False,-10.572242,-123.505909,False,False,True
+C4438,41.0,Other,52225.52,2025-08-05,P0024,-5,900.07,Card,False,,,False,False,True
+C2765,,Female,60515.91,,P0079,-5,85.85,Crypto,False,,-104.60013,False,False,True
+C9984,19.0,Other,30705.83,2025-07-20,P0017,2,416.64,Card,False,,37.367585,False,False,True
+C2481,,Female,38454.53,,P0052,1,82.06,Cash,False,,,False,False,True
+C6573,28.0,Female,54069.74,,P0012,-5,796.86,Online Wallet,True,-74.398047,67.052235,False,False,True
+C6049,,Other,32970.97,2025-07-22,P0005,10,89.77,Cash,True,-73.088375,130.964242,False,False,True
+C8709,69.0,Other,95931.66,2025-07-02,P0040,10,906.64,Card,False,,,False,False,True
+C6325,70.0,Other,115858.57,2025-07-18,P0050,-5,867.79,Cash,True,,-109.994549,False,False,True
+C6109,,Female,88200.69,2025-09-02,P0051,7,38.31,Cash,True,,,False,False,True
+C3755,45.0,Female,66740.29,,P0045,6,199.9,Crypto,False,-83.429989,-13.269273,False,False,True
+C2718,,Other,73191.47,2025-09-20,P0024,1,855.26,Crypto,False,9.033122,-41.207731,False,False,True
+C2737,48.0,Other,115266.53,2025-07-22,P0017,-5,503.17,Online Wallet,False,,,False,False,True
+C3524,,Female,41758.42,2025-09-01,P0007,-5,94.57,Cash,True,,,False,False,True
+C7428,,Other,35750.9,,P0037,7,561.64,Crypto,True,,-80.947326,False,False,True
+C8882,28.0,Female,98613.81,,P0099,-5,383.33,Card,False,-46.694478,21.97711,False,False,True
+C9342,,Male,21975.76,2025-08-14,P0036,7,120.03,Crypto,True,,-55.831553,False,False,True
+C6806,36.0,Female,30478.57,,P0028,10,169.81,Online Wallet,True,-24.917767,40.765875,False,False,True
+C8383,,Female,26486.35,,P0033,-5,609.36,Crypto,True,,18.813015,False,False,True
+C5314,,Other,47372.83,,P0095,-5,946.07,Cash,False,,-32.156713,False,False,True
+C7379,18.0,Male,29047.85,,P0062,-5,370.58,Online Wallet,True,-30.092252,75.059399,False,False,True
+C9934,,Other,45893.02,,P0006,-5,640.06,Cash,True,,173.211454,False,False,True
+C8123,,Female,75568.43,2025-07-28,P0050,3,277.76,Online Wallet,True,,,False,False,True
+C8380,29.0,Other,34646.97,2025-09-26,P0030,-5,612.34,Cash,True,-68.09553,81.838592,False,False,True
+C1677,49.0,Other,72451.44,,P0037,-5,401.1,Online Wallet,True,,,False,False,True
+C3459,48.0,Male,102878.51,,P0012,-5,374.0,Cash,True,,,False,False,True
+C3001,,Female,45263.02,2025-09-14,P0041,-5,920.69,Cash,True,-46.499016,-143.877931,False,False,True
+C5158,,Other,89283.57,2025-08-30,P0068,-5,206.85,Cash,True,-7.769024,,False,False,True
+C6604,,Male,66413.68,,P0074,5,84.05,Card,True,,18.161548,False,False,True
+C5902,,Female,66944.75,,P0046,6,866.18,Card,False,,-22.888833,False,False,True
+C5137,,Other,46218.66,,P0084,4,423.95,Crypto,False,-83.484118,-116.364294,False,False,True
+C7506,41.0,Male,55332.33,2025-08-29,P0035,-5,382.82,Cash,True,30.453268,,False,False,True
+C9557,57.0,Male,53115.88,2025-09-21,P0045,-5,195.73,Cash,False,,,False,False,True
+C1510,,Other,74511.31,2025-08-17,P0058,2,348.92,Crypto,False,,,False,False,True
+C6780,,Female,49669.64,2025-07-14,P0026,5,638.88,Card,True,,,False,False,True
+C8229,36.0,Other,65400.7,,P0071,6,582.82,Crypto,False,-21.229417,,False,False,True
+C7589,43.0,Other,85349.65,2025-08-03,P0003,10,955.83,Online Wallet,True,,86.579278,False,False,True
+C2015,20.0,Male,64831.83,2025-09-03,P0010,-5,454.33,Crypto,True,14.854044,-111.550019,False,False,True
+C9850,,Female,70945.9,,P0055,-5,887.1,Card,True,61.726627,,False,False,True
+C5009,70.0,Male,24924.78,2025-08-14,P0050,6,940.34,Crypto,True,42.63291,,False,False,True
+C6792,46.0,Female,113077.59,,P0067,-5,331.35,Card,True,-3.966118,-62.372428,False,False,True
+C7896,39.0,Female,29965.6,,P0025,-5,954.59,Crypto,True,,-11.465321,False,False,True
+C4755,66.0,Male,94501.76,,P0077,10,456.8,Card,True,-52.408481,,False,False,True
+C3691,,Male,58199.67,2025-09-20,P0044,-5,948.5,Cash,False,-32.548067,,False,False,True
+C8858,46.0,Male,63558.7,2025-07-08,P0016,3,984.4,Crypto,True,20.841829,130.005527,False,False,True
+C3850,32.0,Other,21146.52,2025-07-14,P0002,-5,378.08,Cash,True,62.529335,70.333929,False,False,True
+C6709,57.0,Female,21620.76,2025-08-09,P0006,-5,516.24,Cash,False,,-40.651964,False,False,True
+C8831,,Other,49263.4,2025-07-13,P0077,7,290.68,Crypto,True,-44.919664,-64.680409,False,False,True
+C4968,,Male,38868.1,2025-07-16,P0003,8,580.78,Card,False,55.49449,80.815723,False,False,True
+C5862,,Other,43983.86,2025-07-13,P0018,-5,100.1,Cash,False,,,False,False,True
+C2214,,Male,56035.82,,P0076,-5,720.07,Crypto,True,,,False,False,True
+C5927,32.0,Other,99548.23,2025-07-31,P0059,-5,790.64,Crypto,True,,,False,False,True
+C2753,,Other,118060.03,2025-08-20,P0002,9,624.44,Crypto,True,44.045997,130.804551,False,False,True
+C7086,30.0,Other,91226.63,2025-07-15,P0023,6,987.33,Crypto,True,-69.222724,,False,False,True
+C8520,,Other,75282.75,,P0066,8,57.57,Card,True,21.852478,,False,False,True
+C7242,25.0,Female,76793.71,,P0005,10,635.52,Crypto,True,-73.004205,,False,False,True
+C3914,,Other,60492.17,2025-09-20,P0094,-5,768.86,Card,False,80.863054,,False,False,True
+C2559,,Other,43134.01,,P0060,9,288.41,Crypto,True,-71.677643,,False,False,True
+C6306,48.0,Other,38748.06,2025-07-17,P0018,10,418.98,Crypto,False,-34.591285,,False,False,True
+C7910,31.0,Other,105283.14,2025-08-06,P0025,-5,462.16,Crypto,False,,-147.228629,False,False,True
+C7771,61.0,Other,69090.65,,P0078,-5,123.78,Crypto,True,,,False,False,True
+C4830,38.0,Female,97266.63,,P0091,6,975.55,Online Wallet,True,89.91597,-150.205025,False,False,True
+C7413,57.0,Other,89695.12,,P0097,-5,122.79,Card,True,-89.15964,151.4679,False,False,True
+C4529,,Other,52651.3,,P0044,5,513.07,Crypto,True,,104.173392,False,False,True
+C8276,,Female,107675.36,,P0049,-5,290.92,Crypto,False,-28.558673,131.193827,False,False,True
+C8605,,Female,49634.09,,P0033,-5,147.52,Card,False,,125.40697,False,False,True
+C6677,,Male,105459.29,2025-08-30,P0023,4,320.08,Cash,False,,,False,False,True
+C2824,35.0,Other,39764.06,,P0057,-5,841.55,Crypto,False,,,False,False,True
+C1366,,Female,94092.04,,P0019,-5,170.96,Card,False,,-10.730006,False,False,True
+C9138,44.0,Other,67494.66,2025-08-15,P0016,5,172.19,Card,False,44.387209,-3.550484,False,False,True
+C7248,50.0,Other,21633.41,,P0074,2,298.62,Card,True,24.353719,,False,False,True
+C5941,46.0,Other,94668.24,,P0080,5,851.38,Online Wallet,True,,45.502955,False,False,True
+C8304,35.0,Other,119223.51,2025-07-29,P0073,-5,470.97,Cash,True,-1.062037,,False,False,True
+C4741,28.0,Other,112251.76,2025-08-25,P0060,2,624.48,Crypto,True,,,False,False,True
+C8427,41.0,Male,83348.46,2025-09-20,P0048,5,76.06,Crypto,True,,,False,False,True
+C7981,,Male,32642.0,,P0095,5,753.63,Crypto,False,,,False,False,True
+C3537,33.0,Female,92759.02,2025-08-13,P0057,3,555.22,Card,True,,,False,False,True
+C2340,,Other,119403.9,,P0013,2,525.75,Crypto,True,,106.579822,False,False,True
+C3456,50.0,Other,68151.73,,P0017,7,565.55,Card,True,,,False,False,True
+C5555,41.0,Other,32268.08,2025-07-11,P0063,6,917.67,Online Wallet,True,,,False,False,True
+C9427,20.0,Other,105771.43,2025-07-25,P0003,-5,373.1,Crypto,True,-59.765429,,False,False,True
+C4217,56.0,Other,59584.82,,P0019,-5,21.94,Cash,True,-26.348301,,False,False,True
+C7237,,Other,96849.76,2025-07-15,P0059,6,973.17,Crypto,False,-65.757607,85.999865,False,False,True
+C8362,67.0,Other,96690.43,,P0084,-5,923.11,Online Wallet,True,,155.570209,False,False,True
+C3196,41.0,Other,97376.15,2025-09-13,P0048,-5,862.01,Online Wallet,False,-53.011669,,False,False,True
+C5960,,Other,99350.25,,P0060,4,801.74,Online Wallet,True,,-48.619165,False,False,True
+C5669,,Other,32585.17,2025-09-08,P0053,-5,710.62,Online Wallet,False,,133.363964,False,False,True
+C2444,,Female,36229.96,2025-09-12,P0058,-5,752.89,Crypto,False,-44.986266,,False,False,True
+C9799,,Male,37261.27,,P0004,4,828.61,Cash,False,,,False,False,True
+C5067,21.0,Other,119911.06,2025-07-20,P0043,9,343.79,Card,False,,,False,False,True
+C6980,,Male,33133.26,2025-07-01,P0098,-5,846.49,Card,True,-14.356114,,False,False,True
+C5311,,Male,73160.9,2025-08-11,P0072,-5,289.37,Cash,True,-1.009413,,False,False,True
+C1591,,Male,49476.54,2025-09-27,P0099,10,681.11,Online Wallet,True,-32.74422,-46.953512,False,False,True
+C1557,,Female,113860.42,,P0061,-5,226.55,Card,True,-20.985736,-3.179574,False,False,True
+C9051,19.0,Other,106350.92,,P0033,-5,486.01,Card,True,-55.879013,-71.836242,False,False,True
+C3243,67.0,Male,79200.3,,P0079,6,25.93,Card,True,89.852358,-102.469279,False,False,True
+C6302,,Female,40450.53,2025-08-23,P0089,-5,348.15,Crypto,True,,,False,False,True
+C3204,34.0,Female,48698.9,,P0045,3,694.1,Cash,True,,153.768503,False,False,True
+C6214,,Male,100950.69,,P0075,-5,235.27,Online Wallet,False,-3.450057,,False,False,True
+C4087,46.0,Female,107580.82,2025-07-06,P0028,-5,166.77,Online Wallet,False,82.326382,141.580413,False,False,True
+C9762,,Male,69628.12,,P0057,-5,155.98,Cash,True,,104.509866,False,False,True
+C5215,,Other,48197.45,2025-07-07,P0004,-5,667.17,Online Wallet,False,,,False,False,True
+C1528,,Other,65409.3,,P0058,-5,762.79,Card,True,,,False,False,True
+C8471,43.0,Female,116926.35,,P0027,10,929.92,Cash,True,,,False,False,True
+C2480,38.0,Other,41227.87,,P0019,1,466.32,Card,False,,19.406037,False,False,True
+C9137,,Other,100294.63,,P0096,9,398.3,Crypto,False,,172.078545,False,False,True
+C8104,51.0,Male,85555.0,2025-09-20,P0031,6,669.03,Card,False,55.441732,127.562455,False,False,True
+C2775,,Other,86583.88,,P0042,3,511.85,Card,True,14.500257,112.649485,False,False,True
+C5267,,Male,55293.47,,P0070,10,461.01,Cash,True,33.414995,49.04053,False,False,True
+C5383,,Other,67011.26,,P0059,3,346.6,Crypto,False,,-84.058411,False,False,True
+C1922,,Male,76179.22,,P0002,-5,589.75,Crypto,False,,,False,False,True
+C8072,61.0,Male,28292.09,2025-07-20,P0058,-5,96.02,Crypto,True,,,False,False,True
+C3908,22.0,Other,22531.52,,P0074,-5,682.85,Cash,False,,,False,False,True
+C9093,,Female,69216.79,,P0100,3,176.98,Card,True,-41.870175,,False,False,True
+C8555,,Female,42067.75,,P0009,5,868.89,Crypto,False,,,False,False,True
+C4319,,Other,71339.96,2025-09-01,P0083,-5,782.34,Online Wallet,True,-55.612002,90.752818,False,False,True
+C3751,59.0,Other,72250.48,2025-07-10,P0058,8,142.92,Online Wallet,False,,148.215713,False,False,True
+C2276,38.0,Female,22178.19,2025-09-15,P0051,8,146.48,Cash,True,-56.483545,3.483925,False,False,True
+C1081,55.0,Other,34267.1,,P0045,-5,594.66,Card,False,,,False,False,True
+C8451,,Female,102318.68,2025-07-31,P0075,-5,833.89,Online Wallet,True,,,False,False,True
+C7169,26.0,Other,24034.63,2025-09-06,P0092,10,906.97,Crypto,True,-86.301877,,False,False,True
+C1327,38.0,Male,85956.28,2025-09-08,P0014,-5,327.1,Online Wallet,False,-78.541455,,False,False,True
+C7551,,Other,24226.02,2025-08-11,P0092,-5,335.34,Cash,False,,87.255765,False,False,True
+C4193,,Other,70476.16,,P0028,-5,340.69,Crypto,True,,105.987558,False,False,True
+C7840,39.0,Other,78565.14,2025-08-07,P0044,3,397.04,Crypto,False,75.865417,,False,False,True
+C8727,58.0,Other,51941.98,,P0082,-5,683.73,Crypto,True,12.586068,,False,False,True
+C1646,,Male,90007.9,,P0004,-5,954.13,Online Wallet,True,,,False,False,True
+C9012,,Other,78845.27,2025-09-13,P0034,8,227.26,Online Wallet,True,-22.213215,-44.192845,False,False,True
+C6009,23.0,Female,31700.23,,P0029,-5,581.95,Online Wallet,False,,,False,False,True
+C9510,,Other,88340.56,,P0061,10,523.28,Cash,True,,,False,False,True
+C4720,33.0,Male,37013.82,,P0097,10,855.66,Card,False,,,False,False,True
+C5005,59.0,Other,36296.98,,P0021,6,649.76,Online Wallet,False,,-58.203435,False,False,True
+C8522,,Male,78096.15,2025-07-04,P0064,6,320.07,Online Wallet,True,,12.195745,False,False,True
+C1175,25.0,Male,64976.85,2025-09-26,P0004,3,397.62,Card,False,,161.301943,False,False,True
+C1562,,Other,94508.03,,P0032,7,425.83,Crypto,True,20.276979,,False,False,True
+C5768,47.0,Other,34781.59,,P0077,-5,927.15,Card,True,39.75584,,False,False,True
+C2588,19.0,Other,92253.05,,P0081,-5,246.02,Crypto,True,79.17994,68.919612,False,False,True
+C7833,26.0,Other,64053.74,2025-07-31,P0095,10,848.83,Online Wallet,True,48.869616,-47.51124,False,False,True
+C9712,23.0,Male,39566.26,2025-09-18,P0029,1,235.7,Crypto,False,,-89.972993,False,False,True
+C3934,,Male,89704.15,,P0070,-5,809.41,Cash,True,-27.805829,-141.90052,False,False,True
+C7872,33.0,Other,119559.16,,P0004,7,553.01,Crypto,True,0.507488,,False,False,True
+C9018,,Other,91681.5,,P0066,-5,962.48,Online Wallet,True,,-49.324236,False,False,True
+C6164,32.0,Other,118070.77,2025-08-11,P0084,10,723.61,Crypto,False,,149.064128,False,False,True
+C1713,,Other,88177.31,2025-07-18,P0090,9,477.33,Cash,True,,46.789205,False,False,True
+C3553,,Other,21157.87,,P0050,-5,297.06,Cash,True,,-177.316927,False,False,True
+C1979,28.0,Female,109960.14,,P0040,1,114.51,Crypto,False,,,False,False,True
+C2339,,Female,116909.28,,P0096,6,437.52,Cash,False,,,False,False,True
+C3449,30.0,Female,86211.9,,P0099,-5,429.52,Online Wallet,True,-0.840681,,False,False,True
+C2727,,Female,98855.65,,P0076,3,991.04,Online Wallet,False,-42.688001,-161.559755,False,False,True
+C3023,21.0,Other,105515.16,2025-09-03,P0066,-5,572.21,Card,False,,,False,False,True
+C4355,,Female,63213.87,2025-07-25,P0069,-5,671.62,Online Wallet,True,-42.747703,-172.363733,False,False,True
+C7598,,Other,67975.59,,P0062,3,998.39,Crypto,True,,,False,False,True
+C7333,51.0,Female,79337.34,2025-09-11,P0057,9,278.0,Online Wallet,True,-72.105506,,False,False,True
+C7143,59.0,Female,88276.49,,P0090,-5,752.64,Cash,True,-74.128625,109.513783,False,False,True
+C7155,51.0,Other,83734.47,,P0099,4,443.35,Card,False,-22.174823,,False,False,True
+C1845,51.0,Male,69574.3,2025-08-25,P0013,-5,612.79,Crypto,False,,,False,False,True
+C4823,52.0,Other,65316.86,2025-09-01,P0030,-5,917.53,Cash,True,53.223403,71.183781,False,False,True
+C2403,49.0,Male,119425.7,,P0032,-5,841.06,Crypto,True,,,False,False,True
+C5509,,Male,81010.2,,P0054,10,292.97,Crypto,True,,,False,False,True
+C6560,39.0,Female,56176.48,2025-09-03,P0100,-5,994.07,Crypto,True,,101.472515,False,False,True
+C2848,31.0,Other,69924.53,2025-08-15,P0055,6,591.18,Card,False,,,False,False,True
+C1090,,Female,31822.0,2025-09-26,P0077,-5,213.13,Card,True,,54.87473,False,False,True
+C3289,43.0,Other,68162.63,,P0059,-5,617.99,Cash,False,77.22188,,False,False,True
+C4309,38.0,Male,43134.44,2025-09-11,P0073,8,60.17,Crypto,True,,-115.347924,False,False,True
+C1095,20.0,Other,95057.26,,P0042,1,947.1,Cash,True,89.941902,,False,False,True
+C1741,18.0,Other,65167.91,2025-07-14,P0041,-5,328.13,Crypto,True,,,False,False,True
+C7379,,Male,42289.84,2025-09-22,P0020,-5,352.46,Crypto,True,,,False,False,True
+C8815,47.0,Other,67061.52,2025-09-21,P0093,3,948.44,Online Wallet,True,,177.715134,False,False,True
+C4561,41.0,Female,48118.04,,P0010,-5,276.25,Crypto,True,-14.218109,,False,False,True
+C6759,46.0,Male,112027.2,,P0075,1,388.14,Card,True,,,False,False,True
+C7559,,Female,22137.12,,P0003,-5,757.4,Card,True,,,False,False,True
+C3591,,Male,30579.74,,P0085,-5,19.59,Crypto,False,,,False,False,True
+C8135,54.0,Female,113975.22,2025-08-29,P0053,-5,953.07,Cash,False,78.659895,147.001731,False,False,True
+C6274,,Female,56162.91,,P0010,-5,706.9,Online Wallet,True,20.686145,,False,False,True
+C5936,63.0,Female,85510.26,2025-08-03,P0089,-5,638.12,Card,True,,-84.84327,False,False,True
+C3058,,Female,78689.88,,P0063,6,610.5,Crypto,False,,-90.432489,False,False,True
+C2834,,Other,61157.15,,P0042,-5,280.87,Crypto,False,-13.133236,-136.67088,False,False,True
+C1572,,Other,93096.03,2025-07-11,P0049,-5,207.38,Online Wallet,False,-43.657916,-157.031876,False,False,True
+C2183,49.0,Female,102570.27,,P0081,10,601.3,Card,True,-76.447225,-29.233923,False,False,True
+C5794,68.0,Other,96315.96,2025-08-22,P0083,3,830.41,Cash,True,,67.559481,False,False,True
+C4201,,Other,111384.08,2025-09-05,P0093,9,887.04,Crypto,True,4.449016,,False,False,True
+C5354,33.0,Female,114805.17,2025-07-03,P0053,6,698.8,Cash,True,-37.493564,-71.458683,False,False,True
+C4763,,Male,65573.32,,P0025,-5,189.25,Cash,False,,107.998392,False,False,True
+C7903,,Female,50756.31,2025-09-01,P0040,-5,673.94,Online Wallet,True,,,False,False,True
+C6367,,Other,30678.03,2025-08-03,P0017,-5,503.8,Card,False,,73.337738,False,False,True
+C5806,,Other,83472.06,2025-08-29,P0067,-5,660.46,Crypto,True,,-149.618437,False,False,True
+C5369,57.0,Male,111610.25,2025-08-19,P0087,-5,89.44,Online Wallet,True,,126.594406,False,False,True
+C7825,,Male,56739.92,,P0070,3,225.99,Online Wallet,True,,-43.466084,False,False,True
+C4948,21.0,Male,61109.72,2025-09-04,P0072,7,490.91,Card,False,84.182829,123.476448,False,False,True
+C5387,,Male,92597.97,,P0004,-5,492.76,Online Wallet,False,,,False,False,True
+C3858,,Other,76645.72,,P0001,5,671.84,Cash,True,-15.645229,-95.311848,False,False,True
+C4283,34.0,Other,72162.36,,P0052,-5,910.34,Card,True,-38.967325,,False,False,True
+C6958,,Other,98558.43,,P0019,-5,230.31,Online Wallet,True,26.801413,79.365926,False,False,True
+C6809,61.0,Female,86129.07,,P0098,-5,233.46,Online Wallet,True,19.488865,64.129325,False,False,True
+C1182,69.0,Male,84175.94,2025-07-17,P0033,10,546.93,Cash,False,-19.500933,,False,False,True
+C6573,,Other,103160.0,2025-09-16,P0050,-5,113.39,Online Wallet,True,26.784544,132.47812,False,False,True
+C6101,53.0,Male,65711.61,,P0036,-5,430.5,Crypto,True,65.360411,-179.392229,False,False,True
+C2502,49.0,Female,80806.87,2025-09-18,P0030,9,68.56,Cash,True,26.981621,-137.816536,False,False,True
+C6172,,Female,23890.56,,P0072,7,18.02,Crypto,True,-49.540901,,False,False,True
+C4925,42.0,Other,39662.48,2025-09-19,P0086,7,661.47,Crypto,True,,,False,False,True
+C3321,45.0,Male,87798.92,,P0070,-5,194.94,Cash,True,17.385558,,False,False,True
+C2122,29.0,Male,110843.68,,P0066,1,477.23,Card,True,-38.778267,127.131772,False,False,True
+C3161,36.0,Other,64718.54,2025-08-24,P0017,-5,963.49,Cash,False,-59.330196,,False,False,True
+C9939,,Male,32332.02,2025-07-08,P0089,5,596.0,Card,True,64.805332,,False,False,True
+C6284,,Female,89633.72,2025-09-21,P0082,-5,754.71,Cash,False,-21.012794,-27.09904,False,False,True
+C2004,,Other,79737.65,2025-09-03,P0018,-5,381.14,Crypto,True,-1.781428,,False,False,True
+C4336,41.0,Other,118130.69,,P0079,-5,504.74,Cash,True,,,False,False,True
+C3554,45.0,Other,39324.76,,P0098,2,323.46,Online Wallet,True,28.795766,,False,False,True
+C6806,,Male,34983.12,,P0060,7,403.02,Card,True,-5.571791,,False,False,True
+C2655,22.0,Male,74322.18,2025-07-30,P0032,-5,710.29,Online Wallet,True,,98.490191,False,False,True
+C2253,,Male,69311.38,,P0075,6,10.48,Crypto,True,-38.89425,,False,False,True
+C7422,,Male,79247.39,,P0099,-5,104.74,Cash,True,,-79.143603,False,False,True
+C4964,,Other,77551.74,2025-08-02,P0060,-5,474.31,Online Wallet,True,-84.059674,,False,False,True
+C3719,68.0,Other,87372.94,,P0020,-5,136.88,Crypto,False,,22.372644,False,False,True
+C1504,,Female,80090.32,,P0044,-5,805.8,Card,True,27.452359,,False,False,True
+C3203,,Female,78618.12,,P0010,7,629.3,Cash,True,,154.69848,False,False,True
+C3804,,Other,37465.06,,P0069,1,909.8,Card,True,,,False,False,True
+C3984,,Female,45659.41,,P0061,-5,726.65,Crypto,True,61.241172,,False,False,True
+C4928,,Other,82118.78,2025-09-03,P0051,-5,809.73,Crypto,True,-20.5163,-12.012337,False,False,True
+C9171,,Other,63315.43,2025-09-19,P0097,5,228.17,Online Wallet,True,14.465702,-67.936049,False,False,True
+C7150,,Other,62175.17,2025-08-02,P0060,-5,312.35,Crypto,True,11.60845,43.472488,False,False,True
+C7525,,Female,72274.73,,P0092,3,97.01,Crypto,True,,,False,False,True
+C7858,65.0,Other,106875.22,2025-09-19,P0081,-5,803.54,Card,False,4.762996,-15.268825,False,False,True
+C9993,36.0,Other,52459.68,2025-07-12,P0034,6,211.1,Online Wallet,False,52.10322,,False,False,True
+C4270,,Other,54183.91,2025-08-31,P0025,7,78.0,Cash,True,,143.438345,False,False,True
+C6951,,Male,82049.18,2025-08-09,P0028,1,329.46,Cash,True,,-108.676952,False,False,True
+C2906,24.0,Other,37740.34,2025-09-06,P0016,-5,988.99,Card,True,54.375499,,False,False,True
+C8805,66.0,Male,50310.18,,P0068,2,344.25,Cash,True,,35.92711,False,False,True
+C7869,,Female,46915.49,,P0078,3,285.14,Crypto,False,,-22.734184,False,False,True
+C2289,68.0,Female,83096.42,2025-08-27,P0087,-5,124.49,Online Wallet,True,44.28699,,False,False,True
+C6014,,Other,31392.44,,P0084,-5,141.26,Cash,False,,,False,False,True
+C8779,,Other,102349.45,,P0058,6,232.44,Online Wallet,False,29.691589,-96.509443,False,False,True
+C7551,68.0,Other,97862.19,,P0001,-5,986.38,Card,True,,,False,False,True
+C7204,,Other,74282.22,2025-08-01,P0018,4,133.47,Card,True,62.684084,,False,False,True
+C6567,65.0,Other,59511.36,,P0054,1,280.88,Online Wallet,False,,109.527635,False,False,True
+C2133,24.0,Male,55066.99,2025-09-22,P0096,-5,134.15,Card,False,-59.201069,,False,False,True
+C1941,,Male,44231.56,2025-07-19,P0018,-5,924.62,Cash,True,53.594814,,False,False,True
+C9535,35.0,Other,114588.7,,P0009,3,881.39,Crypto,True,,141.642265,False,False,True
+C2601,,Male,59954.61,,P0017,-5,748.05,Cash,True,,141.882806,False,False,True
+C2886,50.0,Other,102560.74,,P0058,-5,585.55,Cash,False,-88.830368,,False,False,True
+C7763,,Other,68350.08,,P0010,1,813.08,Online Wallet,True,,55.52666,False,False,True
+C3353,28.0,Male,62225.86,2025-09-22,P0015,6,938.11,Crypto,True,,,False,False,True
+C1324,46.0,Other,23139.0,,P0026,9,91.49,Online Wallet,True,15.2221,-8.113805,False,False,True
+C6954,20.0,Other,88616.1,,P0011,-5,12.36,Crypto,False,,,False,False,True
+C3715,30.0,Other,41743.6,2025-08-05,P0045,-5,970.96,Card,False,76.932425,-178.973418,False,False,True
+C4164,,Female,89788.55,,P0020,-5,90.45,Card,True,26.068528,73.514422,False,False,True
+C2074,,Male,101767.37,2025-09-11,P0026,-5,735.16,Crypto,True,-73.521274,74.71785,False,False,True
+C6395,,Other,41758.97,2025-09-15,P0061,7,621.12,Crypto,True,-47.62663,,False,False,True
+C1218,32.0,Female,116842.26,2025-07-29,P0038,-5,829.06,Cash,True,9.563816,88.366097,False,False,True
+C2043,,Other,98845.48,,P0006,-5,368.14,Crypto,True,74.175216,,False,False,True
+C2096,65.0,Other,50539.49,2025-08-16,P0063,-5,580.16,Crypto,True,18.9642,,False,False,True
+C8937,,Other,49487.47,2025-09-15,P0034,-5,361.01,Cash,True,4.65922,,False,False,True
+C3043,37.0,Female,35264.92,2025-09-11,P0035,-5,45.59,Card,True,29.940299,46.970265,False,False,True
+C4337,,Other,68588.92,2025-09-21,P0053,-5,164.04,Card,False,13.088294,,False,False,True
+C4803,28.0,Female,58514.0,,P0096,-5,154.18,Card,True,81.256956,,False,False,True
+C3093,49.0,Other,44414.93,,P0034,-5,438.48,Online Wallet,True,,,False,False,True
+C1812,,Other,110563.87,,P0055,-5,550.94,Cash,False,-27.741601,35.212048,False,False,True
+C5957,26.0,Male,64608.79,2025-09-02,P0073,-5,947.85,Online Wallet,True,,,False,False,True
+C8734,,Other,40290.27,2025-07-22,P0087,1,98.79,Crypto,False,,,False,False,True
+C9754,32.0,Female,113588.48,2025-08-23,P0044,2,265.56,Crypto,True,69.594709,,False,False,True
+C7442,,Other,100047.8,2025-09-10,P0064,1,583.65,Card,True,,,False,False,True
+C3978,30.0,Female,28153.07,2025-07-26,P0076,10,280.75,Cash,True,30.262174,,False,False,True
+C3159,38.0,Other,81387.34,,P0029,6,599.23,Online Wallet,False,,,False,False,True
+C4343,44.0,Other,27428.72,2025-09-11,P0024,-5,701.55,Cash,False,2.439048,-170.048124,False,False,True
+C3105,18.0,Other,100538.61,,P0037,-5,574.86,Card,True,11.904579,,False,False,True
+C3734,36.0,Male,95178.76,2025-09-10,P0087,-5,526.03,Cash,False,,,False,False,True
+C7340,,Other,109285.48,,P0076,-5,91.19,Cash,True,,-171.51577,False,False,True
+C2591,,Female,37613.68,2025-08-28,P0001,9,947.09,Cash,True,,140.697404,False,False,True
+C2740,54.0,Other,113857.33,2025-07-20,P0057,9,965.94,Online Wallet,True,,134.340013,False,False,True
+C2701,,Other,113523.4,,P0049,9,577.18,Card,True,,68.723898,False,False,True
+C3798,41.0,Other,90593.92,,P0027,-5,236.67,Card,True,-79.937386,,False,False,True
+C5472,,Other,98666.66,2025-07-29,P0073,-5,40.3,Crypto,True,,,False,False,True
+C9280,67.0,Female,73900.91,,P0004,-5,126.19,Cash,True,9.853538,-164.289764,False,False,True
+C1103,55.0,Female,115897.55,2025-08-25,P0084,3,901.46,Cash,False,,,False,False,True
+C4962,,Other,62236.08,2025-08-30,P0056,-5,53.79,Cash,True,32.666636,,False,False,True
+C4980,45.0,Male,34696.39,2025-07-05,P0074,2,197.22,Crypto,True,-88.560184,108.05576,False,False,True
+C5753,55.0,Male,71409.34,,P0063,-5,811.18,Cash,True,,,False,False,True
+C4909,,Male,84449.06,,P0099,10,274.65,Online Wallet,False,,,False,False,True
+C7405,49.0,Female,94249.61,2025-08-16,P0011,1,276.08,Cash,False,,,False,False,True
+C8252,54.0,Male,104836.19,2025-09-02,P0074,-5,277.7,Cash,True,-77.538567,-59.872768,False,False,True
+C6871,47.0,Other,116686.03,,P0082,3,138.91,Online Wallet,False,-54.147697,76.472093,False,False,True
+C8967,41.0,Other,109825.51,,P0095,-5,839.52,Card,True,24.32633,-35.635907,False,False,True
+C7982,34.0,Female,114298.38,,P0043,10,775.81,Cash,True,77.799605,,False,False,True
+C7278,,Other,46732.44,,P0040,9,309.24,Card,True,,19.730709,False,False,True
+C5862,,Other,56691.68,2025-07-09,P0016,-5,661.13,Crypto,True,12.494427,164.763928,False,False,True
+C1717,41.0,Other,22946.67,,P0040,-5,801.36,Online Wallet,True,-10.7457,46.177678,False,False,True
+C1484,,Other,66352.3,2025-09-09,P0037,2,889.86,Card,True,77.942304,-57.129432,False,False,True
+C4389,50.0,Male,117920.99,,P0008,-5,803.62,Cash,True,-34.627049,,False,False,True
+C1084,59.0,Other,22943.43,,P0077,-5,925.43,Cash,True,-19.086836,,False,False,True
+C1907,,Other,74194.17,,P0010,9,952.41,Online Wallet,False,,-149.593975,False,False,True
+C1549,63.0,Other,71812.41,,P0015,2,122.26,Card,True,-12.762717,72.574513,False,False,True
+C2304,,Female,72124.81,2025-09-13,P0009,1,937.19,Cash,True,26.545204,9.761024,False,False,True
+C2041,,Male,59173.49,2025-08-20,P0054,-5,508.41,Online Wallet,False,29.372238,,False,False,True
+C6362,28.0,Other,30585.42,2025-09-15,P0019,-5,646.17,Card,True,,-42.256428,False,False,True
+C6610,,Other,96596.15,2025-09-11,P0072,-5,245.74,Online Wallet,True,,17.785623,False,False,True
+C3291,,Other,100840.67,,P0099,-5,454.16,Cash,True,79.243955,-135.92409,False,False,True
+C2866,40.0,Female,38870.37,2025-09-04,P0079,8,331.88,Cash,True,,-122.133406,False,False,True
+C5122,28.0,Female,113986.18,2025-08-02,P0036,3,442.59,Cash,True,-82.998422,48.086892,False,False,True
+C5100,,Other,40577.29,2025-09-11,P0100,-5,447.53,Online Wallet,True,,89.127541,False,False,True
+C2487,,Other,78309.46,2025-09-02,P0043,8,177.31,Online Wallet,True,-11.548027,,False,False,True
+C1381,,Male,23735.7,2025-08-26,P0037,-5,374.31,Online Wallet,True,,138.125234,False,False,True
+C9125,,Other,108464.95,2025-07-08,P0044,-5,26.34,Cash,False,39.352507,-49.959054,False,False,True
+C4512,45.0,Other,63516.38,,P0077,3,221.6,Cash,False,13.209848,10.36803,False,False,True
+C4358,,Other,69558.87,2025-08-21,P0072,4,503.8,Online Wallet,True,,140.263828,False,False,True
+C4124,,Male,69676.08,2025-09-01,P0071,4,149.01,Online Wallet,True,,82.987307,False,False,True
+C2051,,Female,115160.51,,P0075,4,759.44,Crypto,True,38.176373,,False,False,True
+C8487,,Female,95439.45,,P0049,-5,142.0,Crypto,True,,-61.310507,False,False,True
+C6995,,Female,29630.52,2025-07-21,P0033,8,190.03,Card,False,,122.049327,False,False,True
+C3113,,Other,96461.2,,P0067,7,722.46,Online Wallet,True,-25.259295,,False,False,True
+C7909,49.0,Other,37538.99,,P0067,-5,541.56,Online Wallet,True,-8.29308,,False,False,True
+C5141,,Male,83807.9,,P0019,-5,177.55,Online Wallet,True,-23.185983,-111.988115,False,False,True
+C2877,,Male,79120.31,,P0043,-5,912.46,Online Wallet,True,52.391666,,False,False,True
+C6278,,Other,101779.63,2025-07-05,P0068,9,669.95,Crypto,False,,,False,False,True
+C9192,,Other,56735.58,2025-07-12,P0081,10,444.29,Card,True,0.256099,-77.762389,False,False,True
+C5968,,Other,52818.11,,P0075,-5,951.84,Cash,True,,,False,False,True
+C6134,40.0,Other,45716.31,2025-07-18,P0004,6,249.58,Online Wallet,False,-45.709905,-93.28677,False,False,True
+C8622,66.0,Other,95147.13,,P0030,5,966.15,Online Wallet,False,,,False,False,True
+C5754,,Other,74970.26,,P0001,6,885.92,Card,True,-87.466902,-101.264633,False,False,True
+C9131,22.0,Other,83764.86,2025-09-10,P0067,-5,266.56,Crypto,True,,175.96369,False,False,True
+C1794,,Other,46006.76,,P0086,-5,527.17,Online Wallet,True,60.207118,,False,False,True
+C8728,,Male,76404.24,2025-07-10,P0055,-5,366.79,Card,True,,-148.733303,False,False,True
+C3474,34.0,Female,23023.04,,P0044,-5,245.11,Cash,False,-48.748726,,False,False,True
+C4918,,Male,98095.06,2025-08-29,P0032,-5,118.44,Card,True,-87.366527,,False,False,True
+C8745,,Other,115619.8,2025-09-08,P0035,-5,544.81,Cash,True,,-130.880568,False,False,True
+C8578,35.0,Female,118761.97,2025-08-16,P0012,-5,722.12,Card,True,,75.812113,False,False,True
+C4565,26.0,Female,67757.46,2025-09-17,P0073,-5,401.51,Online Wallet,False,45.187554,,False,False,True
+C3748,33.0,Other,108907.59,,P0064,2,50.97,Cash,False,-24.156176,,False,False,True
+C3772,,Female,83783.63,2025-07-31,P0058,10,641.76,Crypto,True,3.923327,130.077918,False,False,True
+C8172,,Female,45662.08,,P0038,9,55.38,Crypto,True,,30.539211,False,False,True
+C5228,65.0,Other,93324.3,,P0011,2,641.89,Card,False,-44.560864,-80.374359,False,False,True
+C3681,,Male,47401.79,2025-07-04,P0014,-5,634.62,Crypto,True,,,False,False,True
+C8969,50.0,Female,119235.05,,P0013,-5,592.43,Online Wallet,True,,-149.482955,False,False,True
+C9304,,Other,90604.2,,P0016,-5,425.08,Online Wallet,True,-36.095751,21.624923,False,False,True
+C9329,22.0,Other,42158.3,2025-08-11,P0023,-5,241.01,Crypto,False,,-10.545101,False,False,True
+C1030,,Male,89899.34,,P0094,-5,640.58,Cash,True,32.489969,23.060529,False,False,True
+C2057,,Female,59820.97,2025-08-18,P0039,-5,197.23,Cash,True,-13.596671,18.048693,False,False,True
+C6698,21.0,Male,95768.62,,P0067,4,876.08,Crypto,True,72.83059,103.900258,False,False,True
+C6458,62.0,Female,76020.72,,P0034,-5,302.2,Cash,False,-67.284055,,False,False,True
+C3402,,Female,37722.89,2025-08-18,P0067,8,894.93,Cash,False,-2.838459,,False,False,True
+C6606,,Female,80895.26,2025-07-09,P0024,4,583.95,Card,True,,82.700816,False,False,True
+C4828,31.0,Male,38612.85,,P0006,2,421.87,Crypto,False,-13.645872,125.865685,False,False,True
+C4965,64.0,Female,71412.59,2025-07-23,P0003,-5,576.31,Cash,False,-83.928706,,False,False,True
+C1635,,Other,72359.96,,P0024,10,304.5,Crypto,True,-73.165245,161.601664,False,False,True
+C7179,,Male,104933.95,2025-07-27,P0041,5,904.16,Online Wallet,True,,,False,False,True
+C2222,,Female,41991.71,,P0083,5,679.08,Online Wallet,True,59.232993,,False,False,True
+C5261,39.0,Female,67680.6,,P0022,1,785.21,Crypto,True,11.435436,,False,False,True
+C2985,55.0,Female,24878.51,,P0095,-5,62.13,Crypto,False,,137.705426,False,False,True
+C4932,40.0,Other,54682.76,,P0042,-5,452.27,Online Wallet,True,-22.730593,,False,False,True
+C2552,,Male,44235.14,,P0031,5,906.02,Cash,True,15.667356,-87.044591,False,False,True
+C6346,18.0,Other,101195.72,2025-09-23,P0021,4,112.75,Card,True,78.882556,18.796594,False,False,True
+C9324,,Other,108368.98,2025-08-19,P0051,-5,286.51,Online Wallet,False,,,False,False,True
+C4981,,Other,52846.62,2025-09-04,P0065,5,230.96,Crypto,True,-26.511464,,False,False,True
+C1993,,Female,68046.62,2025-07-09,P0014,-5,73.92,Card,True,-80.099322,166.643985,False,False,True
+C6897,46.0,Female,34710.54,2025-09-09,P0055,-5,526.6,Card,True,,148.673695,False,False,True
+C2185,58.0,Other,46556.84,2025-08-30,P0078,5,208.48,Online Wallet,True,,,False,False,True
+C1208,70.0,Female,82826.41,2025-08-12,P0004,-5,532.66,Cash,True,,,False,False,True
+C6989,29.0,Other,76188.12,,P0010,4,233.43,Cash,False,,-58.018335,False,False,True
+C4865,60.0,Other,51009.84,,P0066,-5,189.81,Online Wallet,True,,,False,False,True
+C2385,,Other,49118.03,,P0070,4,211.31,Card,True,,,False,False,True
+C3920,45.0,Other,57939.77,,P0054,4,762.86,Online Wallet,True,,,False,False,True
+C5748,,Other,98854.43,,P0060,4,452.98,Cash,False,,,False,False,True
+C9578,,Male,46004.15,,P0038,10,529.06,Card,False,58.522578,,False,False,True
+C8130,27.0,Male,113312.32,,P0028,-5,924.54,Crypto,True,58.206321,74.702241,False,False,True
+C2482,,Other,41987.41,2025-09-21,P0057,-5,442.21,Card,True,,,False,False,True
+C1794,,Other,94213.74,,P0078,5,834.64,Crypto,False,,,False,False,True
+C8457,40.0,Other,73438.06,,P0091,-5,404.53,Cash,True,,,False,False,True
+C6165,27.0,Female,66555.49,2025-09-11,P0055,-5,259.38,Online Wallet,True,46.070742,-139.513571,False,False,True
+C5900,,Other,74638.96,2025-07-28,P0029,-5,879.62,Crypto,True,,,False,False,True
+C6691,,Other,115868.34,,P0047,-5,452.17,Online Wallet,True,-49.533881,-167.476735,False,False,True
+C7591,27.0,Female,84830.63,,P0030,1,610.64,Online Wallet,True,,,False,False,True
+C5170,51.0,Other,110762.12,2025-07-03,P0072,-5,290.39,Online Wallet,False,,119.915288,False,False,True
+C2486,20.0,Male,24546.5,2025-08-02,P0027,7,603.48,Card,True,,,False,False,True
+C5356,50.0,Other,57440.92,2025-09-20,P0002,-5,529.96,Crypto,False,,,False,False,True
+C8844,35.0,Male,102327.19,2025-08-27,P0039,-5,785.79,Card,True,-60.461826,,False,False,True
+C5100,,Female,71153.99,2025-08-22,P0042,4,90.55,Card,True,-77.662828,95.438252,False,False,True
+C6521,65.0,Other,74651.21,,P0075,7,488.25,Online Wallet,True,,-82.070658,False,False,True
+C9345,60.0,Female,118802.27,,P0006,7,52.12,Cash,True,-2.381565,159.606231,False,False,True
+C6275,54.0,Other,45015.65,,P0088,4,107.65,Cash,False,,,False,False,True
+C2898,55.0,Female,62189.65,,P0034,-5,677.42,Crypto,True,,6.308706,False,False,True
+C5818,,Other,115695.61,,P0015,-5,711.82,Card,True,-14.189704,30.391662,False,False,True
+C4953,58.0,Other,83743.12,,P0043,1,370.07,Card,True,68.951958,-48.508912,False,False,True
+C3610,,Female,35016.35,2025-07-30,P0076,1,738.36,Crypto,True,-44.957022,,False,False,True
+C8664,22.0,Male,36975.74,,P0087,-5,695.9,Crypto,True,,,False,False,True
+C9565,22.0,Other,117292.35,2025-08-30,P0069,8,71.61,Card,False,,145.447644,False,False,True
+C4013,,Other,88149.22,,P0073,-5,690.79,Card,False,,,False,False,True
+C7422,,Male,109381.24,2025-08-29,P0022,-5,38.98,Online Wallet,False,76.98512,,False,False,True
+C1205,,Male,69917.4,,P0086,7,708.38,Cash,True,9.989868,-40.648362,False,False,True
+C2946,61.0,Other,110016.74,,P0056,3,999.51,Card,True,-34.963283,27.401706,False,False,True
+C7726,54.0,Other,84993.43,2025-08-25,P0026,-5,303.24,Cash,False,-24.357892,,False,False,True
+C4839,,Other,77383.05,2025-07-14,P0061,-5,478.77,Online Wallet,True,,108.6783,False,False,True
+C4819,,Other,115072.16,2025-09-22,P0073,8,929.9,Online Wallet,True,21.453737,-72.595823,False,False,True
+C6310,30.0,Male,81812.17,,P0082,-5,694.49,Crypto,False,-33.972425,,False,False,True
+C2596,,Other,107600.64,2025-08-27,P0054,-5,990.06,Card,False,-61.378454,-104.594163,False,False,True
+C9619,45.0,Female,89004.98,2025-07-15,P0093,-5,371.58,Crypto,True,59.469589,-118.440543,False,False,True
+C8587,,Other,97334.09,,P0012,3,984.35,Crypto,True,,,False,False,True
+C4895,,Male,80835.61,,P0029,-5,555.47,Card,True,,-150.345595,False,False,True
+C7157,38.0,Male,48755.92,,P0099,-5,152.02,Crypto,True,46.717917,-1.310996,False,False,True
+C9570,,Other,71063.05,2025-08-22,P0078,-5,896.9,Cash,False,69.055942,167.191885,False,False,True
+C9448,,Other,45691.99,2025-08-04,P0011,-5,422.12,Crypto,True,,,False,False,True
+C7411,60.0,Female,33509.91,2025-09-05,P0003,-5,134.11,Card,True,-78.772835,-132.378794,False,False,True
+C6059,,Other,31691.75,,P0051,-5,929.97,Cash,False,,-0.224101,False,False,True
+C1432,,Other,70404.56,2025-09-25,P0038,-5,491.68,Crypto,True,16.649004,90.611502,False,False,True
+C1770,49.0,Female,51568.04,,P0037,9,777.88,Online Wallet,True,63.091932,,False,False,True
+C1117,68.0,Other,28824.67,2025-09-12,P0008,5,913.4,Crypto,True,,,False,False,True
+C3016,,Other,105498.7,,P0099,1,618.96,Cash,False,-45.273584,-104.737781,False,False,True
+C1826,,Other,94260.27,,P0095,-5,377.07,Crypto,True,-66.152695,,False,False,True
+C6697,55.0,Female,90711.67,2025-07-26,P0064,8,465.77,Card,True,,-74.680703,False,False,True
+C8665,51.0,Other,82436.22,2025-08-14,P0057,-5,254.8,Cash,True,-49.062704,,False,False,True
+C7681,,Male,81273.3,,P0019,10,446.52,Online Wallet,True,-24.745287,-136.113974,False,False,True
+C3854,55.0,Other,77067.17,2025-08-05,P0027,6,948.21,Card,False,45.559355,-127.598492,False,False,True
+C4313,,Other,104911.18,2025-07-09,P0038,10,255.6,Crypto,True,-26.248005,,False,False,True
+C1591,,Other,57774.06,2025-07-12,P0037,8,298.56,Crypto,True,,-118.935475,False,False,True
+C5883,32.0,Female,70249.67,,P0068,-5,312.02,Online Wallet,True,75.276302,69.555082,False,False,True
+C1596,30.0,Other,22928.95,2025-08-25,P0073,9,666.93,Cash,True,,,False,False,True
+C4072,22.0,Other,33993.3,2025-07-30,P0049,10,318.27,Cash,False,,38.486125,False,False,True
+C7364,66.0,Male,37664.73,2025-09-14,P0051,-5,601.21,Card,True,-60.78796,,False,False,True
+C6452,30.0,Other,39639.89,2025-09-03,P0098,-5,43.74,Online Wallet,True,77.197301,,False,False,True
+C8638,62.0,Female,110324.19,,P0064,4,726.76,Cash,False,-14.792758,,False,False,True
+C2870,,Female,22169.91,2025-07-06,P0054,-5,290.06,Card,True,-42.627662,-87.613641,False,False,True
+C8221,,Other,52030.49,,P0064,10,355.73,Online Wallet,True,5.372007,,False,False,True
+C2529,63.0,Other,115038.6,2025-07-17,P0059,-5,540.21,Cash,True,,,False,False,True
+C4959,,Female,112458.37,2025-09-13,P0015,9,287.01,Crypto,True,72.563902,53.506191,False,False,True
+C2072,42.0,Male,45916.53,2025-07-20,P0046,-5,420.45,Online Wallet,True,,147.038362,False,False,True
+C7068,,Other,87473.73,2025-08-09,P0076,4,396.78,Card,True,,164.277815,False,False,True
+C6602,,Male,73582.29,2025-09-18,P0100,-5,641.18,Cash,True,70.338669,,False,False,True
+C8496,69.0,Other,56931.79,2025-07-21,P0086,-5,198.04,Online Wallet,True,,,False,False,True
+C1660,63.0,Female,79353.57,,P0049,10,718.02,Card,True,,,False,False,True
+C6137,,Female,111038.79,,P0078,2,234.61,Cash,True,-58.938614,,False,False,True
+C5669,59.0,Female,59912.38,2025-07-27,P0052,5,175.12,Crypto,False,,,False,False,True
+C5860,,Male,112559.42,2025-09-18,P0007,-5,212.06,Crypto,False,59.190113,-0.816996,False,False,True
+C8638,67.0,Male,54874.83,,P0006,7,874.37,Online Wallet,False,0.276336,,False,False,True
+C6794,,Female,57712.16,,P0075,2,400.22,Cash,False,53.048534,,False,False,True
+C5829,55.0,Male,77164.7,2025-09-27,P0058,4,532.84,Card,False,,-86.01464,False,False,True
+C4409,,Male,83768.82,,P0029,8,928.72,Card,False,,-131.640863,False,False,True
+C9408,28.0,Male,55210.27,2025-09-22,P0052,-5,163.06,Crypto,True,-6.832813,,False,False,True
+C4934,,Male,39617.91,,P0041,-5,198.29,Crypto,True,,130.453104,False,False,True
+C6027,19.0,Female,95400.88,,P0098,7,730.59,Crypto,True,,,False,False,True
+C4593,,Female,101730.39,2025-08-31,P0009,6,912.93,Card,True,6.820548,,False,False,True
+C1258,,Other,88463.42,,P0043,-5,339.1,Cash,True,,63.93344,False,False,True
+C5249,,Female,89505.0,,P0094,2,584.71,Crypto,True,,,False,False,True
+C1551,58.0,Male,65568.68,2025-08-12,P0040,-5,546.88,Online Wallet,True,,79.67936,False,False,True
+C8903,43.0,Male,37339.6,,P0001,-5,230.51,Card,False,-73.402302,,False,False,True
+C5090,,Female,85304.24,,P0009,-5,524.38,Card,True,-33.790408,166.082886,False,False,True
+C4311,60.0,Female,44761.13,,P0013,7,838.67,Card,True,,-35.157124,False,False,True
+C3679,53.0,Other,79214.67,,P0098,-5,38.44,Online Wallet,True,,,False,False,True
+C7081,,Other,63911.95,2025-08-28,P0082,-5,976.37,Online Wallet,False,,,False,False,True
+C4288,19.0,Other,88568.07,,P0074,10,903.4,Card,True,-59.709584,,False,False,True
+C5516,,Male,76541.8,2025-09-25,P0099,2,291.74,Crypto,True,83.703173,,False,False,True
+C7563,32.0,Other,55474.01,2025-07-12,P0001,8,633.56,Online Wallet,False,74.977373,144.633886,False,False,True
+C2965,43.0,Other,104013.85,,P0036,-5,644.43,Crypto,False,-1.307482,-55.518699,False,False,True
+C9663,,Female,60701.15,2025-09-21,P0026,5,773.55,Crypto,True,55.693514,,False,False,True
+C1061,,Other,30429.34,2025-08-21,P0095,-5,637.09,Crypto,True,,,False,False,True
+C3679,68.0,Female,93626.04,,P0041,-5,305.83,Card,False,61.134268,-92.723219,False,False,True
+C2889,70.0,Other,42330.05,,P0070,-5,172.63,Card,True,,162.983389,False,False,True
+C5057,,Other,99774.48,2025-08-24,P0012,-5,371.08,Online Wallet,True,-86.424484,,False,False,True
+C5062,47.0,Other,72253.35,,P0021,2,818.25,Online Wallet,True,1.574472,,False,False,True
+C7523,41.0,Other,34197.82,2025-07-08,P0087,4,368.63,Online Wallet,True,,,False,False,True
+C4600,26.0,Other,102527.97,2025-08-30,P0089,-5,660.96,Cash,True,84.79459,170.313036,False,False,True
+C3962,,Other,96177.72,,P0047,-5,284.81,Card,True,-13.639202,,False,False,True
+C6848,46.0,Male,96480.12,,P0078,-5,997.88,Cash,False,-81.701037,-7.371103,False,False,True
+C5411,51.0,Other,90035.22,,P0044,-5,288.79,Online Wallet,True,-87.811976,67.421198,False,False,True
+C6895,,Other,77817.11,,P0066,4,647.31,Crypto,True,,19.237239,False,False,True
+C4183,19.0,Other,47602.12,2025-09-18,P0058,-5,261.73,Crypto,False,13.600821,-24.99405,False,False,True
+C5604,21.0,Female,78121.23,,P0007,10,35.43,Card,True,,,False,False,True
+C6113,,Other,80156.9,,P0046,-5,343.15,Crypto,True,-22.380483,-147.184196,False,False,True
+C1364,,Male,86014.09,2025-09-21,P0057,-5,810.6,Cash,True,,-93.053414,False,False,True
+C8441,,Other,58847.86,,P0094,-5,395.98,Crypto,True,,6.31531,False,False,True
+C1594,,Other,107989.15,2025-08-19,P0085,-5,384.1,Cash,True,-89.734288,,False,False,True
+C2444,,Male,37794.33,,P0012,1,694.78,Crypto,False,,62.44474,False,False,True
+C3701,,Other,58914.03,2025-09-11,P0068,3,619.57,Crypto,False,-49.705898,,False,False,True
+C9542,,Other,105371.25,,P0079,-5,93.56,Crypto,False,89.376625,104.461597,False,False,True
+C5694,,Other,108858.34,2025-08-15,P0027,4,614.42,Crypto,True,,73.260841,False,False,True
+C4561,,Other,86030.73,,P0026,8,708.65,Cash,True,,,False,False,True
+C5868,,Other,108882.36,2025-07-22,P0056,4,200.65,Crypto,True,,,False,False,True
+C3645,56.0,Other,78363.8,,P0061,8,869.68,Crypto,True,53.299494,150.83547,False,False,True
+C8442,,Other,48402.91,,P0078,-5,686.58,Card,False,,,False,False,True
+C5949,,Male,70420.19,2025-07-25,P0001,-5,129.05,Crypto,True,,,False,False,True
+C9038,21.0,Other,78864.74,,P0083,-5,711.85,Card,True,,0.425744,False,False,True
+C5296,,Female,68283.59,,P0080,2,566.42,Cash,True,5.192329,166.448617,False,False,True
+C9043,20.0,Female,111689.49,,P0034,-5,251.24,Online Wallet,False,-43.809837,-65.099065,False,False,True
+C7730,,Other,47715.21,,P0004,7,257.38,Card,True,,93.169492,False,False,True
+C9463,,Female,21454.41,2025-09-13,P0089,-5,492.46,Cash,True,-24.261513,,False,False,True
+C2259,,Female,108960.25,2025-07-07,P0093,-5,393.58,Crypto,False,,,False,False,True
+C6479,44.0,Other,53992.77,2025-08-23,P0082,-5,836.98,Crypto,True,,151.537848,False,False,True
+C7266,19.0,Other,116573.84,,P0006,-5,25.11,Crypto,True,,26.882249,False,False,True
+C8211,,Female,100963.94,,P0091,-5,398.24,Crypto,True,26.270365,,False,False,True
+C3900,22.0,Other,20731.67,2025-09-24,P0087,-5,919.86,Crypto,False,,-100.248371,False,False,True
+C7186,,Male,100995.78,,P0097,4,263.06,Online Wallet,False,-86.894407,,False,False,True
+C6285,61.0,Female,20784.97,2025-09-14,P0006,-5,863.52,Card,True,,,False,False,True
+C3616,,Other,66644.24,2025-07-13,P0014,-5,507.03,Online Wallet,True,,21.03299,False,False,True
+C1923,46.0,Other,117322.09,,P0054,5,456.26,Crypto,True,,-56.150356,False,False,True
+C6986,27.0,Female,60841.89,,P0016,1,170.58,Crypto,True,-66.48007,,False,False,True
+C8738,,Other,98173.96,,P0089,5,983.99,Online Wallet,False,,,False,False,True
+C5743,56.0,Other,113572.76,2025-08-25,P0046,-5,91.34,Crypto,True,,88.131691,False,False,True
+C3857,,Female,24094.02,,P0040,6,702.02,Card,False,-18.283851,40.068535,False,False,True
+C9848,36.0,Other,110187.46,2025-07-08,P0044,1,760.38,Cash,False,57.149659,-71.003034,False,False,True
+C2600,,Other,64851.13,2025-09-19,P0054,7,408.15,Online Wallet,True,,-158.39533,False,False,True
+C4385,,Other,61436.47,,P0050,5,465.08,Crypto,True,,-24.984943,False,False,True
+C9703,19.0,Male,74056.24,,P0044,-5,402.38,Card,True,,-29.428457,False,False,True
+C2229,,Other,113256.99,2025-09-22,P0062,1,702.13,Card,False,,-26.219911,False,False,True
+C2918,20.0,Female,53245.18,,P0046,9,61.38,Cash,False,,,False,False,True
+C3563,,Other,107610.25,,P0028,3,345.25,Online Wallet,True,,-60.840091,False,False,True
+C9759,19.0,Female,104939.33,,P0056,10,473.96,Online Wallet,True,,,False,False,True
+C3898,64.0,Other,119527.09,,P0089,9,88.04,Card,True,,,False,False,True
+C9971,56.0,Other,68144.24,,P0051,-5,932.11,Cash,False,-43.858059,,False,False,True
+C5464,,Female,97621.65,,P0059,-5,309.36,Online Wallet,True,,98.316313,False,False,True
+C9655,59.0,Male,93036.33,,P0006,-5,690.93,Card,True,,,False,False,True
+C8819,,Other,32302.26,,P0083,-5,325.51,Online Wallet,True,-32.944963,-64.533113,False,False,True
+C8152,,Other,116411.79,2025-08-21,P0058,-5,158.54,Crypto,True,,,False,False,True
+C6604,42.0,Female,20992.43,,P0053,-5,579.16,Card,False,-33.576366,,False,False,True
+C6588,,Other,68471.22,2025-08-08,P0008,-5,213.92,Card,True,-73.980314,,False,False,True
+C2481,,Other,32317.69,,P0017,6,872.29,Card,True,,119.050049,False,False,True
+C1558,,Female,36821.46,,P0046,-5,271.7,Online Wallet,True,64.058028,,False,False,True
+C8024,59.0,Male,29001.28,2025-07-19,P0025,9,812.75,Card,True,-41.514243,,False,False,True
+C7725,54.0,Male,83189.6,2025-09-05,P0009,9,228.71,Cash,True,-30.352003,-131.222821,False,False,True
+C3701,33.0,Other,34992.77,2025-07-05,P0097,9,572.42,Online Wallet,True,,-134.795828,False,False,True
+C7443,59.0,Other,77853.95,,P0098,3,886.22,Cash,True,,90.299583,False,False,True
+C7934,,Female,98576.28,,P0036,8,514.88,Cash,False,,,False,False,True
+C5905,,Female,100946.29,,P0080,5,580.6,Online Wallet,True,81.012737,-25.990561,False,False,True
+C5224,,Other,61280.04,,P0073,8,322.54,Cash,True,,-22.032634,False,False,True
+C7116,,Male,39560.74,,P0086,5,76.97,Online Wallet,False,,-159.709105,False,False,True
+C1148,28.0,Female,87727.52,2025-08-08,P0043,-5,690.01,Card,True,-83.308805,,False,False,True
+C1532,,Female,36899.29,2025-09-11,P0026,10,284.0,Cash,False,,,False,False,True
+C3102,,Other,51118.64,2025-07-16,P0011,4,235.36,Card,False,-78.397887,-66.194827,False,False,True
+C8703,44.0,Other,80392.32,2025-07-29,P0009,1,159.68,Cash,True,-85.362698,,False,False,True
+C2535,,Male,48477.43,2025-07-30,P0069,5,734.89,Cash,True,-70.453178,,False,False,True
+C4966,,Other,47605.28,,P0031,2,934.95,Online Wallet,True,,118.785763,False,False,True
+C3521,,Other,79453.26,,P0015,3,219.81,Card,True,76.251614,,False,False,True
+C7200,52.0,Other,64793.02,2025-07-08,P0083,7,66.03,Online Wallet,True,,,False,False,True
+C9708,21.0,Other,54802.76,,P0065,-5,482.33,Cash,False,,,False,False,True
+C9226,,Male,36346.34,,P0018,4,242.52,Crypto,True,-64.757623,,False,False,True
+C6949,,Male,70371.7,,P0048,-5,598.94,Online Wallet,False,,,False,False,True
+C1812,,Other,49095.68,,P0043,4,258.98,Cash,False,,,False,False,True
+C5058,39.0,Male,53532.76,2025-08-20,P0029,8,713.74,Crypto,True,,,False,False,True
+C6525,,Other,41775.11,2025-07-15,P0071,3,726.66,Crypto,True,,47.474666,False,False,True
+C4988,,Other,78580.02,2025-07-20,P0024,-5,278.12,Card,True,,167.312111,False,False,True
+C3983,,Other,73519.1,,P0099,4,576.01,Crypto,False,88.431605,,False,False,True
+C3429,,Female,42536.52,2025-08-08,P0011,5,162.52,Card,True,70.681187,-135.659134,False,False,True
+C4790,,Male,83472.72,2025-07-10,P0054,-5,423.13,Card,True,,,False,False,True
+C7327,,Other,47472.4,2025-07-22,P0028,-5,765.05,Card,False,,135.435026,False,False,True
+C4348,,Female,95784.25,2025-07-05,P0053,10,318.3,Card,True,,136.116899,False,False,True
+C9357,62.0,Other,91993.8,,P0024,2,613.94,Card,True,-61.699308,-100.83365,False,False,True
+C8057,,Other,87999.25,,P0047,-5,372.91,Cash,True,,,False,False,True
+C8796,20.0,Female,55375.54,2025-08-19,P0034,5,810.92,Online Wallet,False,,,False,False,True
+C6770,22.0,Female,21047.65,,P0016,-5,800.53,Online Wallet,True,68.462211,,False,False,True
+C8166,27.0,Female,24803.09,2025-07-11,P0049,-5,899.1,Card,True,,,False,False,True
+C3028,57.0,Other,48393.54,,P0021,7,463.04,Online Wallet,True,-29.570425,,False,False,True
+C9811,18.0,Other,47240.03,2025-08-25,P0089,6,653.55,Card,True,-22.909105,,False,False,True
+C1829,,Other,23906.06,2025-08-24,P0097,-5,193.6,Card,True,,138.67355,False,False,True
+C2250,39.0,Female,102227.01,2025-08-08,P0066,-5,369.02,Card,False,,,False,False,True
+C2431,63.0,Other,93059.29,2025-07-23,P0037,-5,367.89,Online Wallet,True,,,False,False,True
+C9198,19.0,Female,77648.04,2025-08-10,P0002,5,619.19,Cash,False,,-139.623526,False,False,True
+C8107,,Female,82714.36,2025-08-16,P0063,3,946.0,Crypto,True,-17.545117,,False,False,True
+C8728,67.0,Other,106458.42,2025-07-13,P0099,5,508.09,Crypto,False,,,False,False,True
+C8595,,Female,100754.63,2025-07-26,P0065,-5,745.18,Cash,False,,4.065356,False,False,True
+C4016,44.0,Female,77126.16,2025-08-17,P0074,-5,376.51,Crypto,True,,,False,False,True
+C9526,,Other,76852.24,2025-08-28,P0063,-5,944.6,Crypto,True,-87.149759,,False,False,True
+C8887,,Other,73035.53,2025-07-15,P0078,-5,872.91,Card,True,,,False,False,True
+C6783,,Male,107087.17,2025-08-02,P0054,8,554.01,Cash,True,-71.601348,170.011078,False,False,True
+C8354,,Female,44399.53,,P0073,9,546.45,Online Wallet,False,,92.364457,False,False,True
+C8323,65.0,Female,34201.05,,P0068,-5,657.21,Card,False,,,False,False,True
+C7709,48.0,Male,41702.8,,P0095,-5,828.93,Card,True,,,False,False,True
+C1033,,Male,110022.09,,P0028,2,483.92,Cash,True,,65.856935,False,False,True
+C4546,,Other,44792.7,2025-07-31,P0022,6,949.3,Online Wallet,True,77.426584,,False,False,True
+C3630,,Female,62885.38,,P0095,-5,30.24,Online Wallet,True,,,False,False,True
+C9780,21.0,Male,41529.14,2025-07-07,P0054,-5,68.4,Online Wallet,False,14.125912,,False,False,True
+C6501,,Male,117285.1,2025-08-16,P0039,1,977.86,Crypto,True,64.145669,9.841166,False,False,True
+C8014,,Male,31885.69,2025-09-11,P0020,3,165.58,Online Wallet,True,-31.004661,,False,False,True
+C1743,19.0,Other,108746.9,,P0035,4,267.31,Card,True,,,False,False,True
+C1944,47.0,Male,46992.57,,P0088,-5,743.24,Crypto,True,-53.533835,158.656828,False,False,True
+C7977,,Other,92740.28,,P0041,9,455.24,Card,True,,,False,False,True
+C4565,50.0,Other,62457.89,2025-08-01,P0028,-5,350.32,Card,True,-75.738786,-0.083058,False,False,True
+C7242,,Other,41439.85,,P0090,1,161.59,Crypto,False,-43.653775,,False,False,True
+C7151,,Other,70149.04,2025-09-02,P0008,-5,627.13,Online Wallet,True,,,False,False,True
+C5135,23.0,Male,90719.32,2025-07-11,P0089,4,640.35,Card,False,,,False,False,True
+C2751,,Female,84642.7,2025-07-17,P0091,9,688.78,Online Wallet,True,-86.454209,,False,False,True
+C1662,,Other,39211.92,,P0071,2,716.59,Cash,True,10.182453,65.937334,False,False,True
+C2921,,Other,101306.42,,P0021,-5,633.88,Cash,False,-77.471138,168.992306,False,False,True
+C1315,38.0,Male,57842.83,2025-07-24,P0039,4,585.41,Cash,True,,-167.665691,False,False,True
+C9848,21.0,Female,64216.47,2025-08-31,P0055,9,107.23,Cash,True,-13.218155,75.14571,False,False,True
+C1617,26.0,Male,71933.1,2025-09-04,P0069,7,732.72,Online Wallet,True,,-130.402591,False,False,True
+C4224,,Other,20524.41,2025-09-23,P0072,7,287.56,Cash,False,-42.235063,,False,False,True
+C5183,,Other,119047.13,,P0013,-5,840.41,Cash,True,28.030216,,False,False,True
+C1648,61.0,Male,112959.69,,P0088,4,277.04,Crypto,True,-35.264913,,False,False,True
+C4506,,Other,60185.72,2025-07-19,P0048,4,798.89,Crypto,True,-6.395189,-118.879672,False,False,True
+C8160,,Female,78445.61,,P0036,-5,763.48,Cash,False,60.940846,-2.008146,False,False,True
+C6952,35.0,Female,59669.27,2025-08-14,P0099,5,879.34,Card,True,33.311503,,False,False,True
+C9927,31.0,Female,108212.3,,P0049,-5,774.1,Cash,False,84.47373,22.83891,False,False,True
+C9824,,Female,37579.09,2025-07-11,P0014,3,160.89,Crypto,True,13.746209,,False,False,True
+C2273,37.0,Other,113528.9,2025-09-11,P0014,-5,66.37,Crypto,True,-33.359815,,False,False,True
+C6923,27.0,Other,110002.16,,P0086,-5,991.34,Crypto,True,,,False,False,True
+C3675,,Female,44368.13,2025-09-08,P0071,-5,186.74,Card,True,,,False,False,True
+C9561,21.0,Other,77301.97,2025-08-26,P0084,-5,479.4,Online Wallet,True,,,False,False,True
+C8659,,Other,96165.44,2025-08-25,P0024,8,555.31,Online Wallet,True,,,False,False,True
+C4914,19.0,Other,92205.18,2025-09-11,P0071,6,652.15,Cash,False,,134.706499,False,False,True
+C2013,,Female,113555.64,,P0003,-5,716.66,Crypto,False,76.281743,,False,False,True
+C9841,,Male,35533.86,,P0019,2,15.22,Cash,False,,,False,False,True
+C5516,64.0,Other,35340.86,,P0088,7,401.01,Online Wallet,False,87.063863,,False,False,True
+C9698,18.0,Other,51609.75,2025-09-25,P0025,6,743.91,Crypto,True,,,False,False,True
+C4536,,Other,75765.62,2025-08-24,P0062,-5,326.08,Crypto,False,,-160.753126,False,False,True
+C8527,,Male,58782.7,,P0074,3,315.15,Cash,False,-40.632108,,False,False,True
+C6863,22.0,Other,78217.45,2025-08-16,P0058,-5,475.78,Online Wallet,True,75.498244,-106.885822,False,False,True
+C5812,,Other,78193.9,,P0021,-5,236.62,Online Wallet,True,,,False,False,True
+C9478,,Male,109010.46,2025-09-26,P0087,-5,795.17,Crypto,False,,,False,False,True
+C3061,69.0,Female,28448.61,2025-08-26,P0058,8,972.93,Cash,False,-59.82246,35.309205,False,False,True
+C4117,,Other,38571.24,,P0037,5,909.65,Crypto,True,64.643028,,False,False,True
+C7487,40.0,Male,85196.14,2025-08-12,P0087,-5,676.07,Card,True,-11.662297,,False,False,True
+C4012,58.0,Female,101661.84,2025-09-11,P0088,9,596.42,Online Wallet,True,30.376333,-44.454073,False,False,True
+C3811,69.0,Female,110009.87,,P0030,-5,364.74,Crypto,True,,-14.802004,False,False,True
+C7305,,Female,92846.49,,P0065,4,924.98,Crypto,True,,-60.334797,False,False,True
+C9581,,Female,58254.18,,P0098,-5,209.43,Cash,True,,,False,False,True
+C1961,36.0,Female,118444.83,,P0032,-5,237.43,Online Wallet,True,,-2.47449,False,False,True
+C3389,23.0,Female,41502.12,2025-09-17,P0057,-5,694.86,Cash,True,,,False,False,True
+C9364,63.0,Female,62631.21,2025-09-17,P0096,4,684.88,Online Wallet,True,,,False,False,True
+C3925,36.0,Other,114000.8,,P0029,-5,779.36,Card,True,,,False,False,True
+C4440,65.0,Other,76726.41,2025-08-05,P0001,6,105.87,Crypto,True,,5.109029,False,False,True
+C6780,26.0,Other,100274.78,,P0099,-5,410.1,Cash,True,-48.575683,58.125714,False,False,True
+C7091,65.0,Other,78705.28,,P0057,-5,375.35,Cash,True,,24.170227,False,False,True
+C1695,69.0,Other,77223.57,,P0074,-5,465.52,Crypto,False,,,False,False,True
+C6179,,Other,99505.45,,P0046,-5,828.52,Crypto,False,-89.710153,,False,False,True
+C4932,,Male,118253.48,2025-09-20,P0056,-5,106.77,Cash,True,-82.182827,-38.411837,False,False,True
+C7352,18.0,Other,36274.43,,P0029,-5,162.57,Crypto,False,,,False,False,True
+C7643,63.0,Male,56584.13,2025-08-24,P0083,6,522.94,Online Wallet,False,67.629105,,False,False,True
+C8228,37.0,Other,21364.52,2025-09-05,P0050,-5,128.68,Crypto,False,58.913924,-69.014092,False,False,True
+C6075,,Other,51652.12,,P0089,2,279.2,Cash,True,-4.39996,,False,False,True
+C4000,53.0,Male,20623.41,,P0049,-5,754.05,Card,False,,,False,False,True
+C2818,34.0,Female,25207.59,,P0094,-5,851.05,Crypto,True,53.519676,,False,False,True
+C2249,37.0,Other,53566.43,2025-08-04,P0034,5,619.62,Cash,True,,-14.926127,False,False,True
+C9362,45.0,Male,46632.52,2025-07-18,P0028,-5,328.02,Cash,True,27.785319,3.523942,False,False,True
+C9330,,Other,56586.12,,P0045,5,977.75,Cash,True,,,False,False,True
+C5076,,Male,113167.95,2025-07-15,P0041,-5,47.68,Card,True,82.897023,3.079122,False,False,True
+C3827,52.0,Male,32273.9,2025-07-29,P0066,-5,717.15,Card,True,83.54283,-111.933101,False,False,True
+C4239,40.0,Other,85206.31,2025-07-03,P0096,7,388.99,Crypto,True,13.125134,-114.013113,False,False,True
+C5840,,Other,38906.49,2025-08-26,P0097,2,170.04,Card,False,6.979996,-179.514519,False,False,True
+C7088,,Female,113583.52,,P0033,-5,326.32,Crypto,False,38.593969,,False,False,True
+C5346,,Male,51187.02,2025-07-08,P0053,-5,438.23,Card,True,81.026333,,False,False,True
+C8361,22.0,Male,102926.23,2025-09-21,P0020,2,206.3,Cash,True,,-29.874453,False,False,True
+C2080,51.0,Other,50631.32,,P0070,4,630.75,Card,False,,114.400698,False,False,True
+C5550,,Male,77357.77,,P0043,7,391.75,Online Wallet,True,-79.403834,,False,False,True
+C9347,,Other,75700.03,2025-08-14,P0084,3,55.98,Cash,False,,,False,False,True
+C6653,,Male,69889.03,,P0039,-5,222.32,Card,True,-65.447972,-87.557147,False,False,True
+C4195,,Other,40065.0,2025-07-17,P0016,-5,787.89,Card,False,-62.276184,,False,False,True
+C5020,,Male,111858.73,2025-08-30,P0029,5,618.68,Card,False,-34.247714,,False,False,True
+C3986,22.0,Other,47379.86,2025-08-21,P0053,4,17.47,Online Wallet,True,-25.714564,-164.168249,False,False,True
+C2744,,Female,88795.6,,P0018,6,513.79,Card,True,87.062808,-7.363256,False,False,True
+C4638,70.0,Other,24803.58,,P0022,-5,218.53,Online Wallet,False,44.162787,,False,False,True
+C4384,63.0,Other,106152.95,,P0006,7,464.89,Card,True,,,False,False,True
+C9249,,Male,115765.14,,P0061,6,693.58,Crypto,True,,,False,False,True
+C7284,18.0,Male,78553.82,2025-09-24,P0016,8,588.95,Cash,False,,100.107153,False,False,True
+C7977,48.0,Other,112436.47,,P0029,5,686.14,Card,True,32.927659,,False,False,True
+C8658,,Other,34866.67,2025-08-23,P0029,1,574.28,Card,False,-61.58641,,False,False,True
+C9286,37.0,Other,24000.32,2025-08-25,P0057,-5,254.5,Cash,False,,,False,False,True
