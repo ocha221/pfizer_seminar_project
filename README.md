@@ -5,8 +5,8 @@
 
 ---
 
-## Models
-
+## Models 
+#### 70/20/(10/5) train/validate/test split
 ### Regression
 
 - **regressor-small**: trained on income_fill (9k entries, imputed spend_amount)
@@ -18,6 +18,7 @@
 - **classifier-medium**: trained on balanced_is_returning (6k entries, some from imputed spend_amount)
 - **classifier-large**: trained on balanced_spend_amount (18k entries, same as regressor-large)
 
+
 ---
 
 `balanced_spend_amount` is produced by:
@@ -27,7 +28,7 @@
 3. To remediate this we split the dataset into value bins (steps of 30 seems performant) by spend_amount
 4. The bins near the median `bin_median` should have a higher number of entries
 5. For each `bin_x` we calculate: `bin_median.entry_count - bin_x.entry_count`
-6. Randomly sample `num` ***non-inferred*** entries from within `bin_x` and create synthetic entries till there is equal representation
+6. Sample `num` ***non-inferred*** entries from within `bin_x` and create synthetic entries till there is equal representation
 
 ### Example Entry Structure
 
